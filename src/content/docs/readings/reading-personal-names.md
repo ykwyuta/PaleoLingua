@@ -1,6 +1,7 @@
 ---
 title: シュメール語の人名を読む
 description: シュメール語の人名の多くが「文」として作られていること、そして代表的な王名・人名の構造をやさしく解説する。
+topic: sumerian
 sidebar:
   order: 3
 ---

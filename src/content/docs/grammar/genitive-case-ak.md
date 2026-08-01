@@ -1,6 +1,7 @@
 ---
 title: 属格 -ak
 description: シュメール語の属格接尾辞 -ak の形態変化（後続音による -ak と -a の交替）と、属格連鎖の実例を詳しく解説する。
+topic: sumerian
 sidebar:
   order: 5
 ---

@@ -1,6 +1,7 @@
 ---
 title: コピュラ「〜である」（me / -am3）
 description: シュメール語の繋辞（コピュラ）表現――名詞述語に直接付く接尾辞 -am3 と、存在文で使われる動詞 me を解説する。
+topic: sumerian
 sidebar:
   order: 11
 ---

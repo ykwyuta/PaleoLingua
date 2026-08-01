@@ -1,6 +1,7 @@
 ---
 title: シュメール語の能格・絶対格
 description: 能格言語であるシュメール語における能格(-e)と絶対格(無標)の基本的な仕組みを解説します。
+topic: sumerian
 sidebar:
   order: 1
 ---

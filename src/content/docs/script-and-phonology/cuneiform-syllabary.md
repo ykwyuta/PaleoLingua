@@ -1,6 +1,7 @@
 ---
 title: 音節文字としての楔形文字
 description: 楔形文字における音節記号（CV・VC・CVC）の仕組みと、同音記号を区別する索引番号の使い方を解説する。
+topic: sumerian
 sidebar:
   order: 5
 ---

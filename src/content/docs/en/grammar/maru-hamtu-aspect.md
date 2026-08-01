@@ -1,6 +1,7 @@
 ---
 title: "Marû and Ḫamṭu Verb Stems (Aspect)"
 description: The basic aspectual opposition between Sumerian's two verb stems, ḫamṭu (perfective) and marû (imperfective), with a classic example of stem suppletion.
+topic: sumerian
 sidebar:
   order: 9
 ---

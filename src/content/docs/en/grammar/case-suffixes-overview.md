@@ -1,6 +1,7 @@
 ---
 title: Overview of Case Suffixes
 description: A summary table of Sumerian's main case suffixes — absolutive, ergative, genitive, dative, locative, and more — as a map of the whole system.
+topic: sumerian
 sidebar:
   order: 4
 ---

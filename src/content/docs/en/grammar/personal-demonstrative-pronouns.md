@@ -1,6 +1,7 @@
 ---
 title: Personal and Demonstrative Pronouns
 description: Sumerian's independent personal pronouns (1st person ĝe26-e, 2nd person za-e) and the demonstrative/anaphoric element bi.
+topic: sumerian
 sidebar:
   order: 10
 ---

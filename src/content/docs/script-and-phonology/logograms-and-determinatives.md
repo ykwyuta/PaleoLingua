@@ -1,6 +1,7 @@
 ---
 title: 表語文字と限定符（デテルミナティヴ）
 description: 単語を丸ごと表す表語文字と、意味の分類を示すために添えられる無音の限定符（決定符）の使い方を解説する。
+topic: sumerian
 sidebar:
   order: 6
 ---

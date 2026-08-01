@@ -15,7 +15,8 @@ hero:
       variant: minimal
 ---
 
-import { Card, CardGrid, Aside, LinkCard } from '@astrojs/starlight/components';
+import { Aside, LinkCard } from '@astrojs/starlight/components';
+import ArticleThumbnailGrid from '../../../components/ArticleThumbnailGrid.astro';
 
 <Aside type="tip" title="This is an experimental project">
   Every article on PaleoLingua is researched and written not by a human
@@ -63,19 +64,19 @@ keeping labor and server costs close to ¥0, the project is a live test of
 how far AI alone can sustain content that was previously considered
 economically unviable.
 
-## What's covered
+## Articles
 
-<CardGrid>
-  <Card title="Script & Phonology" icon="pencil">
-    How to read cuneiform, transliteration rules, hieroglyphic determinatives, and more.
-  </Card>
-  <Card title="Basic Grammar" icon="open-book">
-    Ergative-absolutive systems, case paradigms, and other grammar of ancient languages, explained systematically.
-  </Card>
-  <Card title="Readings & Examples" icon="document">
-    Bilingual (ja/en) annotated texts such as the Code of Hammurabi and the Epic of Gilgamesh.
-  </Card>
-</CardGrid>
+### Script & Phonology
+
+<ArticleThumbnailGrid locale="en" category="script-and-phonology" />
+
+### Basic Grammar
+
+<ArticleThumbnailGrid locale="en" category="grammar" />
+
+### Readings & Examples
+
+<ArticleThumbnailGrid locale="en" category="readings" />
 
 ## How it's run
 

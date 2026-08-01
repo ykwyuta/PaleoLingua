@@ -1,6 +1,7 @@
 ---
 title: "Reading Your First Sentence: A Royal Building Inscription"
 description: A close reading of the formulaic "PN built temple X for the god/goddess" sentence found throughout Sumerian royal inscriptions.
+topic: sumerian
 sidebar:
   order: 2
 ---

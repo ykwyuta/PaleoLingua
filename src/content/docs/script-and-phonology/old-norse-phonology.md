@@ -1,6 +1,7 @@
 ---
 title: 古ノルド語の音韻体系
 description: 古ノルド語の母音・子音体系、長短の対立、そして名詞・動詞変化に頻出するi-ウムラウトとu-ウムラウトの仕組みを解説する。
+topic: old-norse
 sidebar:
   order: 14
 ---

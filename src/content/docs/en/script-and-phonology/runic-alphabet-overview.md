@@ -1,6 +1,7 @@
 ---
 title: "Overview of the Runic Alphabet: From Elder to Younger Futhark"
 description: The origin of the runic alphabet used to write the Germanic languages, its features as a writing system, and its development from the Elder to the Younger Futhark.
+topic: old-norse
 sidebar:
   order: 9
 ---

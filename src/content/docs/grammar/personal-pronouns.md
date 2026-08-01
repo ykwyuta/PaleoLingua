@@ -1,6 +1,7 @@
 ---
 title: 人称代名詞
 description: 古ノルド語人称代名詞の格変化表と、現代の多くのゲルマン語には失われた「両数（二人称・二人）」の仕組みを解説する。
+topic: old-norse
 sidebar:
   order: 18
 ---

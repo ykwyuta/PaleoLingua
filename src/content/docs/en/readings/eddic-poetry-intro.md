@@ -1,6 +1,7 @@
 ---
 title: Introduction to Eddic Poetry
 description: An introduction to the Poetic Edda, the collection of Old Norse poems on gods and heroes — its transmission, its alliterative meter, and its major works.
+topic: old-norse
 sidebar:
   order: 6
 ---

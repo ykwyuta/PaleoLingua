@@ -1,6 +1,7 @@
 ---
 title: 'The Copula "to be" (me / -am3)'
 description: Sumerian copular constructions — the suffix -am3 attached directly to a predicate noun, and the independent verb me used in existential contexts.
+topic: sumerian
 sidebar:
   order: 11
 ---

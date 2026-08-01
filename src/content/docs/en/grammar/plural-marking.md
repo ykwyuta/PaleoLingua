@@ -1,6 +1,7 @@
 ---
 title: How Sumerian Marks Plurals
 description: Three ways Sumerian expresses plurality — the human plural suffix -ene, reduplication for totality, and suppletive verb stems.
+topic: sumerian
 sidebar:
   order: 7
 ---

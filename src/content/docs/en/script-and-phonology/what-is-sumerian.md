@@ -1,6 +1,7 @@
 ---
 title: What Is Sumerian?
 description: A first look at Sumerian — where and when it was spoken, its status as a language isolate, and the surviving corpus of texts.
+topic: sumerian
 sidebar:
   order: 2
 ---

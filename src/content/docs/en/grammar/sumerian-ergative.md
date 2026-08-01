@@ -1,6 +1,7 @@
 ---
 title: Sumerian Ergative and Absolutive Case
 description: An introduction to the ergative (-e) and absolutive (unmarked) case system of Sumerian, an ergative language.
+topic: sumerian
 sidebar:
   order: 1
 ---

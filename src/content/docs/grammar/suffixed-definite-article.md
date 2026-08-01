@@ -1,6 +1,7 @@
 ---
 title: 定冠詞の接尾辞化
 description: 古ノルド語の定冠詞が独立した単語ではなく名詞に接尾辞として融合した経緯と、-inn/-in/-ittの変化パターンを解説する。
+topic: old-norse
 sidebar:
   order: 14
 ---

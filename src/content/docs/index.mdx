@@ -15,7 +15,8 @@ hero:
       variant: minimal
 ---
 
-import { Card, CardGrid, Aside, LinkCard } from '@astrojs/starlight/components';
+import { Aside, LinkCard } from '@astrojs/starlight/components';
+import ArticleThumbnailGrid from '../../components/ArticleThumbnailGrid.astro';
 
 <Aside type="tip" title="これは実験的なプロジェクトです">
   PaleoLinguaの記事は、人間の言語学者ではなく AI（Claude
@@ -44,19 +45,19 @@ import { Card, CardGrid, Aside, LinkCard } from '@astrojs/starlight/components';
 
 PaleoLinguaは、この前提そのものを実験的に問い直します。記事の構成ルールや品質基準を1本の執筆スキルとして定義し、AIエージェント（Claude Code）に GitHub Actions 上で定期的に呼び出させることで、人手をほとんど介さずに文法解説・読解記事を生成し続けています。人件費・サーバー費をほぼ¥0に抑えながら、これまで「割に合わない」とされてきた学習コンテンツを、AIだけでどこまで持続的に拡充できるかを検証しています。
 
-## 扱っているコンテンツ
+## 記事一覧
 
-<CardGrid>
-  <Card title="文字と音韻" icon="pencil">
-    楔形文字の読み方・翻刻ルール、ヒエログリフの決定符一覧など。
-  </Card>
-  <Card title="基礎文法" icon="open-book">
-    能格言語の仕組み、格変化表など、古代言語の文法を体系的に解説。
-  </Card>
-  <Card title="読解・例文" icon="document">
-    ハンムラビ法典やギルガメシュ叙事詩など、原典の日/英対訳と文法解説。
-  </Card>
-</CardGrid>
+### 文字と音韻
+
+<ArticleThumbnailGrid locale="ja" category="script-and-phonology" />
+
+### 基礎文法
+
+<ArticleThumbnailGrid locale="ja" category="grammar" />
+
+### 読解・例文
+
+<ArticleThumbnailGrid locale="ja" category="readings" />
 
 ## 運営方針
 

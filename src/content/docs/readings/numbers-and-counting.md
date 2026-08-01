@@ -1,6 +1,7 @@
 ---
 title: 数字と数え方
 description: シュメール語の六十進法を基盤とした数体系と、楔形文字の数字記号、そして1〜10の数詞を紹介する。
+topic: sumerian
 sidebar:
   order: 4
 ---

@@ -1,6 +1,7 @@
 ---
 title: Cuneiform as a Syllabary
 description: How cuneiform syllabograms (CV, VC, CVC) work, and how index numbers distinguish signs that share the same sound.
+topic: sumerian
 sidebar:
   order: 5
 ---

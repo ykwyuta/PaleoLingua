@@ -1,6 +1,7 @@
 ---
 title: 楔形文字の書き方と方向
 description: 葦の尖筆で刻まれる楔（くさび）の種類と、文字の書字方向が90度回転した歴史的経緯を解説する。
+topic: sumerian
 sidebar:
   order: 4
 ---

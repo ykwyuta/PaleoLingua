@@ -1,6 +1,7 @@
 ---
 title: Basic Word Order (SOV)
 description: Sumerian clauses are Subject-Object-Verb, while modifiers inside a noun phrase follow the noun instead of preceding it.
+topic: sumerian
 sidebar:
   order: 2
 ---

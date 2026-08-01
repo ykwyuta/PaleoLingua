@@ -1,6 +1,7 @@
 ---
 title: シュメール語の基本語順（SOV）
 description: シュメール語の文が主語ー目的語ー動詞（SOV）の順で並ぶこと、そして名詞句内部の語順が節とは逆になる仕組みを解説する。
+topic: sumerian
 sidebar:
   order: 2
 ---

@@ -1,6 +1,7 @@
 ---
 title: Reading the Rök Stone Inscription
 description: A close reading of the opening dedication of the Rök stone in Sweden, the longest known runic inscription, with transliteration, word-by-word gloss, and translation.
+topic: old-norse
 sidebar:
   order: 8
 ---

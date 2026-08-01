@@ -1,6 +1,7 @@
 ---
 title: 代名詞（人称代名詞・指示代名詞）
 description: シュメール語の独立人称代名詞（1人称 ĝe26-e、2人称 za-e）と、指示・照応に用いられる bi の基本的な使い方を紹介する。
+topic: sumerian
 sidebar:
   order: 10
 ---

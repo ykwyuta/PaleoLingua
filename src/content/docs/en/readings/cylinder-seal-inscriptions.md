@@ -1,6 +1,7 @@
 ---
 title: Reading Cylinder Seal Inscriptions
 description: A formulaic "PN, son of PN2, servant of PN3" cylinder seal inscription used as practice for combining names, genitive chains, and title vocabulary.
+topic: sumerian
 sidebar:
   order: 5
 ---

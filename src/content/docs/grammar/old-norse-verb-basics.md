@@ -1,6 +1,7 @@
 ---
 title: 動詞活用の基礎
 description: 古ノルド語動詞の基本構造――不定詞語尾、人称・数による現在形・過去形の活用パターンを、弱変化動詞kallaを例に解説する。
+topic: old-norse
 sidebar:
   order: 15
 ---

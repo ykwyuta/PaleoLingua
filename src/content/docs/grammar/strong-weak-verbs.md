@@ -1,6 +1,7 @@
 ---
 title: 強変化動詞と弱変化動詞
 description: 過去形を歯音接尾辞で作る弱変化動詞と、母音交替（アブラウト）で作る強変化動詞の違いを、bíta（噛む）の主要形を例に解説する。
+topic: old-norse
 sidebar:
   order: 16
 ---

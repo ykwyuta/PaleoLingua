@@ -1,6 +1,7 @@
 ---
 title: 名詞の格変化概説（主格・対格・属格・与格）
 description: 古ノルド語の4格体系の役割を概説し、男性名詞armr（腕）の変化表と例文を通じて格の使い分けを紹介する。
+topic: old-norse
 sidebar:
   order: 12
 ---

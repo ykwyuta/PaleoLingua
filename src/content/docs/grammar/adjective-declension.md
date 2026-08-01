@@ -1,6 +1,7 @@
 ---
 title: 形容詞の変化（強変化・弱変化）
 description: 古ノルド語の形容詞が名詞と同様に強変化・弱変化の2系統を持つ仕組みを、gamall（年老いた）の変化表と使い分けの規則で解説する。
+topic: old-norse
 sidebar:
   order: 19
 ---

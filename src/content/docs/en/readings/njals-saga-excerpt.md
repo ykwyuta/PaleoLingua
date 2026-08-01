@@ -1,6 +1,7 @@
 ---
 title: "Njáls saga: Opening Excerpt"
 description: A close reading of the famous opening lines of Njáls saga, widely considered the masterpiece of the Icelandic family sagas, with gloss, translation, and grammatical notes.
+topic: old-norse
 sidebar:
   order: 10
 ---

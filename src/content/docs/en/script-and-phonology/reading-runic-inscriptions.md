@@ -1,6 +1,7 @@
 ---
 title: How to Read Runic Inscriptions
 description: Practical rules for reading real runic inscriptions — direction of writing, word dividers, and bind runes.
+topic: old-norse
 sidebar:
   order: 13
 ---

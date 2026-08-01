@@ -1,6 +1,7 @@
 ---
 title: Personal Pronouns
 description: The declension of Old Norse personal pronouns, including the dual number — a grammatical category for "exactly two" lost in most modern Germanic languages.
+topic: old-norse
 sidebar:
   order: 18
 ---

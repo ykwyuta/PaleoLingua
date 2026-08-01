@@ -1,6 +1,7 @@
 ---
 title: "Dative, Terminative, Locative, and Other Cases"
 description: How the Sumerian dative (-ra), locative (-a), terminative (-še3), ablative-instrumental (-ta), and comitative (-da) suffixes are used, with worked examples.
+topic: sumerian
 sidebar:
   order: 6
 ---

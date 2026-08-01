@@ -16,8 +16,8 @@
 ## 3. システム・開発アーキテクチャ
 エンジニアリングスキルを活用し、運用負荷ゼロ・コスト最少化を徹底したモダンな Jamstack 構成を採用します。
 ```text
-[ LLM API (Gemini / Claude) ]
-          │ (定期自動執筆)
+[ 記事執筆スキル (Claude Skill: SKILL.md) ]
+          │ (Claude Code が定期実行時に呼び出し)
           ▼
  [ GitHub Actions (CI/CD) ] ──(Auto Commit/Push)──> [ GitHub Repository ]
                                                            │ (Webhook)
@@ -29,8 +29,8 @@
    * 高速なレスポンス、不要なJS排除、標準の強力な多言語（i18n）ルーティングを活用。
  * **ホスティング**: Cloudflare Pages / GitHub Pages
    * 帯域無制限・高速CDNを無料枠でフル活用。
- * **自動執筆エンジン**: GitHub Actions + LLM API（Gemini 1.5 Flash / Claude 3.5 Haiku 等）
-   * Cronジョブにより定期的にAIへプロンプトを発行し、Frontmatter付きMarkdown（ja/*.md, en/*.md）を自動生成。
+ * **自動執筆エンジン**: GitHub Actions + Claude Code + 記事執筆スキル（`.claude/skills/paleolingua-article-writer`）
+   * その都度プロンプトを書き起こすのではなく、執筆ルール・記事構成テンプレート・Frontmatter仕様を1本のスキル（SKILL.md）として定義。Cronジョブが Claude Code にこのスキルを呼び出させることで、Frontmatter付きMarkdown（ja/*.md, en/*.md）を一貫した品質・構成で自動生成する。
 ## 4. コンテンツ戦略（対象言語とカテゴリ）
 日本語での解説が極めて乏しい古代言語をピックアップし、AIに段階的な講座形式で出力させます。
 ### 主な取り扱い対象言語（案）
@@ -49,7 +49,7 @@
 ## 5. ロードマップ
  * **Phase 1: 基盤構築・初期コンテンツ生成（1〜2週間）**
    * PaleoLinguaの多言語サイト基盤（Astro Starlight）構築および Cloudflare Pages 連携
-   * AI記事生成スクリプト（Python/Node.js）および GitHub Actions ワークフローの開発
+   * 記事執筆スキル（Claude Skill / SKILL.md）の作成と、それを呼び出す GitHub Actions ワークフローの開発
    * 「シュメール語入門」「サンスクリット語基礎」等の初期記事 20〜30 本の自動生成
  * **Phase 2: 自動運用・コンテンツ拡張（1〜3ヶ月）**
    * Cronによる週数回の自動記事追加パイプラインの稼働（対象言語を順次拡大）
@@ -57,9 +57,29 @@
  * **Phase 3: 機能拡張（3ヶ月以降）**
    * インタラクティブな文字変換ツールや翻刻練習機能の追加（Workers API等の活用）
 
+## 6. プロジェクト構成・開発方法
+
+```text
+.
+├── src/content/docs/       # 記事本体（Starlight）。ja はルート直下、英語は en/ 配下
+│   ├── script-and-phonology/
+│   ├── grammar/
+│   ├── readings/
+│   └── en/                 # 上記と同じ構成の英語版
+├── astro.config.mjs        # Starlight設定（i18n・サイドバー構成）
+├── .claude/skills/paleolingua-article-writer/SKILL.md  # 記事執筆スキル本体
+└── .github/workflows/generate-articles.yml             # スキルを呼び出す自動執筆ワークフロー
+```
+
+ * **ローカル開発**: `npm install` の後 `npm run dev`（プレビュー）/ `npm run build`（静的ビルド）。
+ * **記事の追加・拡充**: 手動で書く場合も自動実行の場合も、必ず `paleolingua-article-writer` スキル（
+   `.claude/skills/paleolingua-article-writer/SKILL.md`）のルール（ja/enペア必須、Frontmatter仕様、
+   記事構成テンプレート）に従う。
+ * **自動執筆ワークフローの前提**: `.github/workflows/generate-articles.yml` は Cron（週2回）と手動実行の
+   両方に対応。リポジトリの Secrets に `ANTHROPIC_API_KEY`（Claude Code 用のAPIキー）を登録する必要がある。
 
 役割選定技術 / サービス選定理由・特徴
 SSGAstro多言語化（i18n）機能が標準で非常に強力。Markdown/MDXの処理が高速で、不要なJavaScriptを出力しないため表示スピードが爆速です。
 HostingCloudflare Pages (または GitHub Pages)帯域幅無制限、ビルド時間も十分な無料枠があります。Cloudflare Workersとの相性も抜群です。
 ソース管理GitHubMarkdown記事の管理、バージョン管理、後述する自動ビルドのハブとして利用します。
-AI執筆 & CI/CDGitHub Actions + OpenAI/Claude/Gemini APIスケジュール実行（Cron）で定期的にAIプロンプトを叩き、Markdownファイルを生成してリポジトリにAuto Commit/Pushします。
+AI執筆 & CI/CDGitHub Actions + Claude Code（記事執筆スキル）スケジュール実行（Cron）でClaude Codeに記事執筆スキル（SKILL.md）を呼び出させ、Markdownファイルを生成してリポジトリにAuto Commit/Pushします。プロンプトをその都度書くのではなく、スキルとして執筆ルールを一元管理します。

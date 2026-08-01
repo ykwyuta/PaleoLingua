@@ -1,0 +1,45 @@
+name: Generate articles
+
+on:
+  schedule:
+    - cron: "0 21 * * 0,3" # 週2回（月・木 06:00 JST = 日・水 21:00 UTC）
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: "執筆させたいテーマ（空欄なら Claude にお任せ）"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  write-article:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: npm ci
+
+      - run: npm install -g @anthropic-ai/claude-code
+
+      - name: Run article-writer skill
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TOPIC: ${{ inputs.topic }}
+        run: |
+          claude -p "paleolingua-article-writer スキルを使って、PaleoLingua に新しい記事を1本（ja/en ペア）追加してください。${TOPIC:+テーマ: $TOPIC}" \
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash(npm run build)" \
+            --permission-mode acceptEdits
+
+      - name: Commit and push
+        run: |
+          git config user.name "paleolingua-bot"
+          git config user.email "paleolingua-bot@users.noreply.github.com"
+          git add src/content/docs astro.config.mjs
+          git diff --cached --quiet || git commit -m "Add new article via article-writer skill"
+          git push

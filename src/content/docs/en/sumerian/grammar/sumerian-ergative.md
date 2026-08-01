@@ -12,12 +12,14 @@ Sumerian is classified as an "ergative language." Unlike nominative-accusative l
 
 ## Ergative (-e) and Absolutive (unmarked)
 
-| Case | Marker | Usage |
-|---|---|---|
-| Absolutive | unmarked (∅) | subject of intransitive verbs, object of transitive verbs |
-| Ergative | `-e` | subject (agent) of transitive verbs |
+| Case | Marker | Cuneiform | Usage |
+|---|---|---|---|
+| Absolutive | unmarked (∅) | ― | subject of intransitive verbs, object of transitive verbs |
+| Ergative | `-e` | 𒂊 | subject (agent) of transitive verbs |
 
 ### Example
+
+<p class="cuneiform">𒈗𒂊  𒂍  𒈬𒆕</p>
 
 ```
 lugal-e  e2  mu-du3
@@ -25,7 +27,7 @@ king-ERG house he-built
 "The king built a house."
 ```
 
-`lugal` ("king") is the agent of the transitive verb `du3` ("build"), so it takes the ergative suffix `-e`. `e2` ("house"), the object, remains unmarked in the absolutive.
+`lugal` 𒈗 ("king") is the agent of the transitive verb `du3` 𒆕 ("build"), so it takes the ergative suffix `-e` 𒂊. `e2` 𒂍 ("house"), the object, remains unmarked in the absolutive.
 
 <div class="plc-column">
   <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="Nin" />

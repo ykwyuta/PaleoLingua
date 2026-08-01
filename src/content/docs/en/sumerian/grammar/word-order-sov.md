@@ -10,17 +10,21 @@ sidebar:
 
 Sumerian is a strictly verb-final language: the finite verb always comes at the end of the clause, and the basic order is Subject–Object–Verb.
 
+<p class="cuneiform">𒈗𒂊   𒂍   𒈬𒆕</p>
+
 ```
 lugal-e   e2   mu-du3
 king-ERG  house he-built
 "The king built a house."
 ```
 
-Here the agent (subject) `lugal-e` ("the king," ergative-marked) comes first, then the patient (object) `e2` ("house"), and finally the verb `mu-du3` ("built"). This verb-final skeleton is the single most basic fact about Sumerian syntax, and it aligns Sumerian with verb-final languages such as Japanese, Korean, or Turkish, in contrast to SVO languages like English.
+Here the agent (subject) `lugal-e` 𒈗𒂊 ("the king," ergative-marked) comes first, then the patient (object) `e2` 𒂍 ("house"), and finally the verb `mu-du3` 𒈬𒆕 ("built"). This verb-final skeleton is the single most basic fact about Sumerian syntax, and it aligns Sumerian with verb-final languages such as Japanese, Korean, or Turkish, in contrast to SVO languages like English.
 
 ## Noun-phrase-level order: modifiers follow the noun
 
 Interestingly, while Sumerian clauses are strictly "head-last" (the verb comes last), noun phrases work the opposite way: modifiers such as adjectives and genitive (possessive) phrases follow the noun they modify, rather than preceding it.
+
+<p class="cuneiform">𒂍      𒃲</p>
 
 ```
 e2      gal

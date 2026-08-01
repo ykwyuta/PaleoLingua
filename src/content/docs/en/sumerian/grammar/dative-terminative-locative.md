@@ -67,7 +67,7 @@ wife-his-COM
 | Comitative | `-da` | together with |
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-f02.png" alt="En" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Sort the Cases by English Prepositions</p>
     <p class="plc-line"><b>En:</b> Dative, locative, terminative, ablative, comitative — don't the names alone make your head spin?</p>

@@ -28,7 +28,7 @@ king-ERG house he-built
 `lugal` ("king") is the agent of the transitive verb `du3` ("build"), so it takes the ergative suffix `-e`. `e2` ("house"), the object, remains unmarked in the absolutive.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="Nin" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: A Subject That Changes Shape</p>
     <p class="plc-line"><b>Nin:</b> En, in `lugal-e e2 mu-du3`, `lugal-e` is the subject, but it still gets a `-e`. English and Japanese subjects never need a mark like that.</p>

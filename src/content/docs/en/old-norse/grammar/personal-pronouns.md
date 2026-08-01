@@ -53,7 +53,7 @@ we.two(NOM) go-1PL.PRES home
 If the group in question had three or more members, the subject would be *vér* (plural), not *vit*. The dual was not just "part of the plural" — it was a strictly maintained, independent grammatical category.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="Freyja" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="Freyja" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: A Pronoun Just for "the Two of Us"</p>
     <p class="plc-line"><b>Freyja:</b> Óðinn, "vit" means "we," right? But "vér" is also glossed as "we." What's the difference?</p>

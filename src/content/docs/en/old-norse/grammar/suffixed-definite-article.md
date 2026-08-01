@@ -59,7 +59,7 @@ the   old-WEAK  man
 ```
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="Freyja" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="Freyja" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: "The" Became Part of the Word</p>
     <p class="plc-line"><b>Freyja:</b> Óðinn, *maðrinn* looks like one word, but it's really "maðr (man) + the" fused together, right?</p>

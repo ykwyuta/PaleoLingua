@@ -63,7 +63,7 @@ const catName = CATEGORY_NAMES[category][locale];
         locale === 'en'
           ? `/en/${language}/${category}/${slug}/`
           : `/${language}/${category}/${slug}/`;
-      const icon = i % 2 === 0 ? 'boy-icon-smile.png' : 'girl-icon-sparkle.png';
+      const icon = i % 2 === 0 ? 'boy-f02.png' : 'girl-f02.png';
       const iconSrc = `/images/characters/${topic}/${icon}`;
       const hue = LANGUAGE_HUE[topic] ?? 210;
       const langName = LANGUAGE_NAMES[topic]?.[locale] ?? topic;
@@ -120,14 +120,6 @@ const catName = CATEGORY_NAMES[category][locale];
     overflow: hidden;
     border-radius: 0.75rem;
     border: 1px solid var(--sl-color-gray-5);
-    background: linear-gradient(
-      160deg,
-      hsl(var(--pl-hue) 35% 22%),
-      hsl(var(--pl-hue) 45% 12%)
-    );
-  }
-
-  :root[data-theme='light'] .pl-yt-thumb {
     background: linear-gradient(
       160deg,
       hsl(var(--pl-hue) 75% 93%),

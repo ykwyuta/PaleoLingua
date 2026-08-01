@@ -52,7 +52,7 @@ Because `þá` ("then") stands first, the verb `kom` ("came") takes second posit
 The V2 constraint applies only to main (independent) clauses; subordinate clauses (introduced by *ef* "if," *því at* "because," and the like) do not necessarily place the verb second. This main-clause/subordinate-clause word-order asymmetry survives vividly in modern German today.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="Óðinn" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="Óðinn" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: My Own Name Still Waits for the Verb</p>
     <p class="plc-line"><b>Óðinn:</b> Freyja, in "þessi orð mælti Óðinn" ("these words, Óðinn spoke"), my own name ends up at the end of the sentence. A little annoying, honestly.</p>

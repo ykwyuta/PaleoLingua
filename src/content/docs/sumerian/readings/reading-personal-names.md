@@ -30,7 +30,7 @@ sidebar:
 人名は、王碑文・行政文書・法文書などあらゆる種類の文献に繰り返し登場する。その構造（多くは「動詞的な文」または「属格句」）を理解しておくと、[属格 -ak](/sumerian/grammar/genitive-case-ak/)や動詞の基本構造の知識を、実際の文献を読む際にすぐ活用できるようになる。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="ニン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：私たちの名前も実は「文」だった</p>
     <p class="plc-line"><b>ニン：</b>そういえば、私たちの名前「エン」と「ニン」も、シュメール語ではちゃんと意味のある単語だったよね。</p>

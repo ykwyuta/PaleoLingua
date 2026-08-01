@@ -38,7 +38,7 @@ e2-bi
 シュメール語の代名詞体系は、動詞の人称接辞（[人称接辞と動詞の基本構造](/sumerian/grammar/personal-affixes-verb-basics/)を参照）と役割が重なる部分が多く、独立代名詞が使われる文脈は日本語や英語ほど頻繁ではない。多くの場面では、代名詞を独立して置かなくても、動詞や名詞に付く接辞だけで「誰が」「何を」が示されるためである。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="ニン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：指さしゲームで代名詞を覚える</p>
     <p class="plc-line"><b>ニン：</b>エン、指さしゲームしよう。自分を指さしたら `ĝe26-e`（私）、相手を指さしたら `za-e`（あなた）って言うの。</p>

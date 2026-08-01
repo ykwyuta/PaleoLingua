@@ -30,7 +30,7 @@ Names beginning with `ur-` (`ur-dnamma`, `ur-dnanše`, and many others) are extr
 Personal names turn up constantly across royal inscriptions, administrative records, and legal texts alike. Understanding their structure (most often a small verbal sentence or a genitive phrase) lets you immediately put your knowledge of the [genitive -ak](/en/sumerian/grammar/genitive-case-ak/) and basic verb structure to work on real texts.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="Nin" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Our Own Names Are Sentences Too</p>
     <p class="plc-line"><b>Nin:</b> Come to think of it, our own names — En and Nin — are real, meaningful Sumerian words in their own right.</p>

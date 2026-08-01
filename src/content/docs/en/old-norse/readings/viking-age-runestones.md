@@ -68,7 +68,7 @@ Guð hjalpi sál hans.
 Whether or not this line appears is an important clue for dating an inscription relative to the progress of Christianization.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="Óðinn" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="Óðinn" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: The Formula Is a Shortcut to Reading</p>
     <p class="plc-line"><b>Óðinn:</b> Freyja, runestones look intimidating at first, but once you memorize the template "X raised this stone in memory of Y," you can actually read a huge number of them.</p>

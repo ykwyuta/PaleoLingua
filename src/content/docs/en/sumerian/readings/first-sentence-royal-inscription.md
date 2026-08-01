@@ -37,7 +37,7 @@ Ur-Namma    king-ERG  Eninnu     he-built
 - The verb `mu-du3` sits at the very end of the sentence, exactly as expected from [SOV word order](/en/sumerian/grammar/word-order-sov/).
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="Nin" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: The Kings' Copy-Paste Template</p>
     <p class="plc-line"><b>Nin:</b> Sentences like `ur-dnamma lugal-e e2-ninnu mu-du3` keep showing up in similar form across so many royal inscriptions.</p>

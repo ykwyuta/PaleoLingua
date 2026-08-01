@@ -42,7 +42,7 @@ As covered in more depth in a later reading article, Viking Age runestones repea
 - **Damage and wear**: surviving inscriptions are often partly illegible due to weathering or breakage; scholarly editions mark such gaps with brackets.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="Freyja" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="Freyja" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Read Boustrophedon Like an Ox</p>
     <p class="plc-line"><b>Freyja:</b> Óðinn, boustrophedon inscriptions run left to right on the first line, then flip to right to left on the second? That feels backwards.</p>

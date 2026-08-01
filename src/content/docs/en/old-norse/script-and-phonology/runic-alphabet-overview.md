@@ -53,7 +53,7 @@ It is this reduced, 16-rune system that recorded Viking Age Old Norse. Curiously
 The name and sound value of each rune is covered in more depth in the next article, "[Rune Names and Sound Values](/en/old-norse/script-and-phonology/rune-names-and-sounds/)."
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="Freyja" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="Freyja" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Fewer Letters, More Complicated Language?</p>
     <p class="plc-line"><b>Freyja:</b> Óðinn, the Elder Futhark has 24 runes but the Younger Futhark only has 16. Shouldn't writing systems usually gain letters over time, not lose them?</p>

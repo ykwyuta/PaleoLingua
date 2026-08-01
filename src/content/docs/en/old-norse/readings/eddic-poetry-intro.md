@@ -39,7 +39,7 @@ This line, the opening of stanza 76 of the *Hávamál*, chimes *fé* ("cattle") 
 The Poetic Edda is not only the single most important source for Norse mythology; it is also first-rate material for learning Old Norse grammar, vocabulary, and poetic diction (kennings). As a text that helped set the standard for literary Old Icelandic, it stands alongside the saga literature at the center of Old Norse reading practice.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="Freyja" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="Freyja" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: One Manuscript Saved the Myths</p>
     <p class="plc-line"><b>Freyja:</b> Óðinn, is it true that most of the mythology in the Poetic Edda hangs on the survival of a single manuscript, the Codex Regius?</p>

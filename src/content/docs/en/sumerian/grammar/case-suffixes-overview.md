@@ -38,7 +38,7 @@ house king-GEN-ERG
 Each case is treated in more depth in its own dedicated article (the genitive, dative, terminative, locative, and so on). For now, use this table as a map of the whole system: Sumerian marks grammatical roles with a fixed set of case suffixes, each with its own function.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="Nin" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Case Suffixes Are Luggage Tags</p>
     <p class="plc-line"><b>Nin:</b> Ten different case suffixes sounds a little intimidating.</p>

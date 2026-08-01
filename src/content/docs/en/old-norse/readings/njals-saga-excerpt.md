@@ -45,7 +45,7 @@ Hann  var  sonr  Sighvats  hins rauða.
 Even this short opening reveals the hallmark of saga style: spare, largely unadorned prose. Emotion and interiority are rarely stated directly; instead, the narrative advances through action, dialogue, and a careful accumulation of relationships — whose son someone is, whom they married. This restrained narrative voice, often credited with influencing later prose fiction, is one of saga literature's defining features.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="Freyja" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="Freyja" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: A Story That Opens With a Nickname</p>
     <p class="plc-line"><b>Freyja:</b> Óðinn, it's fun that Mörðr — not even the saga's protagonist — gets introduced right away with the nickname "Fiddle."</p>

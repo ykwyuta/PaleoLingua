@@ -60,7 +60,7 @@ the   old-WEAK  man(NOM) came
 The same adjective, *gamall* ("old"), takes a different ending depending on whether the noun carries a definite article. This tracks a semantic distinction in **definiteness**: "an old man" (unspecified, strong) versus "the old man" (already established in discourse, weak).
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="Óðinn" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="Óðinn" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: The Adjective Announces Definiteness</p>
     <p class="plc-line"><b>Óðinn:</b> Freyja, notice how "gamall maðr" ("an old man") and "hinn gamli maðr" ("the old man") have slightly different adjective endings?</p>

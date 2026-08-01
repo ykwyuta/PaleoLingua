@@ -55,7 +55,7 @@ konungr  gef-r   jarl-i   sverð
 `jarli`（伯爵に）は間接目的語として与格を取っている。このように「誰に何を与えるか」という二重目的語構文では、間接目的語が与格、直接目的語が対格になるのが基本パターンである。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="フレイヤ" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="フレイヤ" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：語順が自由な理由</p>
     <p class="plc-line"><b>フレイヤ：</b>オーディン、`konungr sér arm jarls` って、語順を変えて `arm jarls sér konungr` にしても意味は通じるの？</p>

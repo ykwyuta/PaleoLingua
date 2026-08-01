@@ -66,7 +66,7 @@ hveim er sér góðan getr.
 - The `er` in `hveim er...` is an invariant relative particle ("who/that"), which combines with `hveim` (dative, "for whom") to give the meaning "for the one who..."
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="Óðinn" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="Óðinn" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Wisdom in My Own Voice</p>
     <p class="plc-line"><b>Óðinn:</b> Freyja, the "High One" in the Hávamál is actually me. It's a little embarrassing, honestly — like I'm lecturing myself.</p>

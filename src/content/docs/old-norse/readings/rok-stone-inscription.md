@@ -44,7 +44,7 @@ En Varinn  fáði,   faðir, aft faigian sunu.
 冒頭句以降の碑文は、伝説的な王や英雄への言及、そして繰り返し韻を踏むように挿入される「なんの話か言ってみよ（*hvat er þat...*, 「〜とは何か」）」という謎かけ形式の文が特徴的である。近年の研究では、9世紀に起きた寒冷化や日食といった天文・気象現象への言及であるとする説も提示されているが、いずれも仮説の域を出ておらず、ロク石は今なお北欧のルーン学における最大の謎の一つとされている。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="フレイヤ" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="フレイヤ" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：1200年経っても解けない謎</p>
     <p class="plc-line"><b>フレイヤ：</b>オーディン、ロク石って800字以上も刻まれているのに、後半は今も学者たちが解読で議論しているんですって？</p>

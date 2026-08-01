@@ -7,8 +7,8 @@ sidebar:
 ---
 
 <div class="plc-banner">
-  <img src="/images/characters/sumerian/boy-group.png" alt="シュメール人の男の子エン" />
-  <img src="/images/characters/sumerian/girl-group.png" alt="シュメール人の女の子ニン" />
+  <img src="/images/characters/sumerian/boy-base.png" alt="シュメール人の男の子エン" />
+  <img src="/images/characters/sumerian/girl-base.png" alt="シュメール人の女の子ニン" />
   <div>
     <p><strong>ようこそ、PaleoLinguaへ！</strong></p>
     <p>これから <strong>エン</strong>（<em>en</em>＝「主」）くんと <strong>ニン</strong>（<em>nin</em>＝「女主人」）さんが、各記事の最後で「学びのコラム」としてシュメール語のちょっとした豆知識をおしゃべりします。ふたりの名前自体も、シュメール語でとてもよく使われる単語なので、覚えておくと読解がぐっと楽になります。</p>
@@ -42,7 +42,7 @@ sidebar:
 現在知られている粘土板文書は数十万点にのぼる。その大多数は行政・経済文書（帳簿や契約書など）だが、王碑文、法文書、そして『ギルガメシュ叙事詩』の一部やシュメール王讃歌、哀歌、諺集などの文学作品も多数残されている。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="ニン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：「天涯孤独」な言語</p>
     <p class="plc-line"><b>ニン：</b>ねえエン、シュメール語って英語や日本語の親戚なの？</p>

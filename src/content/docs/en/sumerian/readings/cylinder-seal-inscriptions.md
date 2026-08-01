@@ -40,7 +40,7 @@ Lu-dingira      son    Ur-Nanše-GEN.ERG servant Nanše
 Short as it is, a cylinder seal inscription pulls together everything covered so far — [name structure](/en/sumerian/readings/reading-personal-names/), genitive chains, and basic vocabulary — making it an ideal capstone exercise for this beginner course.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-f02.png" alt="En" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: The Ancestor of the Rubber Stamp</p>
     <p class="plc-line"><b>En:</b> Nin, a cylinder seal is wild — you roll it across wet clay and the whole design and inscription unrolls in an endless repeating strip.</p>

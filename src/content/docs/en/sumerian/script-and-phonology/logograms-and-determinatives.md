@@ -35,7 +35,7 @@ A determinative is a silent, unpronounced sign placed before or after a word to 
 Because determinatives are silent, they are not pronounced aloud even though they remain part of the written form. `d`nanna, for example, is read simply "Nanna," not "dingir-Nanna." It helps to think of a determinative as a scribe's own built-in label, added purely to prevent the reader from misidentifying the word.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-f02.png" alt="En" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Silent Hashtags</p>
     <p class="plc-line"><b>En:</b> Nin, doesn't a determinative kind of remind you of a hashtag?</p>

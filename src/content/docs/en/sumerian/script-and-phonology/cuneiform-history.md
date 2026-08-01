@@ -23,7 +23,7 @@ At first, each sign stood for a whole word (a logogram). This made it impossible
 Although cuneiform was developed for Sumerian, it was subsequently borrowed and adapted to write a range of unrelated languages, including Akkadian (Babylonian and Assyrian), Eblaite, Elamite, Hurrian, Urartian, and Hittite (along with other Anatolian languages). Its use for Akkadian in particular lasted for millennia, and it is thought to have influenced the much simpler, largely alphabetic-syllabic cuneiform script later devised for Old Persian.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-f02.png" alt="En" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Writing Was Born from Bookkeeping</p>
     <p class="plc-line"><b>En:</b> Nin, did you know the very first step toward cuneiform wasn't even writing at all?</p>

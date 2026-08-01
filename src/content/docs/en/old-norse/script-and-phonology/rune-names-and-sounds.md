@@ -61,7 +61,7 @@ Grouping the sixteen Younger Futhark names by semantic field gives a glimpse of 
 | ᛦ | ýr | yew | y, R |
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="Freyja" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="Freyja" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: A Letter That Still Means Something</p>
     <p class="plc-line"><b>Freyja:</b> Óðinn, the Latin letter "A" doesn't mean anything on its own, but the rune ᚠ still carries the meaning "wealth" along with it.</p>

@@ -62,7 +62,7 @@ u-ウムラウトも同様に、名詞の格変化や動詞の活用表に規則
 古ノルド語の強勢は原則として**語頭の音節（語根音節）に固定**されている。これはゲルマン諸語に共通する特徴で、印欧祖語の可動アクセントから、ゲルマン祖語の段階で語頭固定アクセントへと変化したことに由来する。接頭辞や語尾がどれだけ長くなっても、強勢は語頭のまま動かない。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="オーディン" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="オーディン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：ウムラウトは母音の「引っ張られ現象」</p>
     <p class="plc-line"><b>オーディン：</b>フレイヤ、*fótr*（足）が複数形で *fœtr* になるの、なんだか不思議じゃない？語尾に何かついたわけでもないのに母音が変わるなんて。</p>

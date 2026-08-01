@@ -45,7 +45,7 @@ Hann  var  sonr  Sighvats  hins rauða.
 この冒頭句からもわかる通り、サガ文学の文体は簡潔で装飾の少ない散文が基本である。感情表現や心理描写を直接語ることは少なく、行動と台詞、そして人物同士の関係性（誰の息子か、誰と結婚したか）を積み重ねることで物語を進めていく。この「抑制された語り口」は、後世の散文文学にも影響を与えたとされる、サガ文学最大の特徴の一つである。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="フレイヤ" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="フレイヤ" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：渾名から始まる物語</p>
     <p class="plc-line"><b>フレイヤ：</b>オーディン、『ニャールのサガ』の主人公じゃない脇役のメルズが、いきなり「フィドル」なんて渾名付きで登場するの、面白いわね。</p>

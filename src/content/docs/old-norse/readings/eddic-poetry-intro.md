@@ -39,7 +39,7 @@ deyr sjalfr it sama;
 『古エッダ』は、北欧神話に関する情報源として最も重要であるだけでなく、古ノルド語の文法・語彙・詩的言い回し（ケニング）を学ぶ上でも第一級の教材である。文語アイスランド語の規範ともなった作品群であり、後述するサガ文学と並んで、古ノルド語読解の中心をなす。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="フレイヤ" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="フレイヤ" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：1冊の写本が神話を救った</p>
     <p class="plc-line"><b>フレイヤ：</b>オーディン、『古エッダ』の神話のほとんどが、実は『王の写本』というたった1冊の写本に頼っているって本当？</p>

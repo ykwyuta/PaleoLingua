@@ -49,7 +49,7 @@ sidebar:
 12世紀以降、より正確に音を書き分けるため、既存のルーンに点を加えた「点ルーン」が考案された。たとえば ᚴ (k) に点を加えた ᚵ で /g/ を、ᛁ (i) に点を加えた ᛂ で /e/ を専用に表すようになる。これは中世ルーン文字（medieval runes）への移行の一歩であり、ラテン文字の影響も指摘されている。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="オーディン" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="オーディン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：デンマーク風とノルウェー風</p>
     <p class="plc-line"><b>オーディン：</b>フレイヤ、実は僕らのルーンにも「方言」ならぬ「方字」があるんだ。デンマークでよく使われた長枝ルーンと、ノルウェー・スウェーデンで好まれた短枝ルーンだよ。</p>

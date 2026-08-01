@@ -7,8 +7,8 @@ sidebar:
 ---
 
 <div class="plc-banner">
-  <img src="/images/characters/old-norse/boy-group.png" alt="古ノルド語の男の子オーディン" />
-  <img src="/images/characters/old-norse/girl-group.png" alt="古ノルド語の女の子フレイヤ" />
+  <img src="/images/characters/old-norse/boy-base.png" alt="古ノルド語の男の子オーディン" />
+  <img src="/images/characters/old-norse/girl-base.png" alt="古ノルド語の女の子フレイヤ" />
   <div>
     <p><strong>ようこそ、PaleoLinguaへ！</strong></p>
     <p>これから <strong>オーディン</strong>（<em>Óðinn</em>＝主神・戦いと知恵と詩の神、ルーンの発見者）くんと <strong>フレイヤ</strong>（<em>Freyja</em>＝愛と豊穣と戦の女神）さんが、各記事の最後で「学びのコラム」として古ノルド語やルーン文字のちょっとした豆知識をおしゃべりします。北欧神話では、オーディンが自らを世界樹ユグドラシルに吊るして苦しみ抜いた末にルーン文字の知識を得たとされています。ふたりと一緒に、ヴァイキング時代の言葉と文字をのぞいてみましょう。</p>
@@ -42,7 +42,7 @@ sidebar:
 現存する文献は大きく二系統に分けられる。一つはルーン石碑・木片など数千点に及ぶ**一次資料**で、追悼碑文や所有者銘、呪句などが刻まれている。もう一つは13世紀以降にアイスランドで羊皮紙写本として書き留められた**文学作品群**で、神々や英雄の詩を集めた『古エッダ（Poetic Edda）』、スノッリ・ストゥルルソンによる詩学・神話解説書『散文エッダ(Prose Edda)』、そして『ニャールのサガ』をはじめとする数多くの家族サガ・王のサガが含まれる。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="オーディン" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="オーディン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：苦しんで手に入れたルーン</p>
     <p class="plc-line"><b>オーディン：</b>フレイヤ、実は僕、神話の中では自分の槍で自分を刺して、9日9晩ユグドラシルの木に吊るされてルーン文字を手に入れたことになっているんだ。</p>

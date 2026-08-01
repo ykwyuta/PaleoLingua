@@ -68,7 +68,7 @@ Guð hjalpi sál hans.
 この一文の有無は、碑文が建てられた時期がキリスト教化のどの段階にあったかを推定する重要な手がかりとなっている。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="オーディン" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="オーディン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：定型句は読解の近道</p>
     <p class="plc-line"><b>オーディン：</b>フレイヤ、ルーン石碑って一見難しそうだけど、実は「Xが、Yを偲んで、石を建てた」というテンプレートさえ覚えれば、かなりの数が読めるようになるんだよ。</p>

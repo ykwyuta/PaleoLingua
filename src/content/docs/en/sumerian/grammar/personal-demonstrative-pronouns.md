@@ -38,7 +38,7 @@ house-that/its
 Sumerian's pronoun system overlaps considerably in function with the verb's person markers (see [Personal Affixes and Basic Verb Structure](/en/sumerian/grammar/personal-affixes-verb-basics/)), so independent pronouns are used far less often than in English or Japanese. In most contexts, the affixes attached to the verb or noun already make clear who is doing what, without needing a separate pronoun.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="Nin" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: A Pointing Game for Pronouns</p>
     <p class="plc-line"><b>Nin:</b> En, let's play a pointing game. Point at yourself and say `ĝe26-e` ("I"); point at the other person and say `za-e` ("you").</p>

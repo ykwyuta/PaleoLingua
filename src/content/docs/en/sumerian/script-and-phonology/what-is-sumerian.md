@@ -7,8 +7,8 @@ sidebar:
 ---
 
 <div class="plc-banner">
-  <img src="/images/characters/sumerian/boy-group.png" alt="En, the Sumerian boy" />
-  <img src="/images/characters/sumerian/girl-group.png" alt="Nin, the Sumerian girl" />
+  <img src="/images/characters/sumerian/boy-base.png" alt="En, the Sumerian boy" />
+  <img src="/images/characters/sumerian/girl-base.png" alt="Nin, the Sumerian girl" />
   <div>
     <p><strong>Welcome to PaleoLingua!</strong></p>
     <p>At the end of most articles, <strong>En</strong> (<em>en</em>, "lord") and <strong>Nin</strong> (<em>nin</em>, "lady") will chat with you in a short "Learning Column" about some fun fact related to the topic. Their names are themselves two of the most common words in Sumerian, so keep an eye out for <em>en</em> and <em>nin</em> once you start reading real texts.</p>
@@ -42,7 +42,7 @@ By around 2000 BCE, Sumerian had largely been supplanted by Akkadian as an every
 Several hundred thousand cuneiform tablets bearing Sumerian are known today. The overwhelming majority are administrative and economic records (accounts, contracts, receipts), but the corpus also includes royal inscriptions, legal texts, and a substantial body of literature: portions of the Epic of Gilgamesh, royal hymns, laments, and proverb collections.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="Nin" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: The Loneliest Language</p>
     <p class="plc-line"><b>Nin:</b> Hey En, is Sumerian related to English or Japanese?</p>

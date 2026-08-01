@@ -57,7 +57,7 @@ hann  kalla-ði  mik
 ```
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="オーディン" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="オーディン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：call と kalla は文字通り親戚</p>
     <p class="plc-line"><b>オーディン：</b>フレイヤ、英語の "call" と古ノルド語の "kalla" って似てると思わない？</p>

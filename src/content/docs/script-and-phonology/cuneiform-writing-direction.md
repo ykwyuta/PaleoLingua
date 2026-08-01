@@ -28,6 +28,17 @@ sidebar:
 
 現在、学習者や研究者が目にする翻字（transliteration）はすべて、この回転後の「左から右・上から下」の方式に基づいている。つまり本記事以降で扱う例文や表はすべて、通常のアルファベットの読み方と同じ左から右の順で読めばよい。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="ニン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：牛の頭が横倒しになったワケ</p>
+    <p class="plc-line"><b>ニン：</b>ねえエン、昔の牛の頭の絵文字、今の楔形文字だと横倒しになってるって本当？</p>
+    <p class="plc-line"><b>エン：</b>本当だよ。紀元前2600年頃、書記官たちが板を横に持ち替えて書くようになって、文字の向きごと90度回転しちゃったんだ。</p>
+    <p class="plc-line"><b>ニン：</b>それって、私たちが寝転がってスマホを横向きに持つのと同じ感覚かな。</p>
+    <p class="plc-line"><b>エン：</b>近いね。だから今読む楔形文字の牛の頭は、みんな「あくび」してるみたいに横向きなんだよ。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 楔形文字の成り立ちと歴史](/script-and-phonology/cuneiform-history/)

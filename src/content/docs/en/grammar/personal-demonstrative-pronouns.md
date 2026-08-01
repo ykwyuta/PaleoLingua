@@ -36,6 +36,17 @@ house-that/its
 
 Sumerian's pronoun system overlaps considerably in function with the verb's person markers (see [Personal Affixes and Basic Verb Structure](/en/grammar/personal-affixes-verb-basics/)), so independent pronouns are used far less often than in English or Japanese. In most contexts, the affixes attached to the verb or noun already make clear who is doing what, without needing a separate pronoun.
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="Nin" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: A Pointing Game for Pronouns</p>
+    <p class="plc-line"><b>Nin:</b> En, let's play a pointing game. Point at yourself and say `ĝe26-e` ("I"); point at the other person and say `za-e` ("you").</p>
+    <p class="plc-line"><b>En:</b> Got it. (pointing at himself) `ĝe26-e`! (pointing at Nin) `za-e`!</p>
+    <p class="plc-line"><b>Nin:</b> Now point at the house we were just talking about?</p>
+    <p class="plc-line"><b>En:</b> `e2-bi` — "that house." Since Sumerian verbs already build in "who's doing this" through their own affixes, independent pronouns like these get used less often than in English or Japanese. So whenever one does show up, it lands with the same crisp clarity as an actual pointed finger.</p>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: Personal Affixes and Basic Verb Structure](/en/grammar/personal-affixes-verb-basics/)

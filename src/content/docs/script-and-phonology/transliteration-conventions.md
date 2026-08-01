@@ -35,6 +35,17 @@ sidebar:
 
 これらの記法は、あくまで研究者間で状態や解釈を共有するための約束事であり、シュメール語の文法そのものとは別物である。本コースの例文では、学習の妨げにならない範囲で角括弧などの記号を省略し、確立した読みのみを提示する。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="ニン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：`[ ]` は考古学者の正直マーク</p>
+    <p class="plc-line"><b>ニン：</b>エン、翻字に出てくる `[ ]` や `?` って、なんだか数学の記号みたいで最初は身構えちゃった。</p>
+    <p class="plc-line"><b>エン：</b>実はすごく正直な記号なんだよ。`[ ]` は「粘土板が割れていて、文脈から推測しました」っていう自己申告なんだ。</p>
+    <p class="plc-line"><b>ニン：</b>じゃあ `?` は「自信がありません」って正直に書いてあるってこと？</p>
+    <p class="plc-line"><b>エン：</b>そのとおり。4000年前の粘土板を読むのに、見栄を張らず「ここは自信ない」と言えるのも研究者の大事な誠実さなんだと思う。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 表語文字と限定符](/script-and-phonology/logograms-and-determinatives/)

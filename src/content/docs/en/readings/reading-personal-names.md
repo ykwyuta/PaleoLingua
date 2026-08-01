@@ -28,6 +28,17 @@ Names beginning with `ur-` (`ur-dnamma`, `ur-dnanše`, and many others) are extr
 
 Personal names turn up constantly across royal inscriptions, administrative records, and legal texts alike. Understanding their structure (most often a small verbal sentence or a genitive phrase) lets you immediately put your knowledge of the [genitive -ak](/en/grammar/genitive-case-ak/) and basic verb structure to work on real texts.
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="Nin" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: Our Own Names Are Sentences Too</p>
+    <p class="plc-line"><b>Nin:</b> Come to think of it, our own names — En and Nin — are real, meaningful Sumerian words in their own right.</p>
+    <p class="plc-line"><b>En:</b> Exactly — `en` ("lord") and `nin` ("lady"). Words respectable enough to appear inside real names like `en-ḫedu2-an-na`, "high priestess, ornament of An."</p>
+    <p class="plc-line"><b>Nin:</b> And I love that names starting with `ur-` mean "servant of," even though `ur` literally means "dog." Like a loyal dog serving a god.</p>
+    <p class="plc-line"><b>En:</b> Which means reading a Sumerian person's name is really reading a tiny prayer their family once folded into it.</p>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: The Genitive Case -ak](/en/grammar/genitive-case-ak/)

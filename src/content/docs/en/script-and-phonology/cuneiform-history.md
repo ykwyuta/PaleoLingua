@@ -21,6 +21,17 @@ At first, each sign stood for a whole word (a logogram). This made it impossible
 
 Although cuneiform was developed for Sumerian, it was subsequently borrowed and adapted to write a range of unrelated languages, including Akkadian (Babylonian and Assyrian), Eblaite, Elamite, Hurrian, Urartian, and Hittite (along with other Anatolian languages). Its use for Akkadian in particular lasted for millennia, and it is thought to have influenced the much simpler, largely alphabetic-syllabic cuneiform script later devised for Old Persian.
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="En" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: Writing Was Born from Bookkeeping</p>
+    <p class="plc-line"><b>En:</b> Nin, did you know the very first step toward cuneiform wasn't even writing at all?</p>
+    <p class="plc-line"><b>Nin:</b> What do you mean?</p>
+    <p class="plc-line"><b>En:</b> It was little clay "tokens" — one shape for a sheep, another for a jar of oil. Basically receipts you could trade for goods.</p>
+    <p class="plc-line"><b>Nin:</b> So the desire to keep a household ledger is what invented writing. Somehow that's more charming than a grand romantic origin story — accounting before poetry!</p>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: What Is Sumerian?](/en/script-and-phonology/what-is-sumerian/)

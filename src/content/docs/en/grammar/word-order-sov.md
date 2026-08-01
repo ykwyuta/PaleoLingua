@@ -38,6 +38,17 @@ Where English places the adjective before the noun ("big house"), Sumerian place
 
 This combination — a verb-final clause paired with a noun-initial phrase — is somewhat unusual typologically, and it is one of the first things to internalize when starting out with Sumerian syntax.
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="En" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: A Head Start for SOV Speakers</p>
+    <p class="plc-line"><b>En:</b> Nin, speakers of verb-final languages like Japanese, Korean, or Turkish already have a head start with Sumerian word order — the verb comes last in both.</p>
+    <p class="plc-line"><b>Nin:</b> Right, in `lugal-e e2 mu-du3` the verb `mu-du3` really does land at the end, just like it would in Japanese.</p>
+    <p class="plc-line"><b>En:</b> But don't get too comfortable — inside a noun phrase it flips: "house big" instead of "big house." So the clause level feels familiar, but the phrase level doesn't.</p>
+    <p class="plc-line"><b>Nin:</b> Noticing both the similarities and the differences — that's really the trick to getting fluent.</p>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: Noun Phrase Structure and the Genitive Chain](/en/grammar/noun-phrase-genitive-chain/)

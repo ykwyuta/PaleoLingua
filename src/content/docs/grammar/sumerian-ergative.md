@@ -26,6 +26,17 @@ lugal-e  e2  mu-du3
 
 `lugal`（王）は他動詞 `du3`（建てる）の動作主なので、能格接尾辞 `-e` が付く。一方 `e2`（家）は目的語であり、絶対格（無標）のままである。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="ニン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：主語なのに形が変わる不思議</p>
+    <p class="plc-line"><b>ニン：</b>エン、`lugal-e e2 mu-du3` の `lugal-e` って、主語なのに `-e` が付いてる。日本語や英語の主語には、こんな印は要らないよね？</p>
+    <p class="plc-line"><b>エン：</b>そこがシュメール語の面白いところなんだ。「自動詞の主語」と「他動詞の目的語」は無印のまま、「他動詞の主語」だけに特別な印 `-e` が付く。これが能格言語。</p>
+    <p class="plc-line"><b>ニン：</b>実は能格言語って、バスク語やチベット語などにも見られる、世界的には珍しくない仕組みなんだって。</p>
+    <p class="plc-line"><b>エン：</b>英語や日本語の感覚をいったん忘れると、能格の「動作主だけに印をつける」考え方はむしろ合理的に思えてくるよ。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 楔形文字の読み方](/script-and-phonology/)

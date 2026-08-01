@@ -36,6 +36,17 @@ ur-dnamma   lugal-e   e2-ninnu   mu-du3
 - `e2-ninnu`（目的語）は絶対格であり、格接尾辞を伴わない無標の形で現れる。
 - 動詞 `mu-du3` が文末に置かれ、[SOV語順](/grammar/word-order-sov/)の通り、動詞が文を締めくくっている。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="ニン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：王様たちの「テンプレ文章」</p>
+    <p class="plc-line"><b>ニン：</b>`ur-dnamma lugal-e e2-ninnu mu-du3` みたいな文、いろんな王碑文で似た形が繰り返し出てくるんだね。</p>
+    <p class="plc-line"><b>エン：</b>そう、王碑文はかなり「テンプレート化」されていて、「誰それが、これこれを建てた」という骨組みは何百年も使い回されたんだ。</p>
+    <p class="plc-line"><b>ニン：</b>今で言う、プレスリリースの決まり文句みたいなものかな。「弊社はこのたび〜を発表しました」って感じの。</p>
+    <p class="plc-line"><b>エン：</b>まさにそれ。定型文だからこそ、初めて原典を読む私たちにとっては、実はいちばん取っつきやすい入り口になるんだよ。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: シュメール語の能格・絶対格](/grammar/sumerian-ergative/)

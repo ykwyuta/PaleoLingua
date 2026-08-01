@@ -33,6 +33,17 @@ sidebar:
 
 限定符は発音されないため、翻字上は読みの一部として声に出して読まない（ただし表記上は残す）。たとえば `d`nanna は「ディンギル・ナンナ」ではなく単に「ナンナ」と読む。限定符はあくまで書記官が意味の取り違えを防ぐために添えた「見出しラベル」のようなものだと考えるとよい。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="エン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：発音しない「ハッシュタグ」</p>
+    <p class="plc-line"><b>エン：</b>ニン、限定符ってさ、SNSのハッシュタグにちょっと似てると思わない？</p>
+    <p class="plc-line"><b>ニン：</b>どういうこと？ `d`nanna の `d` のこと？</p>
+    <p class="plc-line"><b>エン：</b>そう。声には出さないけど、「これは神様の名前ですよ」ってジャンル分けしてくれるでしょ。`ki` が付けば地名、`giš` が付けば木製品ってすぐ分かる。</p>
+    <p class="plc-line"><b>ニン：</b>読まれないのに、意味を整理する役に立ってるんだ。まさに無言の案内係だね。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 音節文字としての楔形文字](/script-and-phonology/cuneiform-syllabary/)

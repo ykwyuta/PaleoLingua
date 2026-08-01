@@ -39,6 +39,17 @@ lu2-dingir-ra   dumu   ur-dnanše-ke4   ir11   d nanše
 
 このように円筒印章銘文は非常に短いながらも、[人名の構造](/readings/reading-personal-names/)・属格連鎖・基本語彙という、ここまでの記事で学んだ要素を組み合わせて読み解くことができる、絶好の総合演習の題材である。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="エン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：はんこのご先祖さま</p>
+    <p class="plc-line"><b>エン：</b>ニン、円筒印章ってさ、粘土の上でコロコロ転がすと、模様と銘文がずっと連続して現れるんだよ。</p>
+    <p class="plc-line"><b>ニン：</b>まさに「はんこ」のご先祖さまだね。しかも銘文には持ち主の名前・親の名前・仕える神様まで刻んであるなんて、今の名刺よりずっと情報量が多い。</p>
+    <p class="plc-line"><b>エン：</b>そして嬉しいのは、この銘文を読むのに、人名の構造も、属格 `-ak` も、コピュラ `me` も――ここまで学んできたことが全部つながって使えることなんだ。</p>
+    <p class="plc-line"><b>ニン：</b>小さな印章ひとつに、これまでの学びがぎゅっと詰まってるんだね。私たちも一緒に、ここまでよく頑張ったね！</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 属格 -ak](/grammar/genitive-case-ak/)

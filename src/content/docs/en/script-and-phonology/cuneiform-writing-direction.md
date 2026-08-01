@@ -28,6 +28,17 @@ As a side effect of this rotation, the early pictographic signs — originally o
 
 Every transliteration a student or researcher encounters today reflects this post-rotation layout: left to right, top to bottom. That means every example and table in this course can simply be read left to right, exactly like ordinary alphabetic text.
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="Nin" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: Why the Ox Head Is Lying Down</p>
+    <p class="plc-line"><b>Nin:</b> En, is it true the old ox-head pictograph ends up sideways in later cuneiform?</p>
+    <p class="plc-line"><b>En:</b> It is! Around 2600 BCE scribes started turning the tablet on its side to write, and the whole script rotated 90 degrees along with it.</p>
+    <p class="plc-line"><b>Nin:</b> Kind of like how we turn our phones sideways to watch video lying down?</p>
+    <p class="plc-line"><b>En:</b> Pretty much. So every ox head you see in later cuneiform looks like it's taking a nap on its side.</p>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: The Origins of Cuneiform](/en/script-and-phonology/cuneiform-history/)

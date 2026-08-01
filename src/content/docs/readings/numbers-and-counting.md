@@ -42,6 +42,17 @@ sidebar:
 
 これらの数詞は、行政・経済文書に頻出する「羊◯頭」「粘土板◯枚」のような数量表現の基礎となる。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="エン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：時計の中にシュメールが生きている</p>
+    <p class="plc-line"><b>エン：</b>ニン、実は私たちが今日この後「あと60分で集合ね」って言うとき、シュメール人の数体系のおかげなんだよ。</p>
+    <p class="plc-line"><b>ニン：</b>1時間が60分、1分が60秒……たしかにキリのいい10進法じゃないのに、ずっと使われ続けてるね。円が360度なのも60の倍数だし。</p>
+    <p class="plc-line"><b>エン：</b>60は2、3、4、5、6…といろんな数できれいに割り切れるから、分数計算がしやすい合理的な選択だったとも言われているんだ。</p>
+    <p class="plc-line"><b>ニン：</b>4000年前の知恵が、今も腕時計の中でこっそり時を刻んでるなんて、なんだかロマンチックだね。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 楔形文字の書き方と方向](/script-and-phonology/cuneiform-writing-direction/)

@@ -42,6 +42,17 @@ kur-kur          gal-gal
 
 たとえば「死ぬ」という動詞は、死ぬ主体が1人か複数かによって、`uš2` と `ug7` という全く見た目の異なる語根が使い分けられる。これは日本語の「（人が）死ぬ」と「（人々が）死ぬ」のように動詞自体は変えずに済ませる言語とは対照的な特徴である。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="ニン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：「山々」はシュメール語にもあった</p>
+    <p class="plc-line"><b>ニン：</b>`kur-kur`（あらゆる国々）って見て、あ、これ日本語の「山々」「人々」と同じ発想だ！って思っちゃった。</p>
+    <p class="plc-line"><b>エン：</b>面白いよね。日本語も同じ単語を重ねて「たくさん」や「それぞれ」を表す。系統的には無関係な2つの言語が、似た発想に行き着いてるんだ。</p>
+    <p class="plc-line"><b>ニン：</b>逆に「死ぬ」が単数と複数で `uš2` と `ug7` とまったく別の形になるのは、日本語にはない感覚で新鮮だった。</p>
+    <p class="plc-line"><b>エン：</b>似ている部分と、まったく違う部分。両方見つけると記憶に残りやすいよ。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 名詞句の構造と限定表現](/grammar/noun-phrase-genitive-chain/)

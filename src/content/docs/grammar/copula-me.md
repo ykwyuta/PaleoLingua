@@ -39,6 +39,17 @@ ur-dnamma   lugal-am3
 | 1人称の名詞述語文 | 名詞 + `-me-en` |
 | 独立した「〜である」動詞 | `me` |
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="エン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：「僕は王である」と言ってみる</p>
+    <p class="plc-line"><b>エン：</b>ニン、聞いて。`ĝe26-e lugal-me-en`（私は王である）！</p>
+    <p class="plc-line"><b>ニン：</b>急にどうしたの……名詞にただ `-me-en` を付けるだけで、"I am ___" が完成しちゃうのが面白いよね。</p>
+    <p class="plc-line"><b>エン：</b>そう、動詞みたいな複雑な人称接辞がいらないんだ。名詞の後ろにペタッと貼るだけで文になる、お手軽さがシュメール語らしいところ。</p>
+    <p class="plc-line"><b>ニン：</b>じゃあ私も名乗ってみる。`ĝe26-e nin-me-en`（私は女主人である）！</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 代名詞（人称代名詞・指示代名詞）](/grammar/personal-demonstrative-pronouns/)

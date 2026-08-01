@@ -37,6 +37,17 @@ A suffix at the end of the verb can mark the person and number of the absolutive
 
 The full verbal conjugation system is one of the more advanced topics in Sumerian grammar. A good approach at this stage is to memorize set example sentences like `lugal-e e2 mu-du3` as whole units, then move on to [Marû and Ḫamṭu verb stems](/en/grammar/maru-hamtu-aspect/) to build up your understanding of the verb system gradually.
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="En" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: One Verb, One Tiny Sentence</p>
+    <p class="plc-line"><b>En:</b> Nin, `mu-du3` is just one word, but the prefix plus root together mean "built (toward here)."</p>
+    <p class="plc-line"><b>Nin:</b> It's like Lego bricks — stack the pieces in the right fixed order, and one word turns into a miniature sentence.</p>
+    <p class="plc-line"><b>En:</b> Exactly, that's why it's called "polysynthetic." What English or Japanese would spread across several words, Sumerian crams into a single verb.</p>
+    <p class="plc-line"><b>Nin:</b> Memorizing every rule for every piece sounds like a lot, so let's start simple: just learn `lugal-e e2 mu-du3` as one whole chunk first.</p>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: Marû and Ḫamṭu Verb Stems (Aspect)](/en/grammar/maru-hamtu-aspect/)

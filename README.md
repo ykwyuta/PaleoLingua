@@ -63,12 +63,15 @@
 
 ```text
 .
-├── src/content/docs/       # 記事本体（Starlight）。ja はルート直下、英語は en/ 配下
-│   ├── script-and-phonology/
-│   ├── grammar/
-│   ├── readings/
-│   └── en/                 # 上記と同じ構成の英語版
-├── astro.config.mjs        # Starlight設定（i18n・サイドバー構成）
+├── src/content/docs/       # 記事本体（Starlight）。言語→カテゴリの順でディレクトリを分ける。ja はルート直下、英語は en/ 配下
+│   ├── sumerian/
+│   │   ├── script-and-phonology/
+│   │   ├── grammar/
+│   │   └── readings/
+│   ├── old-norse/
+│   │   └── ...              # 各言語ディレクトリの中身は上と同じ3カテゴリ構成
+│   └── en/                  # 上記と同じ構成の英語版（en/sumerian/..., en/old-norse/... など）
+├── astro.config.mjs        # Starlight設定（i18n・サイドバー構成。言語グループの下に3カテゴリを配置）
 ├── .claude/skills/paleolingua-article-writer/SKILL.md  # 記事執筆スキル本体
 └── .github/workflows/generate-articles.yml             # スキルを呼び出す自動執筆ワークフロー
 ```

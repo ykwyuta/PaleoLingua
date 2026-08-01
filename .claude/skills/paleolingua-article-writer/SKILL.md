@@ -23,10 +23,15 @@ PaleoLingua（シュメール語・アッカド語・サンスクリット語・
 
 すべての記事は **日本語版・英語版を必ずペアで作成/更新する**。どちらか一方だけの追加は禁止。
 
-- 日本語版: `src/content/docs/<category>/<slug>.md`
-- 英語版: `src/content/docs/en/<category>/<slug>.md`
+- 日本語版: `src/content/docs/<language>/<category>/<slug>.md`
+- 英語版: `src/content/docs/en/<language>/<category>/<slug>.md`
+- `<language>` は対象古代言語のスラッグ（Frontmatterの `topic` と同じ値。例: `sumerian`, `old-norse`）。
+  サイドバーが言語を最上位、カテゴリをその下に置く構成になっているため、ディレクトリも必ず言語→カテゴリの順にする。
 - `<slug>` は両言語で同一のケバブケース文字列にする（Starlightが言語切替時にページを対応付けるため）。
-- 作成前に対象ディレクトリを一覧し、同じ `<slug>` や近いテーマの記事が既に存在しないか確認する。
+- 作成前に対象ディレクトリ（`src/content/docs/<language>/<category>/`）を一覧し、同じ `<slug>` や近いテーマの記事が
+  既に存在しないか確認する。
+- 新しい言語の記事を初めて追加する場合は、`astro.config.mjs` の `sidebar` にその言語のグループ（カテゴリ3つを
+  子として持つ）を追加すること。
 
 ## 3. Frontmatter 仕様
 
@@ -70,7 +75,9 @@ README.md の「4. コンテンツ戦略」に基づき、カテゴリごとに�
 ## 6. 関連リンク
 
 記事末尾に `## 関連項目` / `## See also` セクションを設け、同カテゴリまたは関連カテゴリの既存記事への
-相対リンク（例: `/grammar/sumerian-ergative/`, `/en/grammar/sumerian-ergative/`）を1〜3件加える。
+相対リンク（例: `/sumerian/grammar/sumerian-ergative/`, `/en/sumerian/grammar/sumerian-ergative/`）を1〜3件加える。
+リンクは必ずカテゴリ名だけでなく `<language>` セグメントも含めること（カテゴリのトップページは存在しないため、
+`<slug>` を省略したリンクは404になる）。
 
 ## 7. 学びのコラム（マスコットキャラクター）
 
@@ -142,8 +149,11 @@ README.md の「4. コンテンツ戦略」に基づき、カテゴリごとに�
 
 - ja/en 両方のファイルが作成/更新されている。
 - Frontmatter がスキーマ通りである（`title`, `description`, 実内容を書いた記事には `topic`, 任意で `sidebar.order`）。
-- 新カテゴリを追加した場合は `astro.config.mjs` の `sidebar` にも反映されている。
-- 新しい言語の `topic` を初めて使う場合は `src/content.config.ts` の `TOPICS` にも追記されている。
+- 新カテゴリを追加した場合は `astro.config.mjs` の `sidebar`（各言語グループ内）にも反映されている。
+- 新しい言語の `topic` を初めて使う場合は `src/content.config.ts` の `TOPICS`、`astro.config.mjs` の
+  `sidebar`（言語グループとその下の3カテゴリ）、および `src/content/docs/index.mdx` と
+  `src/content/docs/en/index.mdx` の「記事一覧」/「Articles」セクション（言語ごとの見出し＋
+  `<ArticleThumbnailGrid>` 3個）にも追記されている。
 - プレースホルダーでない実記事には、ja/en 両方に「7. 学びのコラム」のルールに従ったコラムが挿入されている。
 - 対象言語のキャラクター画像が未登録の場合は、コラムを書かずにユーザーへ画像提供を依頼している。
 - 可能であれば `npm run build` を実行し、Starlightのビルドが通ることを確認する。

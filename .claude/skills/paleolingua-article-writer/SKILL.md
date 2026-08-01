@@ -87,7 +87,7 @@ README.md の「4. コンテンツ戦略」に基づき、カテゴリごとに�
 |---|---|---|---|---|
 | シュメール語 | エン（en＝「主」） | ニン（nin＝「女主人」） | `/images/characters/sumerian/` | 準備済み |
 | アッカド語 | 未定 | 未定 | `/images/characters/akkadian/`（未作成） | 画像未提供 |
-| サンスクリット語 | 未定 | 未定 | `/images/characters/sanskrit/`（未作成） | 画像未提供 |
+| サンスクリット語 | バーラ（bāla＝「少年」） | バーラー（bālā＝「少女」） | `/images/characters/sanskrit/` | 準備済み |
 | ヒッタイト語 | 未定 | 未定 | `/images/characters/hittite/`（未作成） | 画像未提供 |
 | 古エジプト語 | 未定 | 未定 | `/images/characters/old-egyptian/`（未作成） | 画像未提供 |
 | ウガリト語/アラム語 | 未定 | 未定 | `/images/characters/ugaritic-aramaic/`（未作成） | 画像未提供 |

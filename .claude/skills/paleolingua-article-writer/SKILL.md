@@ -88,7 +88,7 @@ README.md の「4. コンテンツ戦略」に基づき、カテゴリごとに�
 | シュメール語 | エン（en＝「主」） | ニン（nin＝「女主人」） | `/images/characters/sumerian/` | 準備済み |
 | アッカド語 | シャマシュ（šamaš＝「太陽」） | イシュタル（ištar＝「金星・宵の明星」） | `/images/characters/akkadian/` | 準備済み |
 | サンスクリット語 | チャンドラ（candra＝「月」） | ターラー（tārā＝「星」） | `/images/characters/sanskrit/` | 準備済み |
-| ヒッタイト語 | 未定 | 未定 | `/images/characters/hittite/`（未作成） | 画像未提供 |
+| ヒッタイト語 | タルフンナ（Tarḫunna＝天候神） | ウルシェム（Wurušemu＝アリンナの太陽女神） | `/images/characters/hittite/` | 準備済み |
 | 古エジプト語 | 未定 | 未定 | `/images/characters/old-egyptian/`（未作成） | 画像未提供 |
 | ウガリト語/アラム語 | 未定 | 未定 | `/images/characters/ugaritic-aramaic/`（未作成） | 画像未提供 |
 

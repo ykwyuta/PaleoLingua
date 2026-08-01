@@ -12,6 +12,8 @@ A cylinder seal is a small carved cylinder rolled across damp clay to mark owner
 
 ## Example inscription
 
+<p class="cuneiform">𒇽𒀭𒊏   𒌉   𒌨𒀭𒀏𒆤   𒀵   𒀭𒀏</p>
+
 ```
 lu2-dingir-ra   dumu   ur-dnanše-ke4   ir11   d nanše
 Lu-dingira      son    Ur-Nanše-GEN.ERG servant Nanše
@@ -19,20 +21,20 @@ Lu-dingira      son    Ur-Nanše-GEN.ERG servant Nanše
 
 **Word-by-word gloss**
 
-| Word | Morphological breakdown | Meaning |
-|---|---|---|
-| lu2-`d`dingir-ra | proper noun | Lu-dingira (the seal owner's name) |
-| dumu | noun | son |
-| ur-`d`nanše-ke4 | proper noun + -ak (genitive, surfacing as -ke4 before the ergative) | of Ur-Nanše |
-| ir11 | noun | servant, slave |
-| `d`nanše | proper noun | the goddess Nanše |
+| Word | Cuneiform | Morphological breakdown | Meaning |
+|---|---|---|---|
+| lu2-`d`dingir-ra | 𒇽𒀭𒊏 | proper noun | Lu-dingira (the seal owner's name) |
+| dumu | 𒌉 | noun | son |
+| ur-`d`nanše-ke4 | 𒌨𒀭𒀏𒆤 | proper noun + -ak (genitive, surfacing as -ke4 before the ergative) | of Ur-Nanše |
+| ir11 | 𒀵 | noun | servant, slave |
+| `d`nanše | 𒀭𒀏 | proper noun | the goddess Nanše |
 
 **Translation**: "Lu-dingira, son of Ur-Nanše, servant of the goddess Nanše."
 
 ## Vocabulary and syntax notes
 
 - The sequence `dumu` ("son") + father's name + genitive `-ak` is exactly the "possessed noun + possessor + -ak" structure already covered in [The Genitive Case -ak](/en/sumerian/grammar/genitive-case-ak/).
-- For a female seal owner, `dumu-munus` ("daughter") replaces `dumu`, and `geme2` ("female servant") replaces `ir11` ("male servant").
+- For a female seal owner, `dumu-munus` 𒌉𒊩 ("daughter") replaces `dumu` 𒌉, and `geme2` 𒊩𒆳 ("female servant") replaces `ir11` 𒀵 ("male servant").
 - The closing phrase "servant of ___" is both a statement of status and a conventional expression of piety toward the named god or king.
 
 ## Wrapping up

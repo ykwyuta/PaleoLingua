@@ -1,6 +1,7 @@
 ---
 title: Adjective Declension (Strong and Weak)
 description: How Old Norse adjectives, like nouns, have both strong and weak declensions, illustrated with the paradigm and usage rules for gamall ("old").
+topic: old-norse
 sidebar:
   order: 19
 ---

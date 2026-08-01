@@ -1,6 +1,7 @@
 ---
 title: Logograms and Determinatives
 description: How whole-word logograms work, and how silent "determinative" signs mark the semantic category of the word next to them.
+topic: sumerian
 sidebar:
   order: 6
 ---

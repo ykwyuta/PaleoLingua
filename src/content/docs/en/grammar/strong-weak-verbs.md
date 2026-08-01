@@ -1,6 +1,7 @@
 ---
 title: Strong and Weak Verbs
 description: The difference between weak verbs, which form the past tense with a dental suffix, and strong verbs, which use vowel gradation (ablaut), illustrated with the principal parts of bíta ("to bite").
+topic: old-norse
 sidebar:
   order: 16
 ---

@@ -1,6 +1,7 @@
 ---
 title: Personal Affixes and Basic Verb Structure
 description: A simplified, beginner-level introduction to the prefix-root-suffix structure of the Sumerian finite verb, and the common prefix mu-.
+topic: sumerian
 sidebar:
   order: 8
 ---

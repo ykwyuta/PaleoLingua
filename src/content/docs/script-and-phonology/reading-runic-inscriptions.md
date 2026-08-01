@@ -1,6 +1,7 @@
 ---
 title: ルーン碑文の読み方
 description: 読字方向、単語の区切り、連結ルーン（バインドルーン）など、実際のルーン碑文を読み解くための実践的なルールを解説する。
+topic: old-norse
 sidebar:
   order: 13
 ---

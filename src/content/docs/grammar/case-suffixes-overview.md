@@ -1,6 +1,7 @@
 ---
 title: 格接尾辞の一覧（格標識体系の概観）
 description: シュメール語の主要な格接尾辞（絶対格・能格・属格・与格・処格など）を一覧表にまとめ、体系全体を概観する。
+topic: sumerian
 sidebar:
   order: 4
 ---

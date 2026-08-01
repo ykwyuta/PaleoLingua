@@ -1,6 +1,7 @@
 ---
 title: "Hávamál: Selected Stanzas"
 description: A close reading of two famous stanzas — 1 and 76 — from the Eddic wisdom poem Hávamál, with word-by-word gloss, translation, and grammatical notes.
+topic: old-norse
 sidebar:
   order: 7
 ---

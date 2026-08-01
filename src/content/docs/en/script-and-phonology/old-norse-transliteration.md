@@ -1,6 +1,7 @@
 ---
 title: Old Norse Transliteration (Normalized Orthography)
 description: The conventions of the normalized Old Norse orthography used in modern scholarly editions — þ vs. ð, acute-accent vowel length marking, and the umlaut vowel letters.
+topic: old-norse
 sidebar:
   order: 12
 ---

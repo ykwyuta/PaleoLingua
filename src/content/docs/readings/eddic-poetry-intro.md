@@ -1,6 +1,7 @@
 ---
 title: 古エッダ入門
 description: 神々と英雄を歌う古ノルド語詩集『古エッダ』の成立背景、韻律の特徴、主要作品を紹介する導入記事。
+topic: old-norse
 sidebar:
   order: 6
 ---

@@ -1,6 +1,7 @@
 ---
 title: 複数を表す方法
 description: 人間名詞に付く複数接尾辞 -ene、全体性を表す重複形、そして動詞語幹の交替による複数表現という、シュメール語の3通りの複数表現を解説する。
+topic: sumerian
 sidebar:
   order: 7
 ---

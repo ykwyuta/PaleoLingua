@@ -1,6 +1,7 @@
 ---
 title: The Origins of Cuneiform
 description: How cuneiform developed out of clay accounting tokens, moving from pictographs to abstract wedge-shaped signs.
+topic: sumerian
 sidebar:
   order: 3
 ---

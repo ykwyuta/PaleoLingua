@@ -1,6 +1,7 @@
 ---
 title: Verb-Second (V2) Word Order
 description: The V2 constraint found in Old Norse main clauses — the finite verb always occupies the second position of the sentence — illustrated with inversion examples.
+topic: old-norse
 sidebar:
   order: 17
 ---

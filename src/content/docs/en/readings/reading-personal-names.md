@@ -1,6 +1,7 @@
 ---
 title: Reading Sumerian Personal Names
 description: A gentle introduction to how many Sumerian personal names are built as tiny "sentences," with the structure of several well-known names.
+topic: sumerian
 sidebar:
   order: 3
 ---

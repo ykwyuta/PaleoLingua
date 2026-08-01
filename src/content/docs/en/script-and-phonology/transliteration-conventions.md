@@ -1,6 +1,7 @@
 ---
 title: Transliteration Conventions
 description: The basic conventions used to romanize cuneiform in scholarly transliteration — hyphens, index numbers, superscript determinatives, and damage markers.
+topic: sumerian
 sidebar:
   order: 7
 ---

@@ -1,6 +1,7 @@
 ---
 title: The Genitive Case -ak
 description: A closer look at the Sumerian genitive suffix -ak, its alternation with -a depending on the following sound, and worked examples of genitive chains.
+topic: sumerian
 sidebar:
   order: 5
 ---

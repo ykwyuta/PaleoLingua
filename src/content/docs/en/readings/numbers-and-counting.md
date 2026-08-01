@@ -1,6 +1,7 @@
 ---
 title: Numbers and Counting
 description: Sumerian's sexagesimal (base-60) number system, its cuneiform numeral signs, and the words for the numbers 1-10.
+topic: sumerian
 sidebar:
   order: 4
 ---

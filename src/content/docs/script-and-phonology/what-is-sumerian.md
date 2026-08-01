@@ -1,6 +1,7 @@
 ---
 title: シュメール語とは何か
 description: シュメール語の基本情報――話された時代と地域、系統的孤立性、そして現存する文献の概要を紹介する入門記事。
+topic: sumerian
 sidebar:
   order: 2
 ---

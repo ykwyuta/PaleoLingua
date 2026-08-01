@@ -1,6 +1,7 @@
 ---
 title: ニャールのサガ抜粋
 description: 家族サガの最高傑作とされる『ニャールのサガ』の有名な冒頭句を、翻字・逐語グロス・日本語訳・文法注釈とともに読む。
+topic: old-norse
 sidebar:
   order: 10
 ---

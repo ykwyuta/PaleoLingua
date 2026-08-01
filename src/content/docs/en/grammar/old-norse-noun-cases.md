@@ -1,6 +1,7 @@
 ---
 title: "Noun Cases: Nominative, Accusative, Genitive, Dative"
 description: An overview of the four-case system of Old Norse, illustrated with the declension of the masculine noun armr ("arm") and example sentences.
+topic: old-norse
 sidebar:
   order: 12
 ---

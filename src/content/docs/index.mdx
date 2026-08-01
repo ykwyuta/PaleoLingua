@@ -3,24 +3,70 @@ title: PaleoLingua
 description: AIが自律的に執筆・拡充する、オープンかつ完全無料の多言語（日本語・英語）ニッチ古代言語Web教科書
 template: splash
 hero:
-  tagline: シュメール語、サンスクリット語、アッカド語、ヒッタイト語 —— 日本語での学習リソースがほぼ存在しない古代言語を、AIが体系的に解説します。
+  tagline: シュメール語、サンスクリット語、アッカド語、ヒッタイト語 —— 日本語での学習リソースがほぼ存在しない古代言語に、AIエージェントだけで挑戦する実験的プロジェクト。
   actions:
     - text: 記事を読む
       link: /grammar/sumerian-ergative/
       icon: right-arrow
       variant: primary
+    - text: この企画について
+      link: '#paleolinguaとは'
+      icon: down-caret
+      variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Aside, LinkCard } from '@astrojs/starlight/components';
+import ArticleThumbnailGrid from '../../components/ArticleThumbnailGrid.astro';
 
-<CardGrid>
-  <Card title="文字と音韻" icon="pencil">
-    楔形文字の読み方・翻刻ルール、ヒエログリフの決定符一覧など。
-  </Card>
-  <Card title="基礎文法" icon="open-book">
-    能格言語の仕組み、格変化表など、古代言語の文法を体系的に解説。
-  </Card>
-  <Card title="読解・例文" icon="document">
-    ハンムラビ法典やギルガメシュ叙事詩など、原典の日/英対訳と文法解説。
-  </Card>
-</CardGrid>
+<Aside type="tip" title="これは実験的なプロジェクトです">
+  PaleoLinguaの記事は、人間の言語学者ではなく AI（Claude
+  Code）が自律的に調査・執筆しています。「これまで学ぶのが困難だった対象に、AIだけでどこまで取り組めるか」を試す実験です。誤りや解説の粒度のばらつきが残っている場合があります。お気づきの点は
+  [GitHub](https://github.com/ykwyuta/paleolingua) までお知らせください。
+</Aside>
+
+## PaleoLinguaとは
+
+<div class="plc-banner">
+  <img src="/images/characters/sumerian/boy-group.png" alt="シュメール語のマスコット、エン" />
+  <img src="/images/characters/sumerian/girl-group.png" alt="シュメール語のマスコット、ニン" />
+  <div>
+    <p>
+      シュメール語やヒッタイト語のような「超マイナー古代言語」は、強い興味を持っても日本語で読める入門書や学習サイトがほとんど存在しません。専門書は高価で難解、講座が開かれる場所も限られています。
+    </p>
+    <p>
+      PaleoLinguaは、この「学習リソースがほぼゼロ」という壁を、AIの力だけで打ち破れないかという実験的な企画です。専門のライターや言語学者を雇うのではなく、AIエージェントが文法を体系化し、原典を訳し、日本語と英語で記事を書き続けます。
+    </p>
+  </div>
+</div>
+
+## なぜAIなのか
+
+これまで、ニッチな古代言語の解説記事を書くには、専門知識を持つ研究者の時間という「希少で高価なリソース」が欠かせませんでした。だからこそ、商業的に成り立ちにくいマイナー言語の教材は生まれにくかったのです。
+
+PaleoLinguaは、この前提そのものを実験的に問い直します。記事の構成ルールや品質基準を1本の執筆スキルとして定義し、AIエージェント（Claude Code）に GitHub Actions 上で定期的に呼び出させることで、人手をほとんど介さずに文法解説・読解記事を生成し続けています。人件費・サーバー費をほぼ¥0に抑えながら、これまで「割に合わない」とされてきた学習コンテンツを、AIだけでどこまで持続的に拡充できるかを検証しています。
+
+## 記事一覧
+
+### 文字と音韻
+
+<ArticleThumbnailGrid locale="ja" category="script-and-phonology" />
+
+### 基礎文法
+
+<ArticleThumbnailGrid locale="ja" category="grammar" />
+
+### 読解・例文
+
+<ArticleThumbnailGrid locale="ja" category="readings" />
+
+## 運営方針
+
+- **完全無料・オープンソース**: 全記事を無料公開し、ソースは GitHub 上で誰でも閲覧できます。
+- **AIによる自律執筆**: 記事は日本語・英語ペアで、AIエージェントが継続的に執筆・拡充します。
+- **透明な運営プロセス**: 執筆スキルの定義から自動生成の履歴まで、すべて公開されたリポジトリ上で進行します。
+
+<LinkCard
+  title="GitHubリポジトリを見る"
+  description="執筆スキルや自動生成の仕組みなど、企画の裏側をすべて公開しています。"
+  href="https://github.com/ykwyuta/paleolingua"
+/>

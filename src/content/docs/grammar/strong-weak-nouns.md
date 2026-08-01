@@ -1,6 +1,7 @@
 ---
 title: 強変化名詞と弱変化名詞
 description: 古ノルド語名詞の「強変化」と「弱変化」の違いを、男性名詞armr/goðiと女性名詞gjǫf/sagaの対比を通じて解説する。
+topic: old-norse
 sidebar:
   order: 13
 ---

@@ -1,6 +1,7 @@
 ---
 title: 名詞句の構造と限定表現
 description: シュメール語の名詞句内部での要素の並び順（名詞→形容詞→属格句→指示詞→複数→格）と、属格連鎖の作り方を解説する。
+topic: sumerian
 sidebar:
   order: 3
 ---

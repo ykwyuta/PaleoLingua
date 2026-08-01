@@ -1,6 +1,7 @@
 ---
 title: Writing Direction and Wedge Shapes
 description: The wedge strokes made with a reed stylus, and the historical 90-degree rotation in how cuneiform was written and read.
+topic: sumerian
 sidebar:
   order: 4
 ---

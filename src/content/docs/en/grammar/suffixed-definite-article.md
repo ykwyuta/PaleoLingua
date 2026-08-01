@@ -1,6 +1,7 @@
 ---
 title: The Suffixed Definite Article
 description: How the Old Norse definite article fused onto the end of the noun rather than remaining a separate word, and the -inn/-in/-it declension pattern.
+topic: old-norse
 sidebar:
   order: 14
 ---

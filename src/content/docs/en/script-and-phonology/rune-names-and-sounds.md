@@ -1,6 +1,7 @@
 ---
 title: Rune Names and Sound Values
 description: How the acrophonic principle behind rune names works, and what the rune poems reveal about the meaning and symbolism of each letter.
+topic: old-norse
 sidebar:
   order: 11
 ---

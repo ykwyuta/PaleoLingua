@@ -1,6 +1,7 @@
 ---
 title: The Basics of Verb Conjugation
 description: The basic structure of Old Norse verbs — the infinitive ending and the present/past tense person-number endings — illustrated with the weak verb kalla ("to call").
+topic: old-norse
 sidebar:
   order: 15
 ---

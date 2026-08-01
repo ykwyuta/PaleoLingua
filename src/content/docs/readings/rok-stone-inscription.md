@@ -1,6 +1,7 @@
 ---
 title: ロク石碑文を読む
 description: 現存最長のルーン碑文として知られるスウェーデン・ロク石（Rök stone）の冒頭句を、翻字・逐語グロス・訳とともに読み解く。
+topic: old-norse
 sidebar:
   order: 8
 ---

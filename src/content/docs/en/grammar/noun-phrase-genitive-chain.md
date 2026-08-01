@@ -1,6 +1,7 @@
 ---
 title: Noun Phrase Structure and the Genitive Chain
 description: The fixed order of elements inside a Sumerian noun phrase (noun, adjective, genitive phrase, demonstrative, plural, case), and how genitive chains are built.
+topic: sumerian
 sidebar:
   order: 3
 ---

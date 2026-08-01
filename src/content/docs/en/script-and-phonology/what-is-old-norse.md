@@ -1,6 +1,7 @@
 ---
 title: What Is Old Norse?
 description: A first look at Old Norse — where and when it was spoken, its genetic affiliation, its runic and later Latin writing systems, and the surviving corpus.
+topic: old-norse
 sidebar:
   order: 8
 ---

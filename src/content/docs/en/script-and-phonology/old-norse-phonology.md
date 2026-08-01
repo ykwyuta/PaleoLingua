@@ -1,6 +1,7 @@
 ---
 title: Old Norse Phonology
 description: The vowel and consonant systems of Old Norse, the length contrast, and how i-umlaut and u-umlaut drive alternations across the noun and verb paradigms.
+topic: old-norse
 sidebar:
   order: 14
 ---

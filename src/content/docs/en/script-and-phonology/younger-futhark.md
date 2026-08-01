@@ -1,6 +1,7 @@
 ---
 title: "The Younger Futhark: the 16 Runes of the Viking Age"
 description: The letterforms of the Younger Futhark used to write Viking Age Old Norse, the difference between long-branch and short-twig runes, and how the letter shapes are organized.
+topic: old-norse
 sidebar:
   order: 10
 ---

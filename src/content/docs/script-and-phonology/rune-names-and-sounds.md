@@ -1,6 +1,7 @@
 ---
 title: 各ルーンの名称と音価
 description: ルーン文字の名前が音価そのものを示す「頭音原理」の仕組みと、ルーン詩に見る各文字の意味・象徴を解説する。
+topic: old-norse
 sidebar:
   order: 11
 ---

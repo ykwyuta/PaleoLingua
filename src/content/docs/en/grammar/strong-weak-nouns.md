@@ -1,6 +1,7 @@
 ---
 title: Strong and Weak Nouns
 description: The difference between "strong" and "weak" noun declension in Old Norse, illustrated by contrasting armr/goði (masculine) and gjǫf/saga (feminine).
+topic: old-norse
 sidebar:
   order: 13
 ---

@@ -1,6 +1,7 @@
 ---
 title: Viking Age Runestones
 description: The formulaic structure common to thousands of surviving Viking Age memorial inscriptions — "X raised this stone in memory of Y" — read through a typical example.
+topic: old-norse
 sidebar:
   order: 9
 ---

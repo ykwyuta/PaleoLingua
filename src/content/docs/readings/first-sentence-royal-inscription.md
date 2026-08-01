@@ -37,7 +37,7 @@ ur-dnamma   lugal-e   e2-ninnu   mu-du3
 - 動詞 `mu-du3` が文末に置かれ、[SOV語順](/grammar/word-order-sov/)の通り、動詞が文を締めくくっている。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="ニン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：王様たちの「テンプレ文章」</p>
     <p class="plc-line"><b>ニン：</b>`ur-dnamma lugal-e e2-ninnu mu-du3` みたいな文、いろんな王碑文で似た形が繰り返し出てくるんだね。</p>

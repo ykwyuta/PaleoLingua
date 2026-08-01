@@ -43,7 +43,7 @@ Separate from the numeral signs, Sumerian also has spoken number words.
 These number words underlie the constant quantity expressions found in administrative and economic texts — "N sheep," "N tablets," and so on.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="En" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Sumer Is Still Ticking Inside Your Watch</p>
     <p class="plc-line"><b>En:</b> Nin, every time we say "meet in 60 minutes," we're quietly relying on the Sumerian number system.</p>

@@ -40,7 +40,7 @@ While `-am3` is specifically a suffix for nominal predicate sentences ("A is B")
 | Independent verb "to be" | `me` |
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="En" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Declaring "I Am King"</p>
     <p class="plc-line"><b>En:</b> Nin, check this out: `ĝe26-e lugal-me-en` — "I am king"!</p>

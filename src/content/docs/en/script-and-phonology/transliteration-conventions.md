@@ -36,7 +36,7 @@ Tablets are frequently damaged, and transliteration includes notation to show ex
 These conventions exist purely so scholars can communicate a tablet's physical condition and the certainty of a reading — they are separate from Sumerian grammar itself. To keep the examples in this course readable, brackets and damage markers are generally omitted, and only well-established readings are given.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="Nin" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: `[ ]` Is an Honesty Mark</p>
     <p class="plc-line"><b>Nin:</b> En, all these `[ ]` and `?` symbols in transliterations looked intimidating at first, like math notation.</p>

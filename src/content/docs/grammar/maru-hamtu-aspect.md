@@ -34,7 +34,7 @@ e2-še3   i3-ĝen
 マルー形とハムトゥ形の区別は、動詞に付く人称接辞や接頭辞の現れ方にも影響するため、シュメール語の動詞体系全体を理解する上での土台となる。初学者の段階では、まず「シュメール語の動詞には完了的な形（ハムトゥ）と未完了的な形（マルー）という、語幹そのものが変わりうる2つの姿がある」という事実を押さえておけば十分である。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="エン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：「行く」と「go」、実は仲間</p>
     <p class="plc-line"><b>エン：</b>ニン、`ĝen`（行った）と `du`（行く）が全然違う形なのって変じゃない？</p>

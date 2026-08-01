@@ -45,7 +45,7 @@ mother    shepherd sheep-GEN-GEN
 Here, the whole phrase `sipa udu-ak` ("shepherd of sheep") takes a further genitive suffix, building the larger phrase `ama sipa udu-ak-ak` ("the mother of the shepherd of sheep").
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="En" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: The Chameleon Suffix</p>
     <p class="plc-line"><b>En:</b> "The king's house" shows up as both `lugal-ak` and `lugal-la` — are those two different grammatical elements?</p>

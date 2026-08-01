@@ -34,7 +34,7 @@ sidebar:
 限定符は発音されないため、翻字上は読みの一部として声に出して読まない（ただし表記上は残す）。たとえば `d`nanna は「ディンギル・ナンナ」ではなく単に「ナンナ」と読む。限定符はあくまで書記官が意味の取り違えを防ぐために添えた「見出しラベル」のようなものだと考えるとよい。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="エン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：発音しない「ハッシュタグ」</p>
     <p class="plc-line"><b>エン：</b>ニン、限定符ってさ、SNSのハッシュタグにちょっと似てると思わない？</p>

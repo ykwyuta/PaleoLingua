@@ -37,7 +37,7 @@ e2   lugal-ak-e
 各格の詳細（特に属格・与格・処格・終端格など）は、それぞれ個別の記事でより深く扱う。まずはこの一覧表で「シュメール語には格接尾辞という仕組みがあり、それぞれの接尾辞に固有の役割がある」という全体像を掴んでおきたい。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="ニン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：格接尾辞は「荷物タグ」</p>
     <p class="plc-line"><b>ニン：</b>格接尾辞が10種類もあるって聞くと、ちょっと身構えちゃう。</p>

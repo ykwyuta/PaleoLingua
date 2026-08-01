@@ -27,7 +27,7 @@ lugal-e  e2  mu-du3
 `lugal`（王）は他動詞 `du3`（建てる）の動作主なので、能格接尾辞 `-e` が付く。一方 `e2`（家）は目的語であり、絶対格（無標）のままである。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="ニン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：主語なのに形が変わる不思議</p>
     <p class="plc-line"><b>ニン：</b>エン、`lugal-e e2 mu-du3` の `lugal-e` って、主語なのに `-e` が付いてる。日本語や英語の主語には、こんな印は要らないよね？</p>

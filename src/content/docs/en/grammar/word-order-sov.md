@@ -39,7 +39,7 @@ Where English places the adjective before the noun ("big house"), Sumerian place
 This combination — a verb-final clause paired with a noun-initial phrase — is somewhat unusual typologically, and it is one of the first things to internalize when starting out with Sumerian syntax.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="En" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: A Head Start for SOV Speakers</p>
     <p class="plc-line"><b>En:</b> Nin, speakers of verb-final languages like Japanese, Korean, or Turkish already have a head start with Sumerian word order — the verb comes last in both.</p>

@@ -40,7 +40,7 @@ Cuneiform syllabograms show two related complications: "polyvalence," where a si
 The index number is purely a scholarly notation for *which sign* is being used — it does not indicate any difference in pronunciation.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="En" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Same "du," Different Sign</p>
     <p class="plc-line"><b>En:</b> Quiz time, Nin. `du`, `du3`, and `du6` are all pronounced exactly the same — "du." So why bother with the index numbers?</p>

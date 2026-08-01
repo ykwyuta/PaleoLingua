@@ -40,7 +40,7 @@ ka2       e2         lugal-ak-a(k)
 この例では、`e2 lugal-ak`（「王の家」）全体が、さらに `ka2`（門）に対する属格修飾語として機能している。属格句がどれだけ長くなっても、構造は常に「名詞＋（属格句）」という形を保つ。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="ニン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：属格連鎖はマトリョーシカ</p>
     <p class="plc-line"><b>ニン：</b>`ka2 e2 lugal-ak-a(k)`（王の家の門）って、属格が入れ子になっていて最初は混乱しちゃった。</p>

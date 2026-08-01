@@ -34,7 +34,7 @@ house-TERM he.went
 The ḫamṭu/marû distinction affects how person markers and prefixes attach to the verb, making it foundational to the whole Sumerian verbal system. At this introductory stage, it's enough to grasp the core fact: Sumerian verbs come in two aspectual "shapes" — a completed (ḫamṭu) one and an ongoing (marû) one — and for some common verbs, these shapes use entirely different roots.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="En" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: "ĝen" and "Went" Are Secretly Cousins</p>
     <p class="plc-line"><b>En:</b> Nin, doesn't it feel strange that `ĝen` ("went") and `du` ("go") look nothing alike?</p>

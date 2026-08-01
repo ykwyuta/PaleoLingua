@@ -45,7 +45,7 @@ ama       sipa    udu-ak-ak
 上の例のように、`sipa udu-ak`（羊の羊飼い）全体に、さらに属格接尾辞を付けることで、より大きな名詞句 `ama sipa udu-ak-ak`（羊の羊飼いの母）を作ることができる。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="エン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：カメレオンな -ak</p>
     <p class="plc-line"><b>エン：</b>同じ「王の家」なのに `lugal-ak` になったり `lugal-la` になったり……これって別の文法なの？</p>

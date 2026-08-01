@@ -39,7 +39,7 @@ e2      gal
 この「節は動詞終端、句は名詞先頭」という組み合わせは類型論的にはやや珍しく、シュメール語の統語構造を学ぶ上で最初に押さえておくべき基本事項である。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="エン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：日本語話者には有利な語順</p>
     <p class="plc-line"><b>エン：</b>ニン、シュメール語の語順って実は日本語話者にとってラッキーなんだよ。動詞が最後に来るところがそっくりだから。</p>

@@ -36,7 +36,7 @@ sidebar:
 これらの記法は、あくまで研究者間で状態や解釈を共有するための約束事であり、シュメール語の文法そのものとは別物である。本コースの例文では、学習の妨げにならない範囲で角括弧などの記号を省略し、確立した読みのみを提示する。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="ニン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：`[ ]` は考古学者の正直マーク</p>
     <p class="plc-line"><b>ニン：</b>エン、翻字に出てくる `[ ]` や `?` って、なんだか数学の記号みたいで最初は身構えちゃった。</p>

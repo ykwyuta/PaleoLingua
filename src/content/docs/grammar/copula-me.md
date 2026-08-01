@@ -40,7 +40,7 @@ ur-dnamma   lugal-am3
 | 独立した「〜である」動詞 | `me` |
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="エン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：「僕は王である」と言ってみる</p>
     <p class="plc-line"><b>エン：</b>ニン、聞いて。`ĝe26-e lugal-me-en`（私は王である）！</p>

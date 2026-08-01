@@ -22,7 +22,7 @@ sidebar:
 楔形文字は本来シュメール語のために発達した文字体系だが、その後アッカド語（バビロニア語・アッシリア語）、エブラ語、エラム語、フルリ語、ウラルトゥ語、ヒッタイト語（およびその他のアナトリア諸語）など、系統の異なる多くの言語を書き表すために借用・改変された。中でもアッカド語による楔形文字使用は非常に長く続き、古代ペルシアの楔形文字（音節・音素文字に簡略化されたもの）にまで影響を与えたとされる。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="エン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：文字は「そろばん」から生まれた</p>
     <p class="plc-line"><b>エン：</b>ニン、楔形文字の一番最初って、実は文字ですらなかったって知ってた？</p>

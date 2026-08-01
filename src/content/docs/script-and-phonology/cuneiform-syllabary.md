@@ -40,7 +40,7 @@ du-mu
 索引番号はあくまで「どの字形を使っているか」を示す学術的な記法であり、発音そのものが異なるわけではない点に注意したい。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="エン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：同じ「du」でも中身は別人</p>
     <p class="plc-line"><b>エン：</b>クイズだよ、ニン。`du`・`du3`・`du6` の3つ、発音はぜんぶ同じ「ドゥ」なのに、なぜ番号で区別するでしょう？</p>

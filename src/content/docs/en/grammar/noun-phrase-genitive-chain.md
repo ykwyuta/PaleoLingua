@@ -40,7 +40,7 @@ gate      house-GEN  king-GEN
 Here the whole phrase `e2 lugal-ak` ("the king's house") itself functions as the genitive modifier of `ka2` ("gate"). No matter how long a genitive chain grows, the underlying structure stays the same: noun + (genitive phrase).
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/girl-icon-sparkle.png" alt="Nin" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Genitive Chains Are Matryoshka Dolls</p>
     <p class="plc-line"><b>Nin:</b> `ka2 e2 lugal-ak-a(k)` ("the gate of the king's house") confused me at first — genitives nested inside genitives.</p>

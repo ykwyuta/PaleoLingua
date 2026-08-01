@@ -40,7 +40,7 @@ lu2-dingir-ra   dumu   ur-dnanše-ke4   ir11   d nanše
 このように円筒印章銘文は非常に短いながらも、[人名の構造](/readings/reading-personal-names/)・属格連鎖・基本語彙という、ここまでの記事で学んだ要素を組み合わせて読み解くことができる、絶好の総合演習の題材である。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/boy-icon-smile.png" alt="エン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：はんこのご先祖さま</p>
     <p class="plc-line"><b>エン：</b>ニン、円筒印章ってさ、粘土の上でコロコロ転がすと、模様と銘文がずっと連続して現れるんだよ。</p>

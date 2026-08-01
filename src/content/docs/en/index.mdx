@@ -3,15 +3,67 @@ title: PaleoLingua
 description: An open, completely free, AI-authored multilingual (Japanese/English) web textbook for niche ancient languages
 template: splash
 hero:
-  tagline: Sumerian, Sanskrit, Akkadian, Hittite — systematic AI-written guides to ancient languages that are barely covered anywhere, in either language.
+  tagline: Sumerian, Sanskrit, Akkadian, Hittite — an experimental project where AI agents alone tackle ancient languages that are barely covered anywhere, in either language.
   actions:
     - text: Read an article
       link: /en/grammar/sumerian-ergative/
       icon: right-arrow
       variant: primary
+    - text: About this project
+      link: '#what-is-paleolingua'
+      icon: down-caret
+      variant: minimal
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Card, CardGrid, Aside, LinkCard } from '@astrojs/starlight/components';
+
+<Aside type="tip" title="This is an experimental project">
+  Every article on PaleoLingua is researched and written not by a human
+  linguist, but by an AI agent (Claude Code) working autonomously. It's an
+  experiment in how far AI alone can go with subjects that have historically
+  been too niche, too specialized, and too costly for humans to cover well.
+  Errors and uneven depth may remain. If you spot something, please let us
+  know on [GitHub](https://github.com/ykwyuta/paleolingua).
+</Aside>
+
+## What is PaleoLingua
+
+<div class="plc-banner">
+  <img src="/images/characters/sumerian/boy-group.png" alt="En, the Sumerian boy mascot" />
+  <img src="/images/characters/sumerian/girl-group.png" alt="Nin, the Sumerian girl mascot" />
+  <div>
+    <p>
+      For languages like Sumerian or Hittite, even a highly motivated learner
+      will struggle to find an accessible textbook or course — resources are
+      scarce in English, and nearly nonexistent in most other languages.
+      Academic material is expensive, dense, and locked behind specialist
+      training.
+    </p>
+    <p>
+      PaleoLingua is an experiment in whether AI, on its own, can break down
+      that wall. Instead of hiring writers or linguists, an AI agent
+      systematizes the grammar, translates primary texts, and keeps writing
+      articles in both Japanese and English.
+    </p>
+  </div>
+</div>
+
+## Why AI
+
+Writing a reliable guide to a niche ancient language has always required a
+scarce and expensive resource: the time of a specialist researcher. That's a
+large part of why so little learning material exists for minor languages —
+it simply didn't make economic sense to produce.
+
+PaleoLingua sets out to test that assumption. The writing rules and quality
+bar are defined once, as a single Claude Code skill, and a GitHub Actions
+workflow calls that skill on a recurring schedule to generate grammar
+explanations and annotated readings with almost no human involvement. By
+keeping labor and server costs close to ¥0, the project is a live test of
+how far AI alone can sustain content that was previously considered
+economically unviable.
+
+## What's covered
 
 <CardGrid>
   <Card title="Script & Phonology" icon="pencil">
@@ -24,3 +76,15 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
     Bilingual (ja/en) annotated texts such as the Code of Hammurabi and the Epic of Gilgamesh.
   </Card>
 </CardGrid>
+
+## How it's run
+
+- **Free and open source** — every article is free to read, and the entire source is public on GitHub.
+- **Written autonomously by AI** — articles are produced as matched Japanese/English pairs, continuously extended by an AI agent.
+- **Fully transparent process** — from the writing skill definition to the history of every auto-generated commit, it all happens in the open repository.
+
+<LinkCard
+  title="View the GitHub repository"
+  description="See exactly how the writing skill and the automated pipeline work behind the scenes."
+  href="https://github.com/ykwyuta/paleolingua"
+/>

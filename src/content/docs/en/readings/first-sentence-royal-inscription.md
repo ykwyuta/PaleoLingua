@@ -35,6 +35,17 @@ Ur-Namma    king-ERG  Eninnu     he-built
 - `e2-ninnu` (the object) is absolutive, appearing unmarked with no case suffix.
 - The verb `mu-du3` sits at the very end of the sentence, exactly as expected from [SOV word order](/en/grammar/word-order-sov/).
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: The Kings' Copy-Paste Template</p>
+    <p class="plc-line"><b>Nin:</b> Sentences like `ur-dnamma lugal-e e2-ninnu mu-du3` keep showing up in similar form across so many royal inscriptions.</p>
+    <p class="plc-line"><b>En:</b> Right, royal inscriptions are heavily "templated" — the skeleton "so-and-so built such-and-such" got reused for centuries.</p>
+    <p class="plc-line"><b>Nin:</b> Kind of like a modern press release's boilerplate opening, "We are pleased to announce..."?</p>
+    <p class="plc-line"><b>En:</b> Exactly that. And precisely because it's so formulaic, this ends up being the friendliest possible entry point for reading a real primary source for the first time.</p>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: Sumerian Ergative and Absolutive Case](/en/grammar/sumerian-ergative/)

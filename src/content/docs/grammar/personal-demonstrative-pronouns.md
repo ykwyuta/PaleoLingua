@@ -36,6 +36,17 @@ e2-bi
 
 シュメール語の代名詞体系は、動詞の人称接辞（[人称接辞と動詞の基本構造](/grammar/personal-affixes-verb-basics/)を参照）と役割が重なる部分が多く、独立代名詞が使われる文脈は日本語や英語ほど頻繁ではない。多くの場面では、代名詞を独立して置かなくても、動詞や名詞に付く接辞だけで「誰が」「何を」が示されるためである。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：指さしゲームで代名詞を覚える</p>
+    <p class="plc-line"><b>ニン：</b>エン、指さしゲームしよう。自分を指さしたら `ĝe26-e`（私）、相手を指さしたら `za-e`（あなた）って言うの。</p>
+    <p class="plc-line"><b>エン：</b>いいね。（自分を指して）`ĝe26-e`！（ニンを指して）`za-e`！</p>
+    <p class="plc-line"><b>ニン：</b>じゃあ、さっき話した家を指さしたら？</p>
+    <p class="plc-line"><b>エン：</b>`e2-bi`（その家）だね。実はシュメール語って、動詞にすでに"誰が"の情報が入っているから、こういう独立代名詞をわざわざ使う場面は日本語や英語より少ないんだって。だからこそ使われる時は、指さしみたいに意味がくっきりするんだよ。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 人称接辞と動詞の基本構造](/grammar/personal-affixes-verb-basics/)

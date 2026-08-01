@@ -1,0 +1,77 @@
+/* PaleoLingua: "learning column" callout box featuring En & Nin, the site's
+   Sumerian boy & girl mascot characters. Keep colors theme-aware via
+   Starlight's CSS custom properties so it looks right in light & dark mode. */
+.plc-column {
+  display: flex;
+  gap: 1.1rem;
+  align-items: flex-start;
+  background: var(--sl-color-gray-6);
+  border: 1px solid var(--sl-color-gray-5);
+  border-left: 4px solid var(--sl-color-accent);
+  border-radius: 0.6rem;
+  padding: 1rem 1.25rem;
+  margin: 1.75rem 0;
+}
+
+.plc-column img.plc-avatar {
+  width: 84px;
+  height: auto;
+  flex-shrink: 0;
+  margin: 0.15rem 0 0;
+  border-radius: 0.4rem;
+}
+
+.plc-column .plc-body {
+  min-width: 0;
+}
+
+.plc-column .plc-title {
+  font-weight: 700;
+  margin: 0 0 0.6rem;
+  color: var(--sl-color-accent-high);
+}
+
+.plc-column p {
+  margin: 0.45rem 0;
+}
+
+.plc-column .plc-line b {
+  color: var(--sl-color-accent-high);
+  white-space: nowrap;
+}
+
+.plc-banner {
+  display: flex;
+  gap: 1.25rem;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  background: var(--sl-color-gray-6);
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 0.75rem;
+  padding: 1.25rem;
+  margin: 1.5rem 0 2rem;
+  text-align: left;
+}
+
+.plc-banner img {
+  width: 150px;
+  height: auto;
+  margin: 0;
+}
+
+.plc-banner p {
+  margin: 0.3rem 0;
+}
+
+@media (max-width: 560px) {
+  .plc-column {
+    flex-direction: column;
+    align-items: center;
+    text-align: left;
+  }
+  .plc-banner {
+    justify-content: center;
+    text-align: center;
+  }
+}

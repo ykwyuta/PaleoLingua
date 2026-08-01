@@ -44,6 +44,17 @@ ama       sipa    udu-ak-ak
 
 上の例のように、`sipa udu-ak`（羊の羊飼い）全体に、さらに属格接尾辞を付けることで、より大きな名詞句 `ama sipa udu-ak-ak`（羊の羊飼いの母）を作ることができる。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：カメレオンな -ak</p>
+    <p class="plc-line"><b>エン：</b>同じ「王の家」なのに `lugal-ak` になったり `lugal-la` になったり……これって別の文法なの？</p>
+    <p class="plc-line"><b>ニン：</b>ううん、正体は同じ `-ak` だよ。後ろに母音が来ればそのまま、子音や句の終わりが来ると *k* が隠れて `-a` に化ける。まるでカメレオンが周りの色に合わせるみたいだね。</p>
+    <p class="plc-line"><b>エン：</b>じゃあ見た目に惑わされずに「これは属格だ」って見抜けるかがポイントか。</p>
+    <p class="plc-line"><b>ニン：</b>そう。文法そのものは変わっていない、発音だけが周囲に合わせて変装しているって考えれば怖くないよ。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 名詞句の構造と限定表現](/grammar/noun-phrase-genitive-chain/)

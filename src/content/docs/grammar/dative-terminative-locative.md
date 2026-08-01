@@ -65,6 +65,17 @@ dam-a-ni-da
 | 奪格・具格 | `-ta` | 〜から、〜によって |
 | 共格 | `-da` | 〜と一緒に |
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：日本語の助詞で格を仕分けよう</p>
+    <p class="plc-line"><b>エン：</b>与格・処格・終端格・奪格・共格……名前だけ見ると混乱しない？</p>
+    <p class="plc-line"><b>ニン：</b>私は日本語の助詞に置き換えて覚えてる。`-ra` は「〜のために」の"に"、`-a` は「家で」の"で"、`-še3` は「都市へ」の"へ"、`-ta` は「山から」の"から"、`-da` は「妻と」の"と"。</p>
+    <p class="plc-line"><b>エン：</b>なるほど、5つの格が日本語の助詞5兄弟にきれいに対応するんだね。</p>
+    <p class="plc-line"><b>ニン：</b>完全に一致するわけじゃないけど、最初のとっかかりとしては十分役に立つよ。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 格接尾辞の一覧](/grammar/case-suffixes-overview/)

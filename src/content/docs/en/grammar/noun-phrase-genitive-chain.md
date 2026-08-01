@@ -39,6 +39,17 @@ gate      house-GEN  king-GEN
 
 Here the whole phrase `e2 lugal-ak` ("the king's house") itself functions as the genitive modifier of `ka2` ("gate"). No matter how long a genitive chain grows, the underlying structure stays the same: noun + (genitive phrase).
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: Genitive Chains Are Matryoshka Dolls</p>
+    <p class="plc-line"><b>Nin:</b> `ka2 e2 lugal-ak-a(k)` ("the gate of the king's house") confused me at first — genitives nested inside genitives.</p>
+    <p class="plc-line"><b>En:</b> Picture a matryoshka doll. "King" is wrapped inside "house," and "house" is wrapped inside "gate." No matter how deep the nesting goes, the structure is always the same repeating pattern: noun + (genitive phrase).</p>
+    <p class="plc-line"><b>Nin:</b> So if you only look at the outermost doll — the gate — the structure stays identical no matter what's tucked inside it.</p>
+    <p class="plc-line"><b>En:</b> Exactly. Open the dolls one at a time from the outside in, and even a long genitive chain stops being scary.</p>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: Basic Word Order (SOV)](/en/grammar/word-order-sov/)

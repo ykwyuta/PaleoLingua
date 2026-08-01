@@ -36,6 +36,17 @@ e2   lugal-ak-e
 
 各格の詳細（特に属格・与格・処格・終端格など）は、それぞれ個別の記事でより深く扱う。まずはこの一覧表で「シュメール語には格接尾辞という仕組みがあり、それぞれの接尾辞に固有の役割がある」という全体像を掴んでおきたい。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：格接尾辞は「荷物タグ」</p>
+    <p class="plc-line"><b>ニン：</b>格接尾辞が10種類もあるって聞くと、ちょっと身構えちゃう。</p>
+    <p class="plc-line"><b>エン：</b>コツは「1つの名詞句に対して、タグは最後に1枚だけ」って覚えることだよ。`e2 lugal-ak-e` は "家" も "王" も長く連なっているのに、空港の荷物タグみたいに一番後ろに `-e` が1つ貼られるだけ。</p>
+    <p class="plc-line"><b>ニン：</b>じゃあ日本語の助詞「が」「の」「に」みたいに、句の最後にペタッと貼ればいいってことね。</p>
+    <p class="plc-line"><b>エン：</b>そう考えると、10種類の格も「行き先ラベルの種類が10通りある」ってだけで、そんなに怖くないでしょ？</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: シュメール語の能格・絶対格](/grammar/sumerian-ergative/)

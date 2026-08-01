@@ -37,6 +37,17 @@ lugal-e   e2   mu-du3
 
 動詞の詳細な活用体系は、シュメール語文法の中でも特に高度な話題である。まずは「lugal-e e2 mu-du3」のような定型的な例文を単位として覚え、[マルー形とハムトゥ形](/grammar/maru-hamtu-aspect/)の記事へ進むことで、動詞システムの理解を段階的に深めていくとよい。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：動詞1語がミニ文章</p>
+    <p class="plc-line"><b>エン：</b>ニン、`mu-du3` ってたった1語なのに、接頭辞と語根がセットで「（こちらへ向けて）建てた」という意味になるんだよ。</p>
+    <p class="plc-line"><b>ニン：</b>まるでレゴブロックだね。パーツを決まった順番で積み重ねると、1語が小さな文章みたいになる。</p>
+    <p class="plc-line"><b>エン：</b>そう、これが「複統合的」って呼ばれる理由。英語や日本語なら複数の単語で言うことを、シュメール語は動詞1語にぎゅっと詰め込むんだ。</p>
+    <p class="plc-line"><b>ニン：</b>細かいパーツの規則を全部覚えるのは大変そうだけど、まずは `lugal-e e2 mu-du3` を丸ごと覚えるところから始めよう。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: マルー形とハムトゥ形（動詞のアスペクト）](/grammar/maru-hamtu-aspect/)

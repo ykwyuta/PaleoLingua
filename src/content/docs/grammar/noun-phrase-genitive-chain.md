@@ -39,6 +39,17 @@ ka2       e2         lugal-ak-a(k)
 
 この例では、`e2 lugal-ak`（「王の家」）全体が、さらに `ka2`（門）に対する属格修飾語として機能している。属格句がどれだけ長くなっても、構造は常に「名詞＋（属格句）」という形を保つ。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：属格連鎖はマトリョーシカ</p>
+    <p class="plc-line"><b>ニン：</b>`ka2 e2 lugal-ak-a(k)`（王の家の門）って、属格が入れ子になっていて最初は混乱しちゃった。</p>
+    <p class="plc-line"><b>エン：</b>マトリョーシカ人形を思い浮かべるといいよ。「王」を包む「家」、その「家」をさらに包む「門」。どれだけ入れ子が深くなっても、構造はいつも「名詞＋（属格句）」の繰り返しなんだ。</p>
+    <p class="plc-line"><b>ニン：</b>一番外側の人形（門）だけ見れば、中に何が入っていても構造は同じってことね。</p>
+    <p class="plc-line"><b>エン：</b>そのとおり。焦らず一番外側から一つずつ人形を開けていけば、どんなに長い属格連鎖も怖くないよ。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: シュメール語の基本語順（SOV）](/grammar/word-order-sov/)

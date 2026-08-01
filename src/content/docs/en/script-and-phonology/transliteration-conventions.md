@@ -35,6 +35,17 @@ Tablets are frequently damaged, and transliteration includes notation to show ex
 
 These conventions exist purely so scholars can communicate a tablet's physical condition and the certainty of a reading — they are separate from Sumerian grammar itself. To keep the examples in this course readable, brackets and damage markers are generally omitted, and only well-established readings are given.
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: `[ ]` Is an Honesty Mark</p>
+    <p class="plc-line"><b>Nin:</b> En, all these `[ ]` and `?` symbols in transliterations looked intimidating at first, like math notation.</p>
+    <p class="plc-line"><b>En:</b> Actually they're refreshingly honest. `[ ]` basically means "this part of the tablet is broken, and I'm restoring it from context."</p>
+    <p class="plc-line"><b>Nin:</b> So `?` is a scholar plainly admitting "I'm not fully sure about this one"?</p>
+    <p class="plc-line"><b>En:</b> Exactly. Being able to say "I'm not confident here" instead of guessing silently is a pretty important kind of integrity when you're reading a 4,000-year-old tablet.</p>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Logograms and Determinatives](/en/script-and-phonology/logograms-and-determinatives/)

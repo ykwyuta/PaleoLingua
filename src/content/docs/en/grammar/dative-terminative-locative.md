@@ -65,6 +65,17 @@ wife-his-COM
 | Ablative-instrumental | `-ta` | from, by means of |
 | Comitative | `-da` | together with |
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: Sort the Cases by English Prepositions</p>
+    <p class="plc-line"><b>En:</b> Dative, locative, terminative, ablative, comitative — don't the names alone make your head spin?</p>
+    <p class="plc-line"><b>Nin:</b> I just map each one onto an English preposition. `-ra` is "for," `-a` is "in/at," `-še3` is "to/toward," `-ta` is "from," and `-da` is "with."</p>
+    <p class="plc-line"><b>En:</b> Oh nice, so the five cases line up neatly with five everyday English prepositions.</p>
+    <p class="plc-line"><b>Nin:</b> It's not a perfect one-to-one match, but as a first foothold it does the job.</p>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: Overview of Case Suffixes](/en/grammar/case-suffixes-overview/)

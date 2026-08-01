@@ -42,6 +42,17 @@ Separate from the numeral signs, Sumerian also has spoken number words.
 
 These number words underlie the constant quantity expressions found in administrative and economic texts — "N sheep," "N tablets," and so on.
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: Sumer Is Still Ticking Inside Your Watch</p>
+    <p class="plc-line"><b>En:</b> Nin, every time we say "meet in 60 minutes," we're quietly relying on the Sumerian number system.</p>
+    <p class="plc-line"><b>Nin:</b> 60 minutes to an hour, 60 seconds to a minute — none of that is a tidy base-10 number, yet it's stuck around this whole time. And a circle being 360 degrees is a multiple of 60 too.</p>
+    <p class="plc-line"><b>En:</b> Sixty divides evenly by 2, 3, 4, 5, 6, and more — which is probably exactly why it was such a practical choice for fraction-heavy calculations.</p>
+    <p class="plc-line"><b>Nin:</b> Kind of romantic, actually — 4,000-year-old math quietly ticking away inside every wristwatch.</p>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Writing Direction and Wedge Shapes](/en/script-and-phonology/cuneiform-writing-direction/)

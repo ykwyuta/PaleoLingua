@@ -36,6 +36,17 @@ house king-GEN-ERG
 
 Each case is treated in more depth in its own dedicated article (the genitive, dative, terminative, locative, and so on). For now, use this table as a map of the whole system: Sumerian marks grammatical roles with a fixed set of case suffixes, each with its own function.
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: Case Suffixes Are Luggage Tags</p>
+    <p class="plc-line"><b>Nin:</b> Ten different case suffixes sounds a little intimidating.</p>
+    <p class="plc-line"><b>En:</b> The trick is remembering: one noun phrase, one tag, stuck on at the very end. In `e2 lugal-ak-e`, "house" and "king" are strung together, but only a single `-e` gets attached at the back — just like one luggage tag at an airport.</p>
+    <p class="plc-line"><b>Nin:</b> So it's basically like Japanese particles — "ga," "no," "ni" — slapped onto the end of the whole phrase.</p>
+    <p class="plc-line"><b>En:</b> Once you see it that way, ten cases just means ten kinds of destination label. Not so scary after all, right?</p>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: Sumerian Ergative and Absolutive Case](/en/grammar/sumerian-ergative/)

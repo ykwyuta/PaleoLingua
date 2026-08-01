@@ -39,6 +39,17 @@ Cuneiform syllabograms show two related complications: "polyvalence," where a si
 
 The index number is purely a scholarly notation for *which sign* is being used — it does not indicate any difference in pronunciation.
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: Same "du," Different Sign</p>
+    <p class="plc-line"><b>En:</b> Quiz time, Nin. `du`, `du3`, and `du6` are all pronounced exactly the same — "du." So why bother with the index numbers?</p>
+    <p class="plc-line"><b>Nin:</b> Hmm... because there are several different signs that all happen to sound like "du"?</p>
+    <p class="plc-line"><b>En:</b> Exactly! `du3` is the verbal root "to build" — the very one in `lugal-e e2 mu-du3` ("the king built the house") from the Readings section.</p>
+    <p class="plc-line"><b>Nin:</b> So the index number isn't a pronunciation mark at all — it's more like a label telling you which "kanji" is being used.</p>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Writing Direction and Wedge Shapes](/en/script-and-phonology/cuneiform-writing-direction/)

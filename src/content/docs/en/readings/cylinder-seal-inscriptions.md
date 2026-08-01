@@ -38,6 +38,17 @@ Lu-dingira      son    Ur-Nanše-GEN.ERG servant Nanše
 
 Short as it is, a cylinder seal inscription pulls together everything covered so far — [name structure](/en/readings/reading-personal-names/), genitive chains, and basic vocabulary — making it an ideal capstone exercise for this beginner course.
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: The Ancestor of the Rubber Stamp</p>
+    <p class="plc-line"><b>En:</b> Nin, a cylinder seal is wild — you roll it across wet clay and the whole design and inscription unrolls in an endless repeating strip.</p>
+    <p class="plc-line"><b>Nin:</b> It's basically the ancestor of the rubber stamp — except the inscription packs in the owner's name, their father's name, and even the god they serve. More information than a modern business card!</p>
+    <p class="plc-line"><b>En:</b> And the best part is that reading it pulls together everything we've covered so far — name structure, the genitive `-ak`, the copula `me` — all working together at once.</p>
+    <p class="plc-line"><b>Nin:</b> So much of what we've learned is packed into one tiny seal. We made it this far together — nice work!</p>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: The Genitive Case -ak](/en/grammar/genitive-case-ak/)

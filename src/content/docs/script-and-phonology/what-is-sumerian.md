@@ -5,6 +5,15 @@ sidebar:
   order: 2
 ---
 
+<div class="plc-banner">
+  <img src="/images/characters/sumerian/boy-group.png" alt="シュメール人の男の子エン" />
+  <img src="/images/characters/sumerian/girl-group.png" alt="シュメール人の女の子ニン" />
+  <div>
+    <p><strong>ようこそ、PaleoLinguaへ！</strong></p>
+    <p>これから <strong>エン</strong>（<em>en</em>＝「主」）くんと <strong>ニン</strong>（<em>nin</em>＝「女主人」）さんが、各記事の最後で「学びのコラム」としてシュメール語のちょっとした豆知識をおしゃべりします。ふたりの名前自体も、シュメール語でとてもよく使われる単語なので、覚えておくと読解がぐっと楽になります。</p>
+  </div>
+</div>
+
 ## シュメール語の基礎データ
 
 シュメール語（自称 *eme-ĝir15*、「王の言葉」の意とされる）は、紀元前3千年紀のメソポタミア南部（現在のイラク南部）で話されていた言語である。人類史上最初に文字で記録された言語の一つであり、楔形文字（cuneiform）はシュメール語を書き記すために発達したと考えられている。
@@ -30,6 +39,17 @@ sidebar:
 ## 現存する文献
 
 現在知られている粘土板文書は数十万点にのぼる。その大多数は行政・経済文書（帳簿や契約書など）だが、王碑文、法文書、そして『ギルガメシュ叙事詩』の一部やシュメール王讃歌、哀歌、諺集などの文学作品も多数残されている。
+
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：「天涯孤独」な言語</p>
+    <p class="plc-line"><b>ニン：</b>ねえエン、シュメール語って英語や日本語の親戚なの？</p>
+    <p class="plc-line"><b>エン：</b>ううん、それが面白いところ。シュメール語は「孤立言語」といって、今のところ地球上のどの言語族とも血縁関係が証明されていないんだ。</p>
+    <p class="plc-line"><b>ニン：</b>じゃあ、まるで文字も言葉も自分だけで生み出した"ひとりぼっちの言語"なんだね。</p>
+    <p class="plc-line"><b>エン：</b>そう。だからこそ、他の言語からの推測が効かなくて大変だけど、逆に言えばシュメール語そのものの仕組みを純粋に楽しめるってことでもあるよ。</p>
+  </div>
+</div>
 
 ## 関連項目
 

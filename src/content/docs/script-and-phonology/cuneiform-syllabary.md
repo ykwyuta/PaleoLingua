@@ -39,6 +39,17 @@ du-mu
 
 索引番号はあくまで「どの字形を使っているか」を示す学術的な記法であり、発音そのものが異なるわけではない点に注意したい。
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
+  <div class="plc-body">
+    <p class="plc-title">💬 学びのコラム：同じ「du」でも中身は別人</p>
+    <p class="plc-line"><b>エン：</b>クイズだよ、ニン。`du`・`du3`・`du6` の3つ、発音はぜんぶ同じ「ドゥ」なのに、なぜ番号で区別するでしょう？</p>
+    <p class="plc-line"><b>ニン：</b>うーん……同じ音を書ける記号が何種類もあるってこと？</p>
+    <p class="plc-line"><b>エン：</b>正解！ `du3` は「建てる」という動詞の語根で、「読解・例文」の記事で出てくる `lugal-e e2 mu-du3`（王が家を建てた）にも使われているんだ。</p>
+    <p class="plc-line"><b>ニン：</b>じゃあ番号は発音記号じゃなくて、「どの漢字を使うか」を教えてくれる目印みたいなものなんだね。</p>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 楔形文字の書き方と方向](/script-and-phonology/cuneiform-writing-direction/)

@@ -21,6 +21,7 @@ export default defineConfig({
           href: 'https://github.com/ykwyuta/paleolingua',
         },
       ],
+      customCss: ['./src/styles/custom.css'],
       sidebar: [
         {
           label: '文字と音韻',

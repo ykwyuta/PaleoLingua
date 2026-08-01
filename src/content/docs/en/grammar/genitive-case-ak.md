@@ -44,6 +44,17 @@ mother    shepherd sheep-GEN-GEN
 
 Here, the whole phrase `sipa udu-ak` ("shepherd of sheep") takes a further genitive suffix, building the larger phrase `ama sipa udu-ak-ak` ("the mother of the shepherd of sheep").
 
+<div class="plc-column">
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="En" />
+  <div class="plc-body">
+    <p class="plc-title">💬 Learning Column: The Chameleon Suffix</p>
+    <p class="plc-line"><b>En:</b> "The king's house" shows up as both `lugal-ak` and `lugal-la` — are those two different grammatical elements?</p>
+    <p class="plc-line"><b>Nin:</b> Nope, it's the same `-ak` underneath. Before a vowel it stays as-is; before a consonant or at the end of a phrase, the *k* hides and it disguises itself as `-a`. Like a chameleon matching its surroundings.</p>
+    <p class="plc-line"><b>En:</b> So the real skill is recognizing "this is the genitive" no matter which costume it's wearing.</p>
+    <p class="plc-line"><b>Nin:</b> Exactly. The grammar itself never changes — only the pronunciation puts on a disguise depending on what comes next.</p>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: Noun Phrase Structure and the Genitive Chain](/en/grammar/noun-phrase-genitive-chain/)

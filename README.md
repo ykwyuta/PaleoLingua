@@ -80,8 +80,3 @@
  * **自動執筆ワークフローの前提**: `.github/workflows/generate-articles.yml` は Cron（週2回）と手動実行の
    両方に対応。リポジトリの Secrets に `ANTHROPIC_API_KEY`（Claude Code 用のAPIキー）を登録する必要がある。
 
-役割選定技術 / サービス選定理由・特徴
-SSGAstro多言語化（i18n）機能が標準で非常に強力。Markdown/MDXの処理が高速で、不要なJavaScriptを出力しないため表示スピードが爆速です。
-HostingCloudflare Pages (または GitHub Pages)帯域幅無制限、ビルド時間も十分な無料枠があります。Cloudflare Workersとの相性も抜群です。
-ソース管理GitHubMarkdown記事の管理、バージョン管理、後述する自動ビルドのハブとして利用します。
-AI執筆 & CI/CDGitHub Actions + Claude Code（記事執筆スキル）スケジュール実行（Cron）でClaude Codeに記事執筆スキル（SKILL.md）を呼び出させ、Markdownファイルを生成してリポジトリにAuto Commit/Pushします。プロンプトをその都度書くのではなく、スキルとして執筆ルールを一元管理します。

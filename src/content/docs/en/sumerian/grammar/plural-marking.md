@@ -10,13 +10,15 @@ sidebar:
 
 The most regular way Sumerian marks plurality is the suffix `-ene`, attached to nouns denoting humans (animate beings).
 
+<p class="cuneiform">𒇽       𒇽𒂊𒉈</p>
+
 ```
 lu2       lu2-ene
 person    person-PL
 "person"  "people"
 ```
 
-Within the noun phrase's fixed slot order, `-ene` sits after any genitive phrase or demonstrative, and before the case suffix.
+Within the noun phrase's fixed slot order, `-ene` 𒂊𒉈 sits after any genitive phrase or demonstrative, and before the case suffix.
 
 ## Plurals of inanimate nouns
 
@@ -25,6 +27,8 @@ Nouns denoting inanimate things (buildings, tools, plants, animals) most often r
 ## Reduplication for "totality"
 
 Certain nouns and adjectives can be reduplicated (the word repeated twice) to express not so much plurality as totality or distributivity — "all," "every."
+
+<p class="cuneiform">𒆳𒆳                  𒃲𒃲</p>
 
 ```
 kur-kur              gal-gal
@@ -38,10 +42,10 @@ One of Sumerian's more striking features is that certain verbs use an entirely d
 
 | Meaning | Singular stem | Plural stem |
 |---|---|---|
-| to die | uš2 | ug7 |
-| to sit/dwell | tuš | durunx (written DU.DU) |
+| to die | uš2 𒁁 | ug7 𒁁 |
+| to sit/dwell | tuš | durunx (written DU.DU 𒁺𒁺) |
 
-For "to die," for example, Sumerian uses the visually unrelated roots `uš2` and `ug7` depending on whether one person or several people are dying — quite unlike English, where "die"/"died" stays the same regardless of number.
+For "to die," for example, Sumerian uses the transliterated roots `uš2` and `ug7` — which look entirely unrelated on the page — depending on whether one person or several people are dying, quite unlike English, where "die"/"died" stays the same regardless of number. (Intriguingly, both readings are in fact written with the very same cuneiform sign, 𒁁.)
 
 <div class="plc-column">
   <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="Nin" />

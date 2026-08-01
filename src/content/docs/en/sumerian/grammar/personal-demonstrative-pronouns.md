@@ -10,10 +10,12 @@ sidebar:
 
 Alongside the person markers that attach to the verb, Sumerian also has independent personal pronouns that can stand on their own. The best-attested and most secure are the first and second person singular forms.
 
-| Person | Form | Meaning |
-|---|---|---|
-| 1st singular | ĝe26-e | "I" |
-| 2nd singular | za-e | "you" |
+| Person | Form | Cuneiform | Meaning |
+|---|---|---|---|
+| 1st singular | ĝe26-e | 𒂷𒂊 | "I" |
+| 2nd singular | za-e | 𒍝𒂊 | "you" |
+
+<p class="cuneiform">𒂷𒂊   𒈗𒈨𒂗</p>
 
 ```
 ĝe26-e   lugal-me-en
@@ -25,7 +27,9 @@ Third-person and plural pronoun forms are also discussed in the literature, but 
 
 ## The demonstrative/anaphoric element bi
 
-The word that most closely corresponds to "that" or "it" in Sumerian is `bi`. It attaches after a noun and does double duty: as a straightforward demonstrative ("that ___") and as an anaphoric reference back to something already mentioned ("its ___").
+The word that most closely corresponds to "that" or "it" in Sumerian is `bi` 𒁉. It attaches after a noun and does double duty: as a straightforward demonstrative ("that ___") and as an anaphoric reference back to something already mentioned ("its ___").
+
+<p class="cuneiform">𒂍𒁉</p>
 
 ```
 e2-bi

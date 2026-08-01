@@ -1,17 +1,18 @@
 ---
 name: paleolingua-article-writer
-description: Write or extend a PaleoLingua ancient-language textbook article (Sumerian, Akkadian, Sanskrit, Hittite, Old Egyptian, Aramaic, Maya, etc.) as a matched ja/en Starlight Markdown page pair. Use this whenever the task is to add, expand, or translate content for the PaleoLingua site.
+description: Write or extend a PaleoLingua ancient-language textbook article (Sumerian, Akkadian, Sanskrit, Hittite, Old Egyptian, Aramaic, Maya, Old Norse, etc.) as a matched ja/en Starlight Markdown page pair. Use this whenever the task is to add, expand, or translate content for the PaleoLingua site.
 ---
 
 # PaleoLingua 記事執筆スキル
 
-PaleoLingua（シュメール語・アッカド語・サンスクリット語・ヒッタイト語・古エジプト語・アラム語・マヤ語などの
+PaleoLingua（シュメール語・アッカド語・サンスクリット語・ヒッタイト語・古エジプト語・アラム語・マヤ語・古ノルド語などの
 古代言語をAIが解説する日英バイリンガル教科書サイト）向けの記事を執筆する際は、以下の手順とルールに従うこと。
 
 ## 1. 対象言語・カテゴリを確認する
 
 - 対象古代言語（README.md 4節参照）: シュメール語、サンスクリット語、アッカド語/楔形文字、ヒッタイト語、
-  古エジプト語（ヒエログリフ）、アラム語、マヤ語（マヤ文字）。指定が無い場合はこの中からまだ薄い分野を選ぶ。
+  古エジプト語（ヒエログリフ）、アラム語、マヤ語（マヤ文字）、古ノルド語（ルーン文字）。指定が無い場合はこの中から
+  まだ薄い分野を選ぶ。
 - カテゴリは以下の3つ（`astro.config.mjs` のサイドバーと一致させる。新カテゴリを増やす場合は
   `astro.config.mjs` の `sidebar` も合わせて更新すること）。
   - `script-and-phonology`（文字と音韻）: 文字体系・翻刻ルール・音韻。
@@ -92,6 +93,7 @@ README.md の「4. コンテンツ戦略」に基づき、カテゴリごとに�
 | 古エジプト語 | ラー（Ra＝太陽神） | マアト（Maat＝真理・秩序の女神） | `/images/characters/old-egyptian/` | 準備済み |
 | アラム語 | ハダド（Hadad＝アラム人の主神・天候神） | アタルガティス（Atargatis＝アラム人の豊穣・母神） | `/images/characters/aramaic/` | 準備済み |
 | マヤ語 | キニチ（K'inich＝「太陽の顔」を意味する王号・太陽神由来） | イシュチェル（Ixchel＝月と虹の女神） | `/images/characters/maya/` | 準備済み |
+| 古ノルド語 | オーディン（Óðinn＝主神・戦いと知恵と詩の神、ルーンの発見者） | フレイヤ（Freyja＝愛と豊穣と戦の女神） | `/images/characters/old-norse/` | 準備済み |
 
 新しい言語のキャラクター画像を受け取ったら、`public/images/characters/<language-slug>/` 配下に、既存の
 シュメール語アセットと同じ構成（例: `boy-icon-<expr>.png`, `girl-icon-<expr>.png`, `boy-group.png`,

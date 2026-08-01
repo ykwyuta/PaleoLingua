@@ -12,14 +12,16 @@ sidebar:
 
 ## The basic conventions
 
-| Convention | What it marks | Example |
+| Convention | What it marks | Example (cuneiform) |
 |---|---|---|
-| Italics | Words spelled syllabically are set in italics (this site uses plain monospace text instead) | *lugal* |
-| Hyphen (-) | Syllable breaks within a single word | du-mu ("child") |
-| Period (.) | A boundary between logograms combined and read as a single word | dub.sar ("scribe," literally "tablet-writer") |
-| Superscript | Silent determinatives (unpronounced classifiers) | `d`nanna, uruki |
-| Subscript index number | Distinguishes different signs that share the same sound | du, du3, du6 |
-| Capital letters (Sumerograms) | Used for Sumerian words embedded in Akkadian text, or when a sign's intended reading is uncertain | LUGAL |
+| Italics | Words spelled syllabically are set in italics (this site uses plain monospace text instead) | *lugal* 𒈗 |
+| Hyphen (-) | Syllable breaks within a single word | du-mu 𒁺𒈬 ("child") |
+| Period (.) | A boundary between logograms combined and read as a single word | dub.sar 𒁾𒊬 ("scribe," literally "tablet-writer") |
+| Superscript | Silent determinatives (unpronounced classifiers) | `d`nanna 𒀭𒋀𒆠, uruki 𒌷𒆠 |
+| Subscript index number | Distinguishes different signs that share the same sound | du 𒁺, du3 𒆕, du6 𒇯 |
+| Capital letters (Sumerograms) | Used for Sumerian words embedded in Akkadian text, or when a sign's intended reading is uncertain | LUGAL 𒈗 |
+
+From this point on, this site also shows the actual **cuneiform glyphs** (Unicode characters) alongside transliterated words and example sentences, matching each transliterated element to one cuneiform sign where possible. On real tablets, though, grammatical suffixes (such as the *k* of the genitive `-ak`) are often left unwritten rather than spelled with their own sign. So the cuneiform shown here is not always a letter-for-letter quotation of one specific tablet — it's a learning aid meant to show which sign a given transliteration comes from.
 
 ## Marking damage, restoration, and uncertainty
 

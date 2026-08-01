@@ -11,13 +11,13 @@ sidebar:
   <img src="/images/characters/sumerian/girl-base.png" alt="Nin, the Sumerian girl" />
   <div>
     <p><strong>Welcome to PaleoLingua!</strong></p>
-    <p>At the end of most articles, <strong>En</strong> (<em>en</em>, "lord") and <strong>Nin</strong> (<em>nin</em>, "lady") will chat with you in a short "Learning Column" about some fun fact related to the topic. Their names are themselves two of the most common words in Sumerian, so keep an eye out for <em>en</em> and <em>nin</em> once you start reading real texts.</p>
+    <p>At the end of most articles, <strong>En</strong> (<em>en</em> 𒂗, "lord") and <strong>Nin</strong> (<em>nin</em> 𒎏, "lady") will chat with you in a short "Learning Column" about some fun fact related to the topic. Their names are themselves two of the most common words in Sumerian, so keep an eye out for <em>en</em> and <em>nin</em> once you start reading real texts.</p>
   </div>
 </div>
 
 ## Quick facts
 
-Sumerian (native name *eme-ĝir15*, often translated "the noble/royal tongue") was spoken in southern Mesopotamia (roughly modern southern Iraq) during the 3rd millennium BCE. It is among the very first languages ever committed to writing, and cuneiform script is generally thought to have been developed specifically to record it.
+Sumerian (native name *eme-ĝir15* 𒅴𒂠, often translated "the noble/royal tongue") was spoken in southern Mesopotamia (roughly modern southern Iraq) during the 3rd millennium BCE. It is among the very first languages ever committed to writing, and cuneiform script is generally thought to have been developed specifically to record it.
 
 | Item | Detail |
 |---|---|

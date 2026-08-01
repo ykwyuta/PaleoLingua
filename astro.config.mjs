@@ -24,19 +24,46 @@ export default defineConfig({
       customCss: ['./src/styles/custom.css'],
       sidebar: [
         {
-          label: '文字と音韻',
-          translations: { en: 'Script & Phonology' },
-          items: [{ autogenerate: { directory: 'script-and-phonology' } }],
+          label: 'シュメール語',
+          translations: { en: 'Sumerian' },
+          items: [
+            {
+              label: '文字と音韻',
+              translations: { en: 'Script & Phonology' },
+              items: [{ autogenerate: { directory: 'sumerian/script-and-phonology' } }],
+            },
+            {
+              label: '基礎文法',
+              translations: { en: 'Basic Grammar' },
+              items: [{ autogenerate: { directory: 'sumerian/grammar' } }],
+            },
+            {
+              label: '読解・例文',
+              translations: { en: 'Readings & Examples' },
+              items: [{ autogenerate: { directory: 'sumerian/readings' } }],
+            },
+          ],
         },
         {
-          label: '基礎文法',
-          translations: { en: 'Basic Grammar' },
-          items: [{ autogenerate: { directory: 'grammar' } }],
-        },
-        {
-          label: '読解・例文',
-          translations: { en: 'Readings & Examples' },
-          items: [{ autogenerate: { directory: 'readings' } }],
+          label: '古ノルド語',
+          translations: { en: 'Old Norse' },
+          items: [
+            {
+              label: '文字と音韻',
+              translations: { en: 'Script & Phonology' },
+              items: [{ autogenerate: { directory: 'old-norse/script-and-phonology' } }],
+            },
+            {
+              label: '基礎文法',
+              translations: { en: 'Basic Grammar' },
+              items: [{ autogenerate: { directory: 'old-norse/grammar' } }],
+            },
+            {
+              label: '読解・例文',
+              translations: { en: 'Readings & Examples' },
+              items: [{ autogenerate: { directory: 'old-norse/readings' } }],
+            },
+          ],
         },
       ],
     }),

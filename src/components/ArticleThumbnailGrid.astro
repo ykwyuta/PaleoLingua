@@ -3,10 +3,11 @@ import { getCollection } from 'astro:content';
 
 interface Props {
   locale: 'ja' | 'en';
+  language: string;
   category: 'script-and-phonology' | 'grammar' | 'readings';
 }
 
-const { locale, category } = Astro.props;
+const { locale, language, category } = Astro.props;
 
 const LANGUAGE_NAMES: Record<string, { ja: string; en: string }> = {
   sumerian: { ja: 'シュメール語', en: 'Sumerian' },
@@ -38,7 +39,7 @@ const LANGUAGE_HUE: Record<string, number> = {
   'old-norse': 220,
 };
 
-const idPrefix = locale === 'en' ? `en/${category}/` : `${category}/`;
+const idPrefix = locale === 'en' ? `en/${language}/${category}/` : `${language}/${category}/`;
 
 const allDocs = await getCollection('docs');
 const entries = allDocs
@@ -58,7 +59,10 @@ const catName = CATEGORY_NAMES[category][locale];
     entries.map((entry, i) => {
       const topic = entry.data.topic!;
       const slug = entry.id.slice(idPrefix.length);
-      const href = locale === 'en' ? `/en/${category}/${slug}/` : `/${category}/${slug}/`;
+      const href =
+        locale === 'en'
+          ? `/en/${language}/${category}/${slug}/`
+          : `/${language}/${category}/${slug}/`;
       const icon = i % 2 === 0 ? 'boy-icon-smile.png' : 'girl-icon-sparkle.png';
       const iconSrc = `/images/characters/${topic}/${icon}`;
       const hue = LANGUAGE_HUE[topic] ?? 210;

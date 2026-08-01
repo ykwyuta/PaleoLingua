@@ -90,7 +90,7 @@ README.md の「4. コンテンツ戦略」に基づき、カテゴリごとに�
 | サンスクリット語 | チャンドラ（candra＝「月」） | ターラー（tārā＝「星」） | `/images/characters/sanskrit/` | 準備済み |
 | ヒッタイト語 | タルフンナ（Tarḫunna＝天候神） | ウルシェム（Wurušemu＝アリンナの太陽女神） | `/images/characters/hittite/` | 準備済み |
 | 古エジプト語 | ラー（Ra＝太陽神） | マアト（Maat＝真理・秩序の女神） | `/images/characters/old-egyptian/` | 準備済み |
-| ウガリト語/アラム語 | 未定 | 未定 | `/images/characters/ugaritic-aramaic/`（未作成） | 画像未提供 |
+| ウガリト語/アラム語 | ハダド（Hadad＝アラム人の主神・天候神） | アタルガティス（Atargatis＝アラム人の豊穣・母神） | `/images/characters/ugaritic-aramaic/` | 準備済み |
 | マヤ語 | キニチ（K'inich＝「太陽の顔」を意味する王号・太陽神由来） | イシュチェル（Ixchel＝月と虹の女神） | `/images/characters/maya/` | 準備済み |
 
 新しい言語のキャラクター画像を受け取ったら、`public/images/characters/<language-slug>/` 配下に、既存の

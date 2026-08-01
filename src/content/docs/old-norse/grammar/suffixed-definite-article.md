@@ -59,7 +59,7 @@ hinn  gaml-i  maðr
 ```
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="フレイヤ" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="フレイヤ" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：「その」が単語の一部になった</p>
     <p class="plc-line"><b>フレイヤ：</b>オーディン、*maðrinn* って見た目は1単語だけど、実は「maðr（人）＋the」がくっついたものなのよね？</p>

@@ -66,7 +66,7 @@ hveim er sér góðan getr.
 - `hveim er...` の `er` は関係節を導く不変化の関係小詞（「〜する〈者〉」の意）で、`hveim`（誰にとって、与格）と組み合わさって「〜する者にとって」という意味になる。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="オーディン" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="オーディン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：僕の口を借りた処世訓</p>
     <p class="plc-line"><b>オーディン：</b>フレイヤ、『ハヴァマール』の「高き者」って、実は僕のことなんだよ。まるで自分が自分に説教しているみたいで、書いていて（歌っていて）ちょっと照れるな。</p>

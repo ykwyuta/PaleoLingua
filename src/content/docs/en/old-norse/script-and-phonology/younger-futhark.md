@@ -49,7 +49,7 @@ A defining feature of the Younger Futhark is that it makes no distinction betwee
 From the 12th century on, dots were added to existing runes to distinguish sounds more precisely, producing the so-called **dotted runes**. A dot added to ᚴ (k), for instance, gives ᚵ, dedicated to /g/; a dot added to ᛁ (i) gives ᛂ, dedicated to /e/. This development marks a step toward the medieval runic alphabet and is often attributed in part to the influence of the Latin script.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="Óðinn" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="Óðinn" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: A Danish Style and a Norwegian Style</p>
     <p class="plc-line"><b>Óðinn:</b> Freyja, it turns out our runes had regional "accents" too — long-branch runes favored in Denmark, short-twig runes favored in Norway and Sweden.</p>

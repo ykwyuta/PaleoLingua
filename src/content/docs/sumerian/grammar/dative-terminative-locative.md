@@ -67,7 +67,7 @@ dam-a-ni-da
 | 共格 | `-da` | 〜と一緒に |
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-f02.png" alt="エン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：日本語の助詞で格を仕分けよう</p>
     <p class="plc-line"><b>エン：</b>与格・処格・終端格・奪格・共格……名前だけ見ると混乱しない？</p>

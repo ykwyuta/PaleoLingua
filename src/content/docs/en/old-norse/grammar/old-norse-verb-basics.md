@@ -57,7 +57,7 @@ he(NOM) call-3SG.PAST me(ACC)
 ```
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="Óðinn" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="Óðinn" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: "Call" and "Kalla" Are Literal Cousins</p>
     <p class="plc-line"><b>Óðinn:</b> Freyja, doesn't English "call" look a lot like Old Norse "kalla" to you?</p>

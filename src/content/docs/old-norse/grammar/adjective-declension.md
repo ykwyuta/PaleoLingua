@@ -60,7 +60,7 @@ hinn  gaml-i  maðr  kom
 同じ *gamall*（年老いた）という形容詞でも、名詞に定冠詞が付いているかどうかで語尾が変わっていることがわかる。これは「不特定の年老いた人」（強変化）と「（既に話題に上っている）その年老いた人」（弱変化）という、意味上の**特定性（definiteness）**の違いに対応している。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="オーディン" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="オーディン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：形容詞が「特定・不特定」を語る</p>
     <p class="plc-line"><b>オーディン：</b>フレイヤ、"gamall maðr"（一人の年老いた人）と "hinn gamli maðr"（その年老いた人）、形容詞の語尾がちょっと違うのに気づいた？</p>

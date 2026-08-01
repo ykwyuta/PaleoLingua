@@ -55,7 +55,7 @@ sidebar:
 - 現代の版によっては、格語尾の *-r* を主格語尾として明示的に残す立場（*Óðinn* ではなく *Óðinnr* 的な古い形）と、簡略化する立場が分かれることがあるが、本サイトでは広く使われる簡略化された標準形を採用する。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="オーディン" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="オーディン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：アクセント記号は「長さ」の目印</p>
     <p class="plc-line"><b>オーディン：</b>フレイヤ、フランス語の é みたいに、古ノルド語の á や í も見た目はアクセント記号だけど、実は「音の高さ」じゃなくて「長さ」を表しているんだ。</p>

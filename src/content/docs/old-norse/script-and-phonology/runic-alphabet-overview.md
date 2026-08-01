@@ -53,7 +53,7 @@ sidebar:
 各ルーンの詳しい名称・音価の対応は次の記事「[各ルーンの名称と音価](/old-norse/script-and-phonology/rune-names-and-sounds/)」でさらに詳しく扱う。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="フレイヤ" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="フレイヤ" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：文字が減っても言葉は複雑になった不思議</p>
     <p class="plc-line"><b>フレイヤ：</b>オーディン、エルダー・フサルクは24文字なのに、ヤンガー・フサルクは16文字しかないのね。文字って普通、時代が進むほど増えるものじゃないの？</p>

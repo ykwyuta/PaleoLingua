@@ -44,7 +44,7 @@ One of Sumerian's more striking features is that certain verbs use an entirely d
 For "to die," for example, Sumerian uses the visually unrelated roots `uš2` and `ug7` depending on whether one person or several people are dying — quite unlike English, where "die"/"died" stays the same regardless of number.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="Nin" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="Nin" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Reduplication Shows Up Everywhere</p>
     <p class="plc-line"><b>Nin:</b> Seeing `kur-kur` ("all the foreign lands") reminded me that Indonesian does the exact same thing — <em>orang-orang</em> means "people," doubling <em>orang</em> ("person").</p>

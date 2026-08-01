@@ -55,7 +55,7 @@ Because i-umlaut and u-umlaut show up constantly in Old Norse noun and verb para
 - Editions differ on whether to preserve the nominative *-r* ending in its fuller, older shape or to use a simplified form; this site follows the widely used simplified standard form.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="Óðinn" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="Óðinn" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Accent Marks Are a Length Signal</p>
     <p class="plc-line"><b>Óðinn:</b> Freyja, unlike the é in French, the accents on Old Norse á and í don't mark pitch — they mark <em>length</em>.</p>

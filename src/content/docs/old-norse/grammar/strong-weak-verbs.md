@@ -59,7 +59,7 @@ hann  beit    orm-inn
 「強変化・弱変化」という呼び名自体は19世紀の文法学者ヤーコプ・グリムに由来する。動詞自体の語幹の力だけで（外部からの接尾辞なしで）過去形を作れる強変化動詞を「強い」、歯音接尾辞という外部の助けを借りる弱変化動詞を「弱い」と形容したことによる。歴史的には強変化動詞のほうが古い（印欧祖語のアブラウト体系を引き継ぐ）層であり、弱変化動詞はゲルマン語の段階で発達した新しい仕組みである。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="フレイヤ" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="フレイヤ" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：sing-sang-sungと同じ仕組み</p>
     <p class="plc-line"><b>フレイヤ：</b>オーディン、*bíta – beit – bitu – bitinn* って、なんだか英語の sing – sang – sung に似ていない？</p>

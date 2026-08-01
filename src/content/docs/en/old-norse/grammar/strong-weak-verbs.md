@@ -59,7 +59,7 @@ he(NOM) bit  serpent-the(ACC)
 The terms "strong" and "weak" for these two verb types come from the 19th-century grammarian Jacob Grimm. He called verbs that can form the past tense on the strength of the stem alone (with no outside suffix) "strong," and verbs that need the "external help" of a dental suffix "weak." Historically, strong verbs are the older layer, inheriting the ablaut system of Proto-Indo-European, while weak verbs are an innovation that developed within Germanic itself.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="Freyja" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="Freyja" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: The Same Trick as Sing-Sang-Sung</p>
     <p class="plc-line"><b>Freyja:</b> Óðinn, doesn't *bíta – beit – bitu – bitinn* look a lot like English sing – sang – sung?</p>

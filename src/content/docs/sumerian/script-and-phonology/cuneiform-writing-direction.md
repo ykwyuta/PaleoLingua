@@ -30,7 +30,7 @@ sidebar:
 現在、学習者や研究者が目にする翻字（transliteration）はすべて、この回転後の「左から右・上から下」の方式に基づいている。つまり本記事以降で扱う例文や表はすべて、通常のアルファベットの読み方と同じ左から右の順で読めばよい。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/girl-icon-sparkle.png" alt="ニン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="ニン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：牛の頭が横倒しになったワケ</p>
     <p class="plc-line"><b>ニン：</b>ねえエン、昔の牛の頭の絵文字、今の楔形文字だと横倒しになってるって本当？</p>

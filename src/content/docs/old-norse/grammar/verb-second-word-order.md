@@ -52,7 +52,7 @@ V2制約の本領が発揮されるのは、主語以外の要素（目的語・
 V2制約は主節（独立した文）にのみ適用され、従属節（*ef*「もし」、*því at*「〜なので」などで導かれる節）では動詞が2番目の位置に来るとは限らない。この主節・従属節の語順の違いは、現代ドイツ語にも色濃く受け継がれている特徴である。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="オーディン" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="オーディン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：僕の名前を主語にしても2番目は動詞</p>
     <p class="plc-line"><b>オーディン：</b>フレイヤ、"þessi orð mælti Óðinn"（これらの言葉を、オーディンは語った）って、主語の僕の名前が文末に来ちゃうんだよね。ちょっと悔しいな。</p>

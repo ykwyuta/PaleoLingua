@@ -61,7 +61,7 @@ umbre visir.
 | ᛦ | ýr | イチイの木 | y, R |
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="フレイヤ" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="フレイヤ" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：文字の名前が意味も持つ贅沢</p>
     <p class="plc-line"><b>フレイヤ：</b>オーディン、ローマ字の "A" って別に「何か」を意味してないけど、ルーンの ᚠ は「財産」って意味まで背負ってるのね。</p>

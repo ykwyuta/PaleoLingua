@@ -51,7 +51,7 @@ sidebar:
 | 中性 | 無語尾（例: land） | -a（例: auga） |
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="オーディン" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="オーディン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：「サガ」自身が弱変化名詞</p>
     <p class="plc-line"><b>オーディン：</b>フレイヤ、実は "saga"（サガ）という単語自体が弱変化女性名詞の見本になっているの知ってた？</p>

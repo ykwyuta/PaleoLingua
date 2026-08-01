@@ -44,7 +44,7 @@ En Varinn  fáði,   faðir, aft faigian sunu.
 Beyond the opening lines, the inscription is marked by allusions to legendary kings and heroes, interwoven with a recurring riddle-like formula, "tell what (*hvat er þat...*, "what is it...")." Some recent scholarship has proposed that parts of the text refer to a 9th-century cold spell or a solar eclipse, but these remain hypotheses rather than settled fact — the Rök stone is still regarded as one of the great unsolved puzzles of Scandinavian runology.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="Freyja" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="Freyja" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: A Riddle Still Unsolved After 1,200 Years</p>
     <p class="plc-line"><b>Freyja:</b> Óðinn, the Rök stone has over 800 characters carved on it, and scholars are still arguing over how to read the second half?</p>

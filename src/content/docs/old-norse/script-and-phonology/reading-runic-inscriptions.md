@@ -42,7 +42,7 @@ raisti · stain · þana
 - **文字の欠損・摩耗**：現存する碑文は風化や破損により一部の文字が判読不能なことが多く、学術版では欠損箇所を角括弧などで示す。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="フレイヤ" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="フレイヤ" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：牛耕式は牛の気持ちで読む</p>
     <p class="plc-line"><b>フレイヤ：</b>オーディン、「牛耕式」の碑文って、1行目は左から右なのに2行目は右から左に戻るのよね？なんだか変な感じ。</p>

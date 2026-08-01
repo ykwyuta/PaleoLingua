@@ -1,6 +1,6 @@
 /* PaleoLingua: "learning column" callout box featuring En & Nin, the site's
-   Sumerian boy & girl mascot characters. Keep colors theme-aware via
-   Starlight's CSS custom properties so it looks right in light & dark mode. */
+   Sumerian boy & girl mascot characters. Uses Starlight's CSS custom
+   properties, which are forced to their light-mode values site-wide. */
 .plc-column {
   display: flex;
   gap: 1.1rem;
@@ -55,8 +55,9 @@
 }
 
 .plc-banner img {
-  width: 150px;
-  height: auto;
+  width: auto;
+  height: 210px;
+  max-width: 100%;
   margin: 0;
 }
 

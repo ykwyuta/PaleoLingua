@@ -51,7 +51,7 @@ The easiest clue to whether a noun is strong or weak is its **nominative singula
 | Neuter | zero ending (e.g., land) | -a (e.g., auga) |
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="Óðinn" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="Óðinn" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: "Saga" Is Its Own Grammar Example</p>
     <p class="plc-line"><b>Óðinn:</b> Freyja, did you know the word "saga" itself is a textbook example of a weak feminine noun?</p>

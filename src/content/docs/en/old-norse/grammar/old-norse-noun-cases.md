@@ -55,7 +55,7 @@ king(NOM) give-3SG earl-DAT sword(ACC)
 `jarli` ("to the earl") takes the dative as the indirect object. In a double-object construction like "give X to Y," the standard pattern is indirect object in the dative and direct object in the accusative.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="Freyja" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="Freyja" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Why Word Order Can Be So Loose</p>
     <p class="plc-line"><b>Freyja:</b> Óðinn, if I rearrange `konungr sér arm jarls` into `arm jarls sér konungr`, does it still mean the same thing?</p>

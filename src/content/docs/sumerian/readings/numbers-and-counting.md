@@ -44,7 +44,7 @@ sidebar:
 これらの数詞は、行政・経済文書に頻出する「羊◯頭」「粘土板◯枚」のような数量表現の基礎となる。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/sumerian/boy-icon-smile.png" alt="エン" />
+  <img class="plc-avatar" src="/images/characters/sumerian/boy-f02.png" alt="エン" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：時計の中にシュメールが生きている</p>
     <p class="plc-line"><b>エン：</b>ニン、実は私たちが今日この後「あと60分で集合ね」って言うとき、シュメール人の数体系のおかげなんだよ。</p>

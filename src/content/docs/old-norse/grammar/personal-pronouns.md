@@ -53,7 +53,7 @@ vit  för-um  heim
 もしこれが3人以上のグループであれば、主語は *vit* ではなく *vér*（複数）となる。両数は単なる「複数の一部」ではなく、独立した文法カテゴリーとして厳密に使い分けられていた。
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/girl-icon-sparkle.png" alt="フレイヤ" />
+  <img class="plc-avatar" src="/images/characters/old-norse/girl-f02.png" alt="フレイヤ" />
   <div class="plc-body">
     <p class="plc-title">💬 学びのコラム：「私たち2人」専用の代名詞</p>
     <p class="plc-line"><b>フレイヤ：</b>オーディン、"vit" って「私たち」のことよね？でも "vér" も「私たち」って書いてあるけど、何が違うの？</p>

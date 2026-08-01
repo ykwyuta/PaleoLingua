@@ -22,6 +22,10 @@ export default defineConfig({
         },
       ],
       customCss: ['./src/styles/custom.css'],
+      components: {
+        ThemeProvider: './src/components/EmptyThemeProvider.astro',
+        ThemeSelect: './src/components/EmptyThemeSelect.astro',
+      },
       sidebar: [
         {
           label: 'シュメール語',

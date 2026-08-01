@@ -7,8 +7,8 @@ sidebar:
 ---
 
 <div class="plc-banner">
-  <img src="/images/characters/old-norse/boy-group.png" alt="Óðinn, the Old Norse boy" />
-  <img src="/images/characters/old-norse/girl-group.png" alt="Freyja, the Old Norse girl" />
+  <img src="/images/characters/old-norse/boy-base.png" alt="Óðinn, the Old Norse boy" />
+  <img src="/images/characters/old-norse/girl-base.png" alt="Freyja, the Old Norse girl" />
   <div>
     <p><strong>Welcome to PaleoLingua!</strong></p>
     <p>At the end of most articles, <strong>Óðinn</strong> (the chief god of battle, wisdom, and poetry, and the mythical discoverer of the runes) and <strong>Freyja</strong> (goddess of love, fertility, and war) will chat with you in a short "Learning Column" about some fun fact related to Old Norse and the runic alphabet. In the myths, Óðinn is said to have hung himself on the world-tree Yggdrasil for nine nights to win the knowledge of the runes. Join the two of them as we explore the language and script of the Viking Age.</p>
@@ -42,7 +42,7 @@ The script used to record Old Norse changed over time. Throughout the Viking Age
 The corpus splits broadly into two strands. One is the **primary, inscriptional evidence**: several thousand runestones, wooden sticks, and other objects bearing memorial inscriptions, ownership marks, and charms. The other is the **literary corpus**, written down on Icelandic vellum manuscripts from the 13th century onward: the *Poetic Edda*, a collection of mythological and heroic poems; the *Prose Edda*, Snorri Sturluson's handbook of poetics and mythology; and a large body of saga literature, including *Njáls saga* and many other family sagas and kings' sagas.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="Óðinn" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="Óðinn" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Runes Won Through Suffering</p>
     <p class="plc-line"><b>Óðinn:</b> Freyja, in the myths I actually pierce myself with my own spear and hang on Yggdrasil for nine nights and nine days just to win the runes.</p>

@@ -62,7 +62,7 @@ Like i-umlaut, u-umlaut shows up regularly across noun declension and verb conju
 Stress in Old Norse falls, as a rule, on the **first (root) syllable of the word** — a feature shared across the Germanic languages, reflecting the shift from the mobile accent of Proto-Indo-European to a fixed, word-initial stress at the Proto-Germanic stage. No matter how many prefixes or endings are attached, the stress stays put on the root syllable.
 
 <div class="plc-column">
-  <img class="plc-avatar" src="/images/characters/old-norse/boy-icon-smile.png" alt="Óðinn" />
+  <img class="plc-avatar" src="/images/characters/old-norse/boy-f02.png" alt="Óðinn" />
   <div class="plc-body">
     <p class="plc-title">💬 Learning Column: Umlaut Is a Vowel Getting "Pulled"</p>
     <p class="plc-line"><b>Óðinn:</b> Freyja, isn't it strange that *fótr* ("foot") becomes *fœtr* in the plural? Nothing got added to the ending, yet the vowel itself changed.</p>

@@ -1,0 +1,43 @@
+// @ts-check
+import { defineConfig } from 'astro/config';
+import starlight from '@astrojs/starlight';
+
+export default defineConfig({
+  site: 'https://paleolingua.pages.dev',
+  integrations: [
+    starlight({
+      title: 'PaleoLingua',
+      description:
+        'AIが自律的に執筆・拡充する、オープンかつ完全無料の多言語（日本語・英語）ニッチ古代言語Web教科書',
+      defaultLocale: 'root',
+      locales: {
+        root: { label: '日本語', lang: 'ja' },
+        en: { label: 'English', lang: 'en' },
+      },
+      social: [
+        {
+          icon: 'github',
+          label: 'GitHub',
+          href: 'https://github.com/ykwyuta/paleolingua',
+        },
+      ],
+      sidebar: [
+        {
+          label: '文字と音韻',
+          translations: { en: 'Script & Phonology' },
+          items: [{ autogenerate: { directory: 'script-and-phonology' } }],
+        },
+        {
+          label: '基礎文法',
+          translations: { en: 'Basic Grammar' },
+          items: [{ autogenerate: { directory: 'grammar' } }],
+        },
+        {
+          label: '読解・例文',
+          translations: { en: 'Readings & Examples' },
+          items: [{ autogenerate: { directory: 'readings' } }],
+        },
+      ],
+    }),
+  ],
+});

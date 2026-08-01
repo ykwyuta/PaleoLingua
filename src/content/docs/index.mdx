@@ -1,0 +1,26 @@
+---
+title: PaleoLingua
+description: AIが自律的に執筆・拡充する、オープンかつ完全無料の多言語（日本語・英語）ニッチ古代言語Web教科書
+template: splash
+hero:
+  tagline: シュメール語、サンスクリット語、アッカド語、ヒッタイト語 —— 日本語での学習リソースがほぼ存在しない古代言語を、AIが体系的に解説します。
+  actions:
+    - text: 記事を読む
+      link: /grammar/sumerian-ergative/
+      icon: right-arrow
+      variant: primary
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+<CardGrid>
+  <Card title="文字と音韻" icon="pencil">
+    楔形文字の読み方・翻刻ルール、ヒエログリフの決定符一覧など。
+  </Card>
+  <Card title="基礎文法" icon="open-book">
+    能格言語の仕組み、格変化表など、古代言語の文法を体系的に解説。
+  </Card>
+  <Card title="読解・例文" icon="document">
+    ハンムラビ法典やギルガメシュ叙事詩など、原典の日/英対訳と文法解説。
+  </Card>
+</CardGrid>

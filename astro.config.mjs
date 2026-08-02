@@ -49,6 +49,27 @@ export default defineConfig({
           ],
         },
         {
+          label: 'サンスクリット語',
+          translations: { en: 'Sanskrit' },
+          items: [
+            {
+              label: '文字と音韻',
+              translations: { en: 'Script & Phonology' },
+              items: [{ autogenerate: { directory: 'sanskrit/script-and-phonology' } }],
+            },
+            {
+              label: '基礎文法',
+              translations: { en: 'Basic Grammar' },
+              items: [{ autogenerate: { directory: 'sanskrit/grammar' } }],
+            },
+            {
+              label: '読解・例文',
+              translations: { en: 'Readings & Examples' },
+              items: [{ autogenerate: { directory: 'sanskrit/readings' } }],
+            },
+          ],
+        },
+        {
           label: '古ノルド語',
           translations: { en: 'Old Norse' },
           items: [

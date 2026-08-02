@@ -53,6 +53,77 @@ The index number is purely a scholarly notation for *which sign* is being used �
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. Which of these is given as an example of a CVC-type syllabogram?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-1"> A. `a`</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-1"> B. `ba`</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-1"> C. `en`</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-1" class="pq-correct"> D. `dam`</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("`dam`").</p>
+      <p class="pq-explanation">Explanation: The article's table lists `dam`, `kur`, and `lugal` as examples of CVC-type syllabograms.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. How is the word for "child," *dumu*, spelled syllabically according to the article?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-2"> A. With a single logogram</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-2" class="pq-correct"> B. With two CV syllabograms, `du` + `mu`</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-2"> C. With `dam` + `mu`</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-2"> D. With a determinative attached</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("With two CV syllabograms, `du` + `mu`").</p>
+      <p class="pq-explanation">Explanation: *dumu* is spelled with two CV syllabograms, `du` + `mu`, written `du-mu`.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does "polyvalence" mean in this context?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-3" class="pq-correct"> A. A single sign can be read with more than one sound</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-3"> B. The same sound can be written with several different signs</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-3"> C. A sign is never pronounced at all</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-3"> D. A sign's orientation rotates 90 degrees</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("A single sign can be read with more than one sound").</p>
+      <p class="pq-explanation">Explanation: Polyvalence means a single sign can be read with more than one sound value — the opposite of homophony, where several signs share the same sound.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What does the index number in a form like `du3` actually indicate?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-4"> A. The pitch at which the sign is pronounced</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-4"> B. The grammatical case of the word</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-4" class="pq-correct"> C. Which specific sign is being used, not a difference in pronunciation</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-4"> D. The date the tablet was inscribed</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("Which specific sign is being used, not a difference in pronunciation").</p>
+      <p class="pq-explanation">Explanation: The index number is purely scholarly notation for which sign is used; it does not indicate any difference in pronunciation — `du`, `du3`, and `du6` are all pronounced "du."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. According to the article, which syllabogram is the verbal root meaning "to build"?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-5"> A. `du`</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-5" class="pq-correct"> B. `du3`</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-5"> C. `mu`</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-5"> D. `du6`</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("`du3`").</p>
+      <p class="pq-explanation">Explanation: `du3` is the verbal root "to build" — the same sign used in `lugal-e e2 mu-du3` ("the king built the house").</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Writing Direction and Wedge Shapes](/en/sumerian/script-and-phonology/cuneiform-writing-direction/)

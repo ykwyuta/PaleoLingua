@@ -54,6 +54,77 @@ These number words underlie the constant quantity expressions found in administr
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What does the article describe as the foundation of the Sumerian number system?</p>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-1"> A. A pure base-10 system</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-1" class="pq-correct"> B. A sexagesimal (base-60) system combined with base-10 elements</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-1"> C. A base-12 system</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-1"> D. A base-20 (Maya-style) system</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("A sexagesimal (base-60) system combined with base-10 elements").</p>
+      <p class="pq-explanation">Explanation: The article states Sumerian numbers "are not built on a base-10 system but on a 'sexagesimal' (base-60) system, combined with base-10 elements in a mixed structure."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What shape does the article describe for the cuneiform sign representing 10?</p>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-2"> A. A large circular impression</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-2"> B. A small vertical wedge</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-2" class="pq-correct"> C. A Winkelhaken (a small angular notch)</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-2"> D. A double horizontal line</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("A Winkelhaken (a small angular notch)").</p>
+      <p class="pq-explanation">Explanation: The table gives the sign for 10 as "a Winkelhaken (a small angular notch)," while 1 is "a small vertical wedge."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What is the Sumerian word for the number 7?</p>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-3" class="pq-correct"> A. imin</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-3"> B. ussu</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-3"> C. limmu</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-3"> D. ilimmu</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("imin").</p>
+      <p class="pq-explanation">Explanation: The number-word table lists 7 as imin (with ussu=8, limmu=4, and ilimmu=9).</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. Which of the following is NOT given in the article as a modern trace of the base-60 system?</p>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-4"> A. 60 minutes to an hour</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-4"> B. 60 seconds to a minute</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-4"> C. 360 degrees in a circle</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-4" class="pq-correct"> D. 12 months in a year</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("12 months in a year").</p>
+      <p class="pq-explanation">Explanation: The article gives three examples of surviving base-60 traces — 60 minutes to an hour, 60 seconds to a minute, and 360 degrees in a circle — but does not mention months in a year.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What does the article say these number words (1-10) underlie?</p>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-5"> A. Recording regnal years in royal inscriptions</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-5" class="pq-correct"> B. Quantity expressions like "N sheep" and "N tablets" in administrative and economic texts</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-5"> C. Recording phases of the moon in astronomical calendars</label>
+    <label class="pq-option"><input type="radio" name="quiz-numbers-and-counting-5"> D. Calculating temple floor areas</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("Quantity expressions like \"N sheep\" and \"N tablets\" in administrative and economic texts").</p>
+      <p class="pq-explanation">Explanation: The article states these number words "underlie the constant quantity expressions found in administrative and economic texts — 'N sheep,' 'N tablets,' and so on."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Writing Direction and Wedge Shapes](/en/sumerian/script-and-phonology/cuneiform-writing-direction/)

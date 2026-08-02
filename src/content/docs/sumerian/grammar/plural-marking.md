@@ -60,6 +60,77 @@ kur-kur          gal-gal
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 人間（有生）名詞の複数を表す最も規則的な接尾辞は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-1"> A. -bi</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-1" class="pq-correct"> B. -ene</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-1"> C. -e</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-1"> D. -kur</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「-ene」。</p>
+      <p class="pq-explanation">解説：本文冒頭に「シュメール語で最も規則的な複数表現は、人間（有生）を表す名詞に付く接尾辞 `-ene` である」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 接尾辞 `-ene` は名詞句の並び順の中でどこに置かれるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-2"> A. 格接尾辞の直後</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-2"> B. 名詞の前</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-2"> C. 動詞の直前</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-2" class="pq-correct"> D. 属格句や指示詞の後、格接尾辞の前</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「属格句や指示詞の後、格接尾辞の前」。</p>
+      <p class="pq-explanation">解説：本文に「`-ene` は名詞句の並び順の中では、属格句や指示詞の後、格接尾辞の前という位置に置かれる」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 無生物名詞（建物・道具など）の複数表現について本文が述べているのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-3" class="pq-correct"> A. 単数形と同じ形のままで、数詞などを添えて数を示す</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-3"> B. 必ず -ene が付く</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-3"> C. 重複形が義務的に付く</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-3"> D. 複数専用の接尾辞 -ug が付く</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「単数形と同じ形のままで、数詞などを添えて数を示す」。</p>
+      <p class="pq-explanation">解説：本文は「無生物…を表す名詞は、多くの場合、単数形と複数形が同じ形のままで区別されない。数量を明示したい場合は、数詞や『多くの』を表す語を添える」と説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. `kur-kur` のような重複形が主に表すものは何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-4"> A. 過去の出来事</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-4"> B. 疑問文</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-4" class="pq-correct"> C. 「あらゆる」「すべての」という全体性・分配性</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-4"> D. 否定</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「『あらゆる』『すべての』という全体性・分配性」。</p>
+      <p class="pq-explanation">解説：本文は「重複させる…ことで、複数というより『すべての』『あらゆる』という全体性・分配性を表すことがある」と説明し、`kur-kur`（あらゆる国々）を例に挙げている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 動詞「死ぬ」について本文が指摘する興味深い点はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-5"> A. シュメール語には「死ぬ」を表す動詞が存在しない</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-5" class="pq-correct"> B. 主体が単数か複数かで `uš2` と `ug7` という全く異なる語根が使われる（実は同じ楔形文字記号の異なる読み）</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-5"> C. 複数の場合は接頭辞 `mu-` が必須になる</label>
+    <label class="pq-option"><input type="radio" name="quiz-plural-marking-5"> D. 「死ぬ」の複数形は重複形 `uš2-uš2` で表される</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「主体が単数か複数かで `uš2` と `ug7` という全く異なる語根が使われる（実は同じ楔形文字記号の異なる読み）」。</p>
+      <p class="pq-explanation">解説：本文は「死ぬ主体が1人か複数かによって、`uš2` と `ug7` という翻字上は全く見た目の異なる語根が使い分けられる」とし、「両者は実際には同じ楔形文字の記号 𒁁 の異なる読みとして書き分けられる」と補足している。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 名詞句の構造と限定表現](/sumerian/grammar/noun-phrase-genitive-chain/)

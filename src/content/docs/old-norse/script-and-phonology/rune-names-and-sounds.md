@@ -71,6 +71,77 @@ umbre visir.
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 「頭音原理（acrophonic principle）」とはどのような仕組みか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-1"> A. すべてのルーンの名前が神の名に由来する</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-1"> B. ルーンの形が名前の意味を絵として表す</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-1" class="pq-correct"> C. 文字の名前の最初の音が、その文字の音価と一致する</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-1"> D. 名前の最後の音が音価になる</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「文字の名前の最初の音が、その文字の音価と一致する」。</p>
+      <p class="pq-explanation">解説：記事は、ルーン文字それぞれに名前があり、その名前の最初の音がその文字の音価と一致する仕組みを頭音原理と呼ぶと説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. ルーン ᚠ の名前と意味の組み合わせとして正しいのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-2"> A. týr（軍神テュール）</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-2" class="pq-correct"> B. fé（財産・家畜）</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-2"> C. hagall（雹）</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-2"> D. bjarkan（樺の木）</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「fé（財産・家畜）」。</p>
+      <p class="pq-explanation">解説：記事は ᚠ という文字が「fé（財産、家畜）」という名を持ち、頭音 /f/ が文字の読みになると説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 記事が挙げている「ルーン詩」に含まれないものはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-3"> A. 古アイスランド・ルーン詩</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-3"> B. 古ノルウェー・ルーン詩</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-3"> C. 古英語ルーン詩</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-3" class="pq-correct"> D. 古ゲルマン・ルーン詩</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「古ゲルマン・ルーン詩」。</p>
+      <p class="pq-explanation">解説：記事が挙げる有名なルーン詩は『古アイスランド・ルーン詩』『古ノルウェー・ルーン詩』『古英語ルーン詩』の3つであり、「古ゲルマン・ルーン詩」という名称は登場しない。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. ルーン ᛏ の名前 *týr* が指すものと、その音価の組み合わせとして正しいのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-4"> A. 太陽の神／音価 s</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-4"> B. 樺の木／音価 b, p</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-4" class="pq-correct"> C. 軍神テュール／音価 t, d</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-4"> D. 雨／音価 u, o, y, ø, w</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「軍神テュール／音価 t, d」。</p>
+      <p class="pq-explanation">解説：まとめの表によると、ᛏ は名称 týr（軍神テュール）を持ち、音価は t, d である。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. ルーン ᚢ（úr）の音価としてまとめの表が示しているのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-5"> A. f のみ</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-5"> B. þ, ð</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-5" class="pq-correct"> C. u, o, y, ø, w</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-5"> D. a, æ, o</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「u, o, y, ø, w」。</p>
+      <p class="pq-explanation">解説：音価との対応まとめの表によれば、ᚢ（úr、雨・原牛）は u, o, y, ø, w という複数の音価を持つ多義的なルーンである。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: ヤンガー・フサルク：ヴァイキング時代の16文字](/old-norse/script-and-phonology/younger-futhark/)

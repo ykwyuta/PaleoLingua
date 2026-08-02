@@ -69,6 +69,77 @@ hann  beit    orm-inn
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 弱変化動詞はどのようにして過去形を作るか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-1" class="pq-correct"> A. 語幹に歯音接尾辞（-ð-, -d-, -t-）を付加する</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-1"> B. 語幹母音そのものを交替させる</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-1"> C. 語幹を重複させる</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-1"> D. 鼻音を語中に挿入する</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「語幹に歯音接尾辞（-ð-, -d-, -t-）を付加する」。</p>
+      <p class="pq-explanation">解説：本文で述べられている通り、弱変化動詞は語幹に歯音接尾辞を付けて過去形を作る。これに対し強変化動詞は接尾辞を使わず母音交替（アブラウト）で過去形を作る。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 強変化動詞は伝統的にいくつの「主要形」で提示されるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-2"> A. 2つ</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-2"> B. 3つ</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-2"> C. 7つ</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-2" class="pq-correct"> D. 4つ</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「4つ」。</p>
+      <p class="pq-explanation">解説：本文にある通り、強変化動詞は不定詞・過去単数形・過去複数形・過去分詞の4つの主要形で提示される。7つはアブラウトのパターンによるクラスの数であり、主要形の数ではない。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. クラスI強変化動詞 bíta の母音交替パターンはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-3"> A. a – u – u – u</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-3" class="pq-correct"> B. í – ei – i – i</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-3"> C. e – a – u – o</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-3"> D. í – au – u – u</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「í – ei – i – i」。</p>
+      <p class="pq-explanation">解説：主要形の表にある通り、bíta（不定詞）– beit（過去単数）– bitu（過去複数）– bitinn（過去分詞）の母音は í – ei – i – i と交替する。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. bíta の2人称単数過去形はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-4"> A. beit</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-4"> B. bitum</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-4"> C. bituð</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-4" class="pq-correct"> D. beitt</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「beitt」。</p>
+      <p class="pq-explanation">解説：人称変化の表にある通り、2人称単数過去は beitt であり、1人称・3人称単数過去の beit とは語尾が異なる。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. ヤーコプ・グリムはなぜ強変化動詞を「強い」と呼んだのか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-5"> A. 語彙の中でより頻度が高いから</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-5" class="pq-correct"> B. 外部からの接尾辞なしに、語幹自体の力だけで過去形を作れるから</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-5"> C. 歴史的にゲルマン語の段階で新しく発達した仕組みだから</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-5"> D. 現在形が常に不規則な語尾を取るから</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「外部からの接尾辞なしに、語幹自体の力だけで過去形を作れるから」。</p>
+      <p class="pq-explanation">解説：本文にある通り、グリムは外部の助けなしに語幹の力だけで過去形を作れる動詞を「強い」、歯音接尾辞という外部の助けを借りる動詞を「弱い」と呼んだ。強変化のほうが印欧祖語のアブラウトを引き継ぐ古い層である。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 動詞活用の基礎](/old-norse/grammar/old-norse-verb-basics/)

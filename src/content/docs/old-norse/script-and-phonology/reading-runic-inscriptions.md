@@ -52,6 +52,77 @@ raisti · stain · þana
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 「牛耕式（boustrophedon）」の碑文について正しい説明はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-1"> A. 常に右から左へ読む</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-1"> B. 常に左から右へ読む</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-1" class="pq-correct"> C. 行ごとに読字方向が反転する</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-1"> D. 単語ごとに読字方向が変わる</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「行ごとに読字方向が反転する」。</p>
+      <p class="pq-explanation">解説：記事は牛耕式（「牛が畑を耕すように」の意）を、行ごとに読字方向を反転させる書き方として説明し、偶数行の文字が鏡文字になることが多いとしている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. ルーン碑文で単語の区切りを示すために使われることがある記号はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-2"> A. スラッシュ（/）</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-2" class="pq-correct"> B. 点（·）や縦に並んだ複数の点（:）</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-2"> C. ハイフン（-）</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-2"> D. 二重縦線（‖）</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「点（·）や縦に並んだ複数の点（:）」。</p>
+      <p class="pq-explanation">解説：記事は現代の分かち書きに相当する慣習として、点（·）や縦に並んだ複数の点（:）が単語の間に置かれることがあると説明し、*raisti · stain · þana* を例に挙げている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 「連結ルーン（バインドルーン）」とはどのようなものか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-3"> A. 2つの碑文を1つの石にまとめて刻んだもの</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-3"> B. 母音を省略して子音だけを刻んだもの</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-3" class="pq-correct"> C. 2つ以上のルーンが縦棒（幹）を共有して1つの合字になったもの</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-3"> D. 誤って彫られた文字を訂正するための記号</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「2つ以上のルーンが縦棒（幹）を共有して1つの合字になったもの」。</p>
+      <p class="pq-explanation">解説：記事は連結ルーン（バインドルーン）を、2つ以上のルーンが縦棒（幹）を共有する形で1つの合字にまとめられたものと定義し、ᛘ (m) と ᛅ (a) の例を挙げている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. ルーン文字ᛏの読み方に関する「誤読しやすいポイント」として記事が挙げているのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-4"> A. 常に無音になる</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-4"> B. 母音のu, o, y, ø, wのいずれにもなりうる</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-4" class="pq-correct"> C. 有声・無声の区別がなく、t にも d にも対応する</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-4"> D. 語頭にしか現れない</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「有声・無声の区別がなく、t にも d にも対応する」。</p>
+      <p class="pq-explanation">解説：記事は「有声・無声の区別がない」点として、ᛏ は t にも d にも対応するため *stain* と書かれていても *stein* と同義の語として読むと説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. ルーン文字ᚢが表しうる音として記事が挙げていないものはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-5"> A. u</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-5"> B. o</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-5" class="pq-correct"> C. þ</label>
+    <label class="pq-option"><input type="radio" name="quiz-reading-runic-inscriptions-5"> D. w</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「þ」。</p>
+      <p class="pq-explanation">解説：記事は「多義的な母音字」として、ᚢ は u, o, y, ø, w のいずれにもなりうると説明している。þ はこの一覧に含まれていない。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: ヤンガー・フサルク：ヴァイキング時代の16文字](/old-norse/script-and-phonology/younger-futhark/)

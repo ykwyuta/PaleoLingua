@@ -69,6 +69,77 @@ The terms "strong" and "weak" for these two verb types come from the 19th-centur
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. How do weak verbs form the past tense?</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-1" class="pq-correct"> A. By adding a dental suffix (-ð-, -d-, -t-) to the stem</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-1"> B. By alternating the stem vowel itself</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-1"> C. By reduplicating the stem</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-1"> D. By inserting a nasal infix</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("By adding a dental suffix (-ð-, -d-, -t-) to the stem").</p>
+      <p class="pq-explanation">Explanation: As the article states, weak verbs form the past tense by adding a dental suffix to the stem, while strong verbs use no suffix and instead alternate the stem vowel (ablaut).</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. How many "principal parts" are strong verbs traditionally cited by?</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-2"> A. Two</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-2"> B. Three</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-2"> C. Seven</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-2" class="pq-correct"> D. Four</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("Four").</p>
+      <p class="pq-explanation">Explanation: The article lists the infinitive, past singular, past plural, and past participle as the four principal parts. Seven is the number of ablaut classes, not the number of principal parts.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What is the vowel-alternation pattern of the Class I strong verb bíta?</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-3"> A. a – u – u – u</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-3" class="pq-correct"> B. í – ei – i – i</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-3"> C. e – a – u – o</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-3"> D. í – au – u – u</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("í – ei – i – i").</p>
+      <p class="pq-explanation">Explanation: The principal-parts table shows bíta (infinitive) – beit (past sg.) – bitu (past pl.) – bitinn (past participle), with vowels alternating í – ei – i – i.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What is the 2nd person singular past form of bíta?</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-4"> A. beit</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-4"> B. bitum</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-4"> C. bituð</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-4" class="pq-correct"> D. beitt</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("beitt").</p>
+      <p class="pq-explanation">Explanation: The person-inflection table shows the 2nd person singular past is beitt, distinct from the 1st/3rd person singular past form beit.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. Why did Jacob Grimm call strong verbs "strong"?</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-5"> A. Because they are more frequent in the core vocabulary</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-5" class="pq-correct"> B. Because they form the past tense on the strength of the stem alone, without an external suffix</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-5"> C. Because they are a more recent innovation that developed within Germanic</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-verbs-5"> D. Because their present tense is always irregular</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("Because they form the past tense on the strength of the stem alone, without an external suffix").</p>
+      <p class="pq-explanation">Explanation: The article explains that Grimm called verbs "strong" when they form the past tense using the stem's own strength alone, and "weak" when they need the "external help" of a dental suffix. Strong verbs are the older layer, inheriting Proto-Indo-European ablaut.</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: The Basics of Verb Conjugation](/en/old-norse/grammar/old-norse-verb-basics/)

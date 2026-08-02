@@ -71,6 +71,77 @@ Stress in Old Norse falls, as a rule, on the **first (root) syllable of the word
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. Which statement about the Old Norse vowel system is correct?</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-1"> A. It has seven short and seven long vowels</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-1" class="pq-correct"> B. It has nine short and nine long vowels, an unusually rich inventory</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-1"> C. It has five short and five long vowels</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-1"> D. It has no length contrast in vowels</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("It has nine short and nine long vowels, an unusually rich inventory").</p>
+      <p class="pq-explanation">Explanation: As stated at the start of the article, Old Norse has nine short and nine long vowels, described as an unusually rich inventory even among Germanic languages of its time.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What does the þ / ð contrast represent?</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-2"> A. A contrast in vowel length</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-2"> B. A contrast between rounded and unrounded vowels</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-2" class="pq-correct"> C. A contrast between voiceless and voiced dental fricatives</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-2"> D. A distinction between different diphthongs</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("A contrast between voiceless and voiced dental fricatives").</p>
+      <p class="pq-explanation">Explanation: The consonant table states that separate letters þ and ð distinguish voiceless and voiced dental fricatives.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. Which of the following does the article give as an example of i-umlaut?</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-3"> A. land → lǫnd</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-3"> B. the ll in kalla</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-3"> C. the hr- in hringr</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-3" class="pq-correct"> D. gestr → gestir</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("gestr → gestir").</p>
+      <p class="pq-explanation">Explanation: The article presents gestr (guest, sg.) → gestir (guests, pl.) as an example of i-umlaut, where a following i fronts the preceding vowel.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What change does u-umlaut cause?</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-4" class="pq-correct"> A. a rounds to ǫ, as in land → lǫnd</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-4"> B. e appears, as in gestr → gestir</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-4"> C. the diphthong ei in steinn becomes a monophthong</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-4"> D. the consonant in kalla shortens</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("a rounds to ǫ, as in land → lǫnd").</p>
+      <p class="pq-explanation">Explanation: u-umlaut is the rounding of a preceding a to ǫ triggered by a following u, illustrated in the article by land (land, sg.) → lǫnd (lands, pl.).</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What does the article say about stress placement in Old Norse?</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-5"> A. It falls on the final syllable</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-5" class="pq-correct"> B. It is fixed on the first (root) syllable</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-5"> C. It shifts depending on vowel length</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-phonology-5"> D. It is unpredictable from word to word</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("It is fixed on the first (root) syllable").</p>
+      <p class="pq-explanation">Explanation: The article states that stress in Old Norse falls, as a rule, on the first (root) syllable, staying put no matter how many prefixes or endings are attached.</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Old Norse Transliteration (Normalized Orthography)](/en/old-norse/script-and-phonology/old-norse-transliteration/)

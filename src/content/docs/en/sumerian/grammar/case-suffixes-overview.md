@@ -50,6 +50,77 @@ Each case is treated in more depth in its own dedicated article (the genitive, d
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. Which suffix marks the absolutive case?</p>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-1"> A. -e</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-1" class="pq-correct"> B. unmarked (∅)</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-1"> C. -ak</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-1"> D. -ra</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("unmarked (∅)").</p>
+      <p class="pq-explanation">Explanation: As the table shows, the absolutive is unmarked — it takes no suffix at all — and covers the subject of intransitive verbs and the object of transitive verbs.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What role does the ergative suffix -e mark?</p>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-2" class="pq-correct"> A. Subject (agent) of a transitive verb</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-2"> B. Object of a transitive verb</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-2"> C. Location</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-2"> D. Possession</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("Subject (agent) of a transitive verb").</p>
+      <p class="pq-explanation">Explanation: The table lists the ergative -e as marking "subject (agent) of transitive verbs."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. No matter how long a Sumerian noun phrase grows, how many case suffixes attach to it?</p>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-3"> A. One per word in the phrase</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-3"> B. Two, one at each end</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-3" class="pq-correct"> C. Exactly one, at the very end of the whole phrase</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-3"> D. None — case is shown only by word order</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("Exactly one, at the very end of the whole phrase").</p>
+      <p class="pq-explanation">Explanation: The article states that only a single case suffix attaches, to the phrase as a whole, no matter how long it grows.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. In the noun-phrase order noun → adjective → genitive phrase → demonstrative → plural marker → case suffix, which element comes immediately before the case suffix?</p>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-4"> A. Adjective</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-4"> B. Genitive phrase</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-4"> C. Demonstrative</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-4" class="pq-correct"> D. Plural marker</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("Plural marker").</p>
+      <p class="pq-explanation">Explanation: The stated order is noun → adjective → genitive phrase → demonstrative → plural marker → case suffix, so the plural marker sits directly before the case suffix.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. In the example "e2 lugal-ak-e" ("the king's house," as agent), what does the final -e indicate?</p>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-5"> A. Genitive (possession)</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-5" class="pq-correct"> B. Ergative (subject of a transitive verb)</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-5"> C. Locative (location)</label>
+    <label class="pq-option"><input type="radio" name="quiz-case-suffixes-overview-5"> D. Terminative (goal)</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("Ergative (subject of a transitive verb)").</p>
+      <p class="pq-explanation">Explanation: `lugal-ak` forms the genitive phrase "the king's," and the ergative -e then attaches to the whole phrase, marking it as the agent doing the action.</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: Sumerian Ergative and Absolutive Case](/en/sumerian/grammar/sumerian-ergative/)

@@ -69,6 +69,27 @@ export default defineConfig({
             },
           ],
         },
+        {
+          label: '古エジプト語',
+          translations: { en: 'Old Egyptian' },
+          items: [
+            {
+              label: '文字と音韻',
+              translations: { en: 'Script & Phonology' },
+              items: [{ autogenerate: { directory: 'old-egyptian/script-and-phonology' } }],
+            },
+            {
+              label: '基礎文法',
+              translations: { en: 'Basic Grammar' },
+              items: [{ autogenerate: { directory: 'old-egyptian/grammar' } }],
+            },
+            {
+              label: '読解・例文',
+              translations: { en: 'Readings & Examples' },
+              items: [{ autogenerate: { directory: 'old-egyptian/readings' } }],
+            },
+          ],
+        },
       ],
     }),
   ],

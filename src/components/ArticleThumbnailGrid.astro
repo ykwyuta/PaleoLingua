@@ -39,6 +39,20 @@ const LANGUAGE_HUE: Record<string, number> = {
   'old-norse': 220,
 };
 
+// Each character folder ships 6 face-expression closeups per gender
+// (boy-f01..f06 / girl-f01..f06). Picking among all of them — instead of
+// always the same single expression — keeps the article grid from looking
+// like the same two thumbnails copy-pasted everywhere.
+const FACE_VARIANTS = ['f01', 'f02', 'f03', 'f04', 'f05', 'f06'];
+
+function hashString(input: string): number {
+  let hash = 0;
+  for (let i = 0; i < input.length; i++) {
+    hash = (hash * 31 + input.charCodeAt(i)) >>> 0;
+  }
+  return hash;
+}
+
 const idPrefix = locale === 'en' ? `en/${language}/${category}/` : `${language}/${category}/`;
 
 const allDocs = await getCollection('docs');
@@ -63,8 +77,12 @@ const catName = CATEGORY_NAMES[category][locale];
         locale === 'en'
           ? `/en/${language}/${category}/${slug}/`
           : `/${language}/${category}/${slug}/`;
-      const icon = i % 2 === 0 ? 'boy-f02.png' : 'girl-f02.png';
-      const iconSrc = `/images/characters/${topic}/${icon}`;
+      // Gender still alternates card-to-card; the expression is derived from
+      // the slug (not the loop index) so a given article shows the same
+      // thumbnail in both locales while different articles get different faces.
+      const gender = i % 2 === 0 ? 'boy' : 'girl';
+      const variant = FACE_VARIANTS[hashString(slug) % FACE_VARIANTS.length];
+      const iconSrc = `/images/characters/${topic}/${gender}-${variant}.png`;
       const hue = LANGUAGE_HUE[topic] ?? 210;
       const langName = LANGUAGE_NAMES[topic]?.[locale] ?? topic;
 

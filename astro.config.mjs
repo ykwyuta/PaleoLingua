@@ -90,6 +90,27 @@ export default defineConfig({
             },
           ],
         },
+        {
+          label: 'ヒッタイト語',
+          translations: { en: 'Hittite' },
+          items: [
+            {
+              label: '文字と音韻',
+              translations: { en: 'Script & Phonology' },
+              items: [{ autogenerate: { directory: 'hittite/script-and-phonology' } }],
+            },
+            {
+              label: '基礎文法',
+              translations: { en: 'Basic Grammar' },
+              items: [{ autogenerate: { directory: 'hittite/grammar' } }],
+            },
+            {
+              label: '読解・例文',
+              translations: { en: 'Readings & Examples' },
+              items: [{ autogenerate: { directory: 'hittite/readings' } }],
+            },
+          ],
+        },
       ],
     }),
   ],

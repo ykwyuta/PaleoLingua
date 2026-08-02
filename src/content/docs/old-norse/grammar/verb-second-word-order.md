@@ -61,6 +61,77 @@ V2制約は主節（独立した文）にのみ適用され、従属節（*ef*�
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. V2制約とは何を要求するものか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-1"> A. 主語が常に文頭に来ること</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-1"> B. 目的語が常に文頭に来ること</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-1" class="pq-correct"> C. 定動詞が常に文の2番目の位置に置かれること</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-1"> D. 動詞が常に文末に置かれること</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「定動詞が常に文の2番目の位置に置かれること」。</p>
+      <p class="pq-explanation">解説：本文で定義されている通り、V2語順とは定動詞（人称変化した動詞）が文頭に何が来ようと常に2番目の要素に置かれるという制約である。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. "þessi orð mælti Óðinn"（これらの言葉を、オーディンは語った）という文で、主語 Óðinn はどうなるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-2"> A. 完全に省略される</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-2"> B. 動詞の前に留まる</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-2"> C. 目的語に変わる</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-2" class="pq-correct"> D. 動詞の後ろに押し出される（主語・動詞倒置）</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「動詞の後ろに押し出される（主語・動詞倒置）」。</p>
+      <p class="pq-explanation">解説：本文で説明されている通り、目的語 þessi orð が文頭に出ても動詞 mælti は2番目の位置を保ち、主語 Óðinn はその後ろに押し出される倒置が起きる。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. "þá kom konungr til hallar"（その時、王は広間へやって来た）で倒置を引き起こしているのは何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-3"> A. 目的語が文頭に出ている</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-3" class="pq-correct"> B. 副詞 þá（その時）が文頭に出ている</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-3"> C. 動詞が否定されている</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-3"> D. 疑問文になっている</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「副詞 þá（その時）が文頭に出ている」。</p>
+      <p class="pq-explanation">解説：本文にある通り、þá が文頭にあるため動詞 kom が2番目、主語 konungr がその後に置かれており、サガ文学では þá で場面転換を示す文体が多用される。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. V2制約は従属節（ef「もし」などで導かれる節）にも適用されるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-4"> A. 常に適用される</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-4" class="pq-correct"> B. 適用されない。V2は主節にのみ適用される</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-4"> C. 詩の中でのみ適用される</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-4"> D. 主語が代名詞のときのみ適用される</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「適用されない。V2は主節にのみ適用される」。</p>
+      <p class="pq-explanation">解説：本文で明記されている通り、V2制約は主節にのみ適用され、従属節では動詞が2番目の位置に来るとは限らない。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 記事によれば、主節・従属節での語順の違いが色濃く受け継がれている現代の言語はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-5"> A. 英語</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-5"> B. フランス語</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-5" class="pq-correct"> C. ドイツ語</label>
+    <label class="pq-option"><input type="radio" name="quiz-verb-second-word-order-5"> D. ラテン語</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「ドイツ語」。</p>
+      <p class="pq-explanation">解説：本文にある通り、この主節・従属節の語順の違いは現代ドイツ語にも色濃く受け継がれている特徴だと述べられている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 名詞の格変化概説（主格・対格・属格・与格）](/old-norse/grammar/old-norse-noun-cases/)

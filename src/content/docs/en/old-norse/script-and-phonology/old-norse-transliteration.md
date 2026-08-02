@@ -64,6 +64,77 @@ Because i-umlaut and u-umlaut show up constantly in Old Norse noun and verb para
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What did scholars mainly build the normalized Old Norse orthography on?</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-1"> A. A modern Icelandic pronunciation dictionary</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-1" class="pq-correct"> B. The description in the 13th-century Icelandic First Grammatical Treatise</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-1"> C. Old English spelling conventions</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-1"> D. A 20th-century corpus of runic inscriptions</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("The description in the 13th-century Icelandic First Grammatical Treatise").</p>
+      <p class="pq-explanation">Explanation: The article states that scholars from the 19th century on built the normalized orthography largely on the description in the 13th-century Icelandic First Grammatical Treatise.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. Which correctly describes the distribution of þ (thorn) and ð (eth)?</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-2"> A. þ appears medially/finally, ð word-initially</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-2"> B. Both appear only word-initially</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-2" class="pq-correct"> C. þ appears word-initially, ð medially/finally</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-2"> D. þ marks long vowels, ð marks short ones</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("þ appears word-initially, ð medially/finally").</p>
+      <p class="pq-explanation">Explanation: The table shows þ (voiceless) in word-initial position and ð (voiced) medially/finally, illustrated by *þú* (initial þ) and *maðr* (medial ð).</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. How does normalized orthography mark long vowels?</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-3"> A. By doubling the vowel letter</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-3"> B. With a macron (bar) over the vowel</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-3" class="pq-correct"> C. With an acute accent</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-3"> D. By adding an h after the vowel</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("With an acute accent").</p>
+      <p class="pq-explanation">Explanation: The article says normalized orthography marks long vowels with an acute accent, giving *sonr* ("son") and *sól* ("sun") as an example pair.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What origin does the article give for the letter ǫ?</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-4"> A. i-umlaut of ó</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-4"> B. i-umlaut of a</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-4"> C. i-umlaut of o</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-4" class="pq-correct"> D. u-umlaut of a</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("u-umlaut of a").</p>
+      <p class="pq-explanation">Explanation: The letter table lists ǫ as a short vowel near [ɔ] arising from u-umlaut of a (while æ comes from i-umlaut of a, œ from i-umlaut of ó, and ø from i-umlaut of o).</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. How does normalized orthography treat word-initial clusters like *hl-, hn-, hr-*?</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-5"> A. It simplifies them, as modern Icelandic does</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-5" class="pq-correct"> B. It keeps them as written, unlike modern Icelandic</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-5"> C. It drops the h</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-5"> D. It always replaces them with j or v</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("It keeps them as written, unlike modern Icelandic").</p>
+      <p class="pq-explanation">Explanation: The article states that word-initial clusters like *hl-, hn-, hr-* are kept as written, unlike in modern Icelandic, citing *hringr* ("ring") as an example.</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Old Norse Phonology](/en/old-norse/script-and-phonology/old-norse-phonology/)

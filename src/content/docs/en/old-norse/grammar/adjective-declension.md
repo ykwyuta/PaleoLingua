@@ -70,6 +70,77 @@ The same adjective, *gamall* ("old"), takes a different ending depending on whet
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What determines whether an Old Norse adjective takes the strong or weak declension?</p>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-1"> A. The grammatical gender (masc./fem./neut.) of the noun it modifies</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-1" class="pq-correct"> B. Whether the noun carries a definite article (or a demonstrative/possessive pronoun)</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-1"> C. Whether the adjective stands before or after the noun</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-1"> D. Whether the noun is singular or plural</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("Whether the noun carries a definite article (or a demonstrative/possessive pronoun)").</p>
+      <p class="pq-explanation">Explanation: As the usage-rule table shows, the strong form is used with no definite article and in predicative use, while the weak form is used when the noun carries a definite article or a demonstrative/possessive pronoun.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What is the weak-declension nominative singular masculine form of gamall ("old")?</p>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-2"> A. gamla</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-2"> B. gamlan</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-2" class="pq-correct"> C. gamli</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-2"> D. gamals</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("gamli").</p>
+      <p class="pq-explanation">Explanation: The weak-declension paradigm table gives gamli as the nominative singular masculine form of gamall.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. In the weak paradigm, which single form covers the accusative, genitive, and dative singular masculine alike?</p>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-3" class="pq-correct"> A. gamla</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-3"> B. gamli</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-3"> C. gamlan</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-3"> D. gömlum</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("gamla").</p>
+      <p class="pq-explanation">Explanation: As the article notes, the weak adjective largely collapses the case distinctions, with gamla covering three of the four cases (accusative, genitive, dative).</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. Which modern language's adjective system does the article say closely parallels the Old Norse strong/weak alternation?</p>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-4"> A. Modern Icelandic verb conjugation</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-4"> B. The English article system (a vs. the) itself</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-4"> C. Latin noun declension</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-4" class="pq-correct"> D. Modern German adjective declension</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("Modern German adjective declension").</p>
+      <p class="pq-explanation">Explanation: The article opens by noting that the strong/weak system is "closely paralleled by modern German adjective declension, where the ending changes depending on whether a definite article is present."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. Why does "hinn gamli maðr" ("the old man") use the weak form gamli rather than gamall?</p>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-5"> A. Because maðr is plural</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-5" class="pq-correct"> B. Because the noun carries the definite article hinn</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-5"> C. Because gamli is used predicatively here</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-5"> D. Because the sentence is in the past tense</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("Because the noun carries the definite article hinn").</p>
+      <p class="pq-explanation">Explanation: As the example sentence discussion explains, the definite article hinn triggers the weak form gamli, marking "the old man" as a specific, already-established referent.</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: The Suffixed Definite Article](/en/old-norse/grammar/suffixed-definite-article/)

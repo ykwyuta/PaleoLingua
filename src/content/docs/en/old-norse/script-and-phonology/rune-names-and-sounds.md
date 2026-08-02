@@ -71,6 +71,77 @@ Grouping the sixteen Younger Futhark names by semantic field gives a glimpse of 
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What does the acrophonic principle describe?</p>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-1"> A. Every rune's name derives from a god's name</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-1"> B. A rune's shape pictorially depicts its name's meaning</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-1" class="pq-correct"> C. The first sound of a rune's name matches the rune's sound value</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-1"> D. The last sound of a rune's name becomes its sound value</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("The first sound of a rune's name matches the rune's sound value").</p>
+      <p class="pq-explanation">Explanation: The article states that every rune has a name, and the first sound of that name matches the letter's sound value — this is the acrophonic principle.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. Which name/meaning pairing is correct for the rune ᚠ?</p>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-2"> A. týr, the war-god Týr</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-2" class="pq-correct"> B. fé, "wealth, livestock"</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-2"> C. hagall, "hail"</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-2"> D. bjarkan, "birch"</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("fé, \"wealth, livestock\"").</p>
+      <p class="pq-explanation">Explanation: The article states that the rune ᚠ is named fé ("wealth," "livestock"), and its initial sound /f/ is the rune's own reading.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. Which of these is NOT one of the rune poems named in the article?</p>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-3"> A. The Old Icelandic Rune Poem</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-3"> B. The Old Norwegian Rune Poem</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-3"> C. The Old English Rune Poem</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-3" class="pq-correct"> D. The Old Germanic Rune Poem</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("The Old Germanic Rune Poem").</p>
+      <p class="pq-explanation">Explanation: The article names the Old Icelandic Rune Poem, the Old Norwegian Rune Poem, and the Old English Rune Poem as the three best known; no "Old Germanic Rune Poem" is mentioned.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What does the rune ᛏ's name *týr* refer to, and what are its sound values?</p>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-4"> A. The sun / sound value s</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-4"> B. Birch / sound values b, p</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-4" class="pq-correct"> C. The war-god Týr / sound values t, d</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-4"> D. Rain / sound values u, o, y, ø, w</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("The war-god Týr / sound values t, d").</p>
+      <p class="pq-explanation">Explanation: The summary table gives ᛏ the name týr (the war-god Týr) with sound values t and d.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What sound values does the summary table give for the rune ᚢ (úr)?</p>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-5"> A. f only</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-5"> B. þ, ð</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-5" class="pq-correct"> C. u, o, y, ø, w</label>
+    <label class="pq-option"><input type="radio" name="quiz-rune-names-and-sounds-5"> D. a, æ, o</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("u, o, y, ø, w").</p>
+      <p class="pq-explanation">Explanation: The summary table lists ᚢ (úr, "rain, aurochs") as having the sound values u, o, y, ø, and w — a highly polyvalent rune.</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: The Younger Futhark — the 16 Runes of the Viking Age](/en/old-norse/script-and-phonology/younger-futhark/)

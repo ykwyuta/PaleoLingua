@@ -49,6 +49,77 @@ deyr sjalfr it sama;
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 『古エッダ』の現存する最も重要な写本は何と呼ばれ、それが再発見されたのは何年か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-1"> A. 『散文エッダ』、1200年</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-1" class="pq-correct"> B. 『王の写本（Codex Regius）』、1643年</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-1"> C. 『ニャールのサガ』写本、1780年</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-1"> D. 『ロク石』写本、1900年</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「『王の写本（Codex Regius）』、1643年」。</p>
+      <p class="pq-explanation">解説：記事によれば、現存する最も重要な写本は13世紀後半にアイスランドで書き写された『王の写本（Codex Regius）』で、1643年に司教ブリニョウルヴル・スヴェインソンによって再発見された。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 『古エッダ』の2部構成のうち、シグルズ（ジークフリート伝説の原型）ら英雄たちの物語を含むのはどちらの部門か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-2"> A. 神話詩</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-2"> B. 頭韻詩</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-2"> C. 散文エッダ</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-2" class="pq-correct"> D. 英雄詩</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「英雄詩」。</p>
+      <p class="pq-explanation">解説：記事の表によれば、シグルズら英雄たちの物語（『シグルドリーヴァの歌』『アトリの歌』など）は「英雄詩」に分類され、オーディンやトールら神々の物語は「神話詩」に分類される。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 『古エッダ』の詩の韻律の基本的特徴は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-3" class="pq-correct"> A. 押韻ではなく頭韻（アリテレーション）</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-3"> B. 行末で必ず脚韻を踏む</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-3"> C. 音節数を厳密に揃える音節詩</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-3"> D. 韻律規則を持たない自由詩</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「押韻ではなく頭韻（アリテレーション）」。</p>
+      <p class="pq-explanation">解説：記事は「押韻ではなく頭韻を基本とする点が大きな特徴」と述べ、この伝統は古英語の『ベーオウルフ』とも共通するゲルマン詩法の特徴だと説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 『ハヴァマール』第76節冒頭「Deyr fé, deyja frændr」の例で、頭韻を成しているのはどの2語か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-4"> A. Deyr と deyja</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-4"> B. fé と sjalfr</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-4" class="pq-correct"> C. fé と frændr</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-4"> D. frændr と sama</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「fé と frændr」。</p>
+      <p class="pq-explanation">解説：記事は「*fé*（家畜）と *frændr*（親族）の頭子音 *f* が響き合っている」と説明しており、この2語の頭子音の一致が頭韻の実例となっている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 『古エッダ』（詩のエッダ）は、スノッリ・ストゥルルソンによる同時代の別の著作と区別するためにこう呼ばれるが、その別の著作とは何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-5"> A. 『ニャールのサガ』</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-5" class="pq-correct"> B. 『散文エッダ』</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-5"> C. ロク石碑文</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-5"> D. 『ヴォルスパー』</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「『散文エッダ』」。</p>
+      <p class="pq-explanation">解説：記事によれば、13世紀にスノッリ・ストゥルルソンが著した神話・詩学解説書『散文エッダ』と区別するため、詩の集成のほうを「古エッダ」または「詩のエッダ」と呼ぶ。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [読解・例文: ハヴァマール（高き者の言葉）抜粋](/old-norse/readings/havamal-selections/)

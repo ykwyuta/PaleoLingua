@@ -70,6 +70,77 @@ hinn  gaml-i  maðr  kom
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 古ノルド語の形容詞が強変化と弱変化のどちらを取るかを決める要因は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-1"> A. 修飾する名詞の文法性（男性・女性・中性）</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-1" class="pq-correct"> B. 名詞に定冠詞（または指示代名詞・所有格代名詞）が付いているかどうか</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-1"> C. 形容詞が名詞の前に来るか後に来るか</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-1"> D. 名詞が単数か複数か</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「名詞に定冠詞（または指示代名詞・所有格代名詞）が付いているかどうか」。</p>
+      <p class="pq-explanation">解説：本文の「使い分けの基本規則」表にある通り、定冠詞なし・叙述用法では強変化、定冠詞や指示・所有代名詞が伴う場合は弱変化が使われる。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. gamall（年老いた）の弱変化・男性単数主格の形はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-2"> A. gamla</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-2"> B. gamlan</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-2" class="pq-correct"> C. gamli</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-2"> D. gamals</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「gamli」。</p>
+      <p class="pq-explanation">解説：弱変化表に示されている通り、gamallの弱変化・男性単数主格はgamliである。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 弱変化の変化表で、対格・属格・与格（男性単数）のすべてに共通して使われる形はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-3" class="pq-correct"> A. gamla</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-3"> B. gamli</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-3"> C. gamlan</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-3"> D. gömlum</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「gamla」。</p>
+      <p class="pq-explanation">解説：本文にある通り、弱変化形は格による語形の区別がほとんど失われ、対格・属格・与格はいずれもgamlaという同一の形になる。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 本文は、古ノルド語の強変化・弱変化の使い分けを何と比較しているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-4"> A. 現代アイスランド語の動詞活用</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-4"> B. 英語の冠詞（a/the）の使い分けそのもの</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-4"> C. ラテン語の名詞変化</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-4" class="pq-correct"> D. 現代ドイツ語の形容詞変化</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「現代ドイツ語の形容詞変化」。</p>
+      <p class="pq-explanation">解説：本文冒頭で「この仕組みは現代ドイツ語の形容詞変化（定冠詞の有無による語尾の違い）とよく似ている」と述べられている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. "hinn gamli maðr"（その年老いた人）でgamallではなくgamliが使われている理由は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-5"> A. maðrが複数形だから</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-5" class="pq-correct"> B. 名詞に定冠詞hinnが付いているから</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-5"> C. gamliが叙述用法で使われているから</label>
+    <label class="pq-option"><input type="radio" name="quiz-adjective-declension-5"> D. 文が過去時制だから</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「名詞に定冠詞hinnが付いているから」。</p>
+      <p class="pq-explanation">解説：本文の例文解説にある通り、hinnという定冠詞が付いているため弱変化のgamliが使われ、「（既に話題に上っている）その年老いた人」という特定性を示している。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 定冠詞の接尾辞化](/old-norse/grammar/suffixed-definite-article/)

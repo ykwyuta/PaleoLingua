@@ -65,6 +65,12 @@
   margin: 0.3rem 0;
 }
 
+.cuneiform {
+  font-family: 'Noto Sans Cuneiform', 'Segoe UI Historic', sans-serif;
+  font-size: 1.3em;
+  letter-spacing: 0.05em;
+}
+
 @media (max-width: 560px) {
   .plc-column {
     flex-direction: column;
@@ -75,4 +81,91 @@
     justify-content: center;
     text-align: center;
   }
+}
+
+/* PaleoLingua: 5-question multiple-choice comprehension quiz. Pure CSS
+   (:has()) reveal — no JavaScript. Each question is a set of radio inputs;
+   the one correct option carries .pq-correct. Selecting any option reveals
+   the answer/explanation box, and marks the chosen option green (correct)
+   or red (incorrect). */
+.pq-block {
+  margin: 1.75rem 0;
+  padding: 1.25rem 1.4rem;
+  background: var(--sl-color-gray-6);
+  border: 1px solid var(--sl-color-gray-5);
+  border-left: 4px solid var(--sl-color-accent);
+  border-radius: 0.6rem;
+}
+
+.pq-title {
+  font-weight: 700;
+  margin: 0 0 1.1rem;
+  color: var(--sl-color-accent-high);
+}
+
+.pq-q {
+  margin: 0 0 1.6rem;
+}
+
+.pq-q:last-child {
+  margin-bottom: 0;
+}
+
+.pq-question {
+  font-weight: 600;
+  margin: 0 0 0.6rem;
+}
+
+.pq-option {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  margin: 0.35rem 0;
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 0.4rem;
+  cursor: pointer;
+}
+
+.pq-option input {
+  margin-right: 0.5rem;
+}
+
+.pq-q:has(.pq-correct:checked) .pq-option:has(.pq-correct) {
+  border-color: #2f9e44;
+  background: rgba(47, 158, 68, 0.12);
+}
+
+.pq-q:has(input:checked):not(:has(.pq-correct:checked)) .pq-option:has(input:checked) {
+  border-color: #e03131;
+  background: rgba(224, 49, 49, 0.12);
+}
+
+.pq-reveal {
+  display: none;
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--sl-color-gray-5);
+}
+
+.pq-q:has(input:checked) .pq-reveal {
+  display: block;
+}
+
+.pq-result {
+  display: none;
+  font-weight: 700;
+  margin: 0 0 0.4rem;
+}
+
+.pq-q:has(.pq-correct:checked) .pq-result-correct {
+  display: block;
+  color: #2f9e44;
+}
+
+.pq-q:has(input:checked):not(:has(.pq-correct:checked)) .pq-result-wrong {
+  display: block;
+  color: #e03131;
+}
+
+.pq-explanation {
+  margin: 0;
 }

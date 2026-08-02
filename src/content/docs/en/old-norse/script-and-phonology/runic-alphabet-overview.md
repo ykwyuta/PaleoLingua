@@ -63,6 +63,77 @@ The name and sound value of each rune is covered in more depth in the next artic
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. Where does the name "futhark" come from?</p>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-1"> A. Another name of Óðinn, said to have discovered the runes</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-1" class="pq-correct"> B. The sound values of the first six letters, f, u, þ, a, r, k</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-1"> C. A Latin word meaning "to carve"</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-1"> D. The place-name where the first inscription was found</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("The sound values of the first six letters, f, u, þ, a, r, k").</p>
+      <p class="pq-explanation">Explanation: The article states the name futhark comes from the sound values of the first six letters, f, u, þ, a, r, k — the same naming logic that gives "alphabet" its name from alpha, beta.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. Why does the article say rune letterforms are almost entirely straight and diagonal strokes?</p>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-2"> A. To prioritize decorative beauty</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-2" class="pq-correct"> B. To avoid horizontal lines that would run along the wood grain</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-2"> C. To imitate the shapes of Latin letters</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-2"> D. Because tools for carving curves did not exist</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("To avoid horizontal lines that would run along the wood grain").</p>
+      <p class="pq-explanation">Explanation: The article explains the angular letterforms as thought to avoid horizontal lines that would run along, and be lost in, the wood grain.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does the article say about the Elder Futhark?</p>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-3"> A. It has 16 letters and recorded Viking Age Old Norse</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-3" class="pq-correct"> B. It is the oldest attested runic system, with 24 characters</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-3"> C. It derives directly from the Latin alphabet</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-3"> D. It is also known as the short-twig variant</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("It is the oldest attested runic system, with 24 characters").</p>
+      <p class="pq-explanation">Explanation: The article describes the Elder Futhark as "the oldest attested runic system, consisting of 24 characters."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. How does the Younger Futhark manage to record a more complex phoneme inventory with fewer letters than the Elder Futhark?</p>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-4"> A. The number of vowel qualities had actually decreased</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-4"> B. Word dividers were dropped entirely</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-4" class="pq-correct"> C. Heavy polyvalence lets a single rune stand for several phonemes</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-4"> D. It adopted boustrophedon writing direction</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("Heavy polyvalence lets a single rune stand for several phonemes").</p>
+      <p class="pq-explanation">Explanation: The article says the gap between fewer letters and a more complex phonology "is closed by heavy polyvalence: a single rune stands for several phonemes," giving ᚢ (u) representing /u, o, y, ø, w/ as an example.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What are the "short-twig runes"?</p>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-5"> A. Another name for the Elder Futhark</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-5"> B. A special script used only on stone monuments</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-5" class="pq-correct"> C. A simplified variant of the Younger Futhark optimized for ease of carving</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-5"> D. A fictional alphabet mentioned in the rune poems</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("A simplified variant of the Younger Futhark optimized for ease of carving").</p>
+      <p class="pq-explanation">Explanation: The article states that the Younger Futhark also has "a simplified variant optimized for ease of carving, the short-twig runes."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: The Younger Futhark — the 16 Runes of the Viking Age](/en/old-norse/script-and-phonology/younger-futhark/)

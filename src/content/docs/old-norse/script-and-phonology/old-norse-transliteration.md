@@ -64,6 +64,77 @@ sidebar:
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 現在使われている「標準化古ノルド語正書法」は、主に何を土台にして確立されたか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-1"> A. 現代アイスランド語の発音辞典</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-1" class="pq-correct"> B. 13世紀アイスランドの『第一文法論』の記述</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-1"> C. 古英語の綴り字規則</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-1"> D. 20世紀のルーン文字碑文集成</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「13世紀アイスランドの『第一文法論』の記述」。</p>
+      <p class="pq-explanation">解説：記事は、19世紀以降の学者たちが主に13世紀アイスランドの文法家による『第一文法論』の記述を土台に標準化正書法を確立したと説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. þ（thorn）と ð（eth）の使い分けとして正しいのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-2"> A. þ は語中・語末、ð は語頭</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-2"> B. þ と ð はどちらも語頭にのみ現れる</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-2" class="pq-correct"> C. þ は語頭、ð は語中・語末</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-2"> D. þ は長母音、ð は短母音を表す</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「þ は語頭、ð は語中・語末」。</p>
+      <p class="pq-explanation">解説：表にある通り、þ（無声歯摩擦音）は語頭に、ð（有声歯摩擦音）は語中・語末に現れる。例として *þú*（語頭 þ）と *maðr*（語中 ð）が挙げられている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 標準化正書法において、長母音はどのように表記されるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-3"> A. 母音字を二重に重ねて書く</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-3"> B. マクロン（横棒）を付ける</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-3" class="pq-correct"> C. 鋭アクセント（acute accent）を付ける</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-3"> D. 母音の後ろに h を添える</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「鋭アクセント（acute accent）を付ける」。</p>
+      <p class="pq-explanation">解説：記事は「長母音には鋭アクセントを付けて短母音と区別する」と説明し、*sonr*（息子）と *sól*（太陽）などの例を挙げている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 文字 ǫ の由来として記事が示しているのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-4"> A. ó のi-ウムラウト</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-4"> B. a のi-ウムラウト</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-4"> C. o のi-ウムラウト</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-4" class="pq-correct"> D. a のu-ウムラウト</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「a のu-ウムラウト」。</p>
+      <p class="pq-explanation">解説：文字表によれば、ǫ は [ɔ] に近い短母音で、a のu-ウムラウトに由来する（æ は a のi-ウムラウト、œ は ó のi-ウムラウト、ø は o のi-ウムラウトに由来する）。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 語頭の *hl-, hn-, hr-* のような子音連続について、標準化正書法の扱いはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-5"> A. 現代アイスランド語同様に単純化して表記する</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-5" class="pq-correct"> B. 現代アイスランド語とは異なり、そのまま保持して表記する</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-5"> C. h を省略して表記する</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-transliteration-5"> D. 常に j や v に置き換えて表記する</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「現代アイスランド語とは異なり、そのまま保持して表記する」。</p>
+      <p class="pq-explanation">解説：記事は「語頭の hl-, hn-, hr- のような子音連続は、現代アイスランド語とは異なりそのまま保持して表記する」と述べ、例として *hringr*（指輪）を挙げている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 古ノルド語の音韻体系](/old-norse/script-and-phonology/old-norse-phonology/)

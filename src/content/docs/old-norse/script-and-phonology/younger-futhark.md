@@ -58,6 +58,77 @@ sidebar:
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 長枝ルーン（long-branch runes）について正しい説明はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-1"> A. 主にノルウェー・スウェーデンで用いられ、木片の走り書きに多い</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-1" class="pq-correct"> B. 主にデンマークで用いられ、公的な記念碑文などフォーマルな用途に多い</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-1"> C. エルダー・フサルクの正式名称である</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-1"> D. 12世紀以降にのみ使われた文字体系である</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「主にデンマークで用いられ、公的な記念碑文などフォーマルな用途に多い」。</p>
+      <p class="pq-explanation">解説：記事は長枝ルーンを「主にデンマークで用いられ、公的な記念碑文などフォーマルな用途に多い」字体として説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 短枝ルーン（short-twig runes）の特徴として記事が挙げているのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-2"> A. 縦棒（幹）自体が省略された字形を持つ</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-2" class="pq-correct"> B. 縦棒（幹）から出る枝が省略・簡略化され、日常的な木片の書き付けに多く見られる</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-2"> C. デンマークの公的な記念碑文にのみ使われた</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-2"> D. 長枝ルーンより文字数が多い</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「縦棒（幹）から出る枝が省略・簡略化され、日常的な木片の書き付けに多く見られる」。</p>
+      <p class="pq-explanation">解説：記事は短枝ルーンを、主にノルウェー・スウェーデンで用いられ、縦棒から出る枝が省略・簡略化された字形を持ち、日常的な木片の書き付けに多く見られると説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. ヤンガー・フサルクが持たない音の区別として記事が挙げているのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-3"> A. 母音の長短の区別</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-3" class="pq-correct"> B. 有声音と無声音の区別</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-3"> C. 鼻音と非鼻音の区別</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-3"> D. 単数と複数の区別</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「有声音と無声音の区別」。</p>
+      <p class="pq-explanation">解説：記事は「ヤンガー・フサルクの大きな特徴は、有声音と無声音の区別を持たない点である」とし、ᛏ (t) が /t/ と /d/ の両方を表しうる例を挙げている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 「点ルーン（dotted runes）」はどのようなものか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-4"> A. エルダー・フサルク時代から存在した最古のルーン</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-4"> B. 誤って刻んだ文字を消すための記号</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-4" class="pq-correct"> C. 12世紀以降、既存のルーンに点を加えて音をより正確に書き分けたもの</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-4"> D. デンマーク限定で使われた長枝ルーンの別名</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「12世紀以降、既存のルーンに点を加えて音をより正確に書き分けたもの」。</p>
+      <p class="pq-explanation">解説：記事は、12世紀以降により正確に音を書き分けるため既存のルーンに点を加えた「点ルーン」が考案されたと説明し、ᚴ (k) に点を加えた ᚵ で /g/ を表す例を挙げている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 一覧表によると、ルーン ᛦ（ýr、イチイの木）が表しうる音価はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-5"> A. f のみ</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-5" class="pq-correct"> B. y, R（有声s）</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-5"> C. þ, ð</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-5"> D. t, d</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「y, R（有声s）」。</p>
+      <p class="pq-explanation">解説：16文字の一覧表によれば、16番目のルーン ᛦ（ýr、イチイの木）は音価 y, R（有声s）を持つ。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: ルーン文字概説：エルダー・フサルクからヤンガー・フサルクへ](/old-norse/script-and-phonology/runic-alphabet-overview/)

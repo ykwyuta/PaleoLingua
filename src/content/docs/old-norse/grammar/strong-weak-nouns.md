@@ -61,6 +61,77 @@ sidebar:
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 弱変化名詞（n語幹）の語尾は、もともと何に由来するか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-1" class="pq-correct"> A. 語幹末尾にあった、*n* を含む古い音（n語幹）に由来する</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-1"> B. 格語尾が全く無い語幹に由来する</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-1"> C. ラテン語からの借用語に由来する</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-1"> D. 複数形にのみ用いられる特殊な語尾に由来する</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「語幹末尾にあった、*n* を含む古い音（n語幹）に由来する」。</p>
+      <p class="pq-explanation">解説：記事冒頭で述べられている通り、弱変化名詞は語幹末尾に *n* を含む音（n語幹）に由来し、これが強変化との系統的な違いを生んでいる。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 弱変化男性名詞 *goði* の対格・属格・与格の単数形には、どのような特徴があるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-2"> A. 3つとも異なる形になる</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-2" class="pq-correct"> B. いずれも *goða* という同一の形になる</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-2"> C. 主格単数と同じ *goði* になる</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-2"> D. 複数形と全く同じ語尾を取る</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「いずれも *goða* という同一の形になる」。</p>
+      <p class="pq-explanation">解説：表にある通り、*goði* の対格・属格・与格単数はすべて *goða* となり、強変化名詞 *armr* より語形の区別が少ないことが本文で指摘されている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 弱変化女性名詞 *saga* の属格複数形はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-3"> A. sögur</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-3"> B. sögu</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-3" class="pq-correct"> C. sagna</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-3"> D. sögum</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「sagna」。</p>
+      <p class="pq-explanation">解説：女性名詞の変化表にある通り、*saga* の属格複数形は *sagna* であり、主格・対格複数の *sögur* とは異なる形を取る。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 中性の弱変化名詞 *auga*（目）の複数形はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-4"> A. augar</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-4"> B. augna</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-4"> C. auga</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-4" class="pq-correct"> D. augu</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「augu」。</p>
+      <p class="pq-explanation">解説：本文で述べられている通り、*auga* の複数形は *augu* となり、この不規則性は現代アイスランド語にも受け継がれている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 弱変化女性名詞の典型的な単数主格語尾はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-5"> A. -r</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-5" class="pq-correct"> B. -a</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-5"> C. 無語尾</label>
+    <label class="pq-option"><input type="radio" name="quiz-strong-weak-nouns-5"> D. -i</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「-a」。</p>
+      <p class="pq-explanation">解説：見分け方の表にある通り、弱変化女性名詞の典型的な主格単数語尾は *-a*（例: *saga*）であり、強変化女性名詞の無語尾または *-r* と対照的である。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 名詞の格変化概説（主格・対格・属格・与格）](/old-norse/grammar/old-norse-noun-cases/)

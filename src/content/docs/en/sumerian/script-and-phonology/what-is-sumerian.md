@@ -11,13 +11,13 @@ sidebar:
   <img src="/images/characters/sumerian/girl-base.png" alt="Nin, the Sumerian girl" />
   <div>
     <p><strong>Welcome to PaleoLingua!</strong></p>
-    <p>At the end of most articles, <strong>En</strong> (<em>en</em>, "lord") and <strong>Nin</strong> (<em>nin</em>, "lady") will chat with you in a short "Learning Column" about some fun fact related to the topic. Their names are themselves two of the most common words in Sumerian, so keep an eye out for <em>en</em> and <em>nin</em> once you start reading real texts.</p>
+    <p>At the end of most articles, <strong>En</strong> (<em>en</em> 𒂗, "lord") and <strong>Nin</strong> (<em>nin</em> 𒎏, "lady") will chat with you in a short "Learning Column" about some fun fact related to the topic. Their names are themselves two of the most common words in Sumerian, so keep an eye out for <em>en</em> and <em>nin</em> once you start reading real texts.</p>
   </div>
 </div>
 
 ## Quick facts
 
-Sumerian (native name *eme-ĝir15*, often translated "the noble/royal tongue") was spoken in southern Mesopotamia (roughly modern southern Iraq) during the 3rd millennium BCE. It is among the very first languages ever committed to writing, and cuneiform script is generally thought to have been developed specifically to record it.
+Sumerian (native name *eme-ĝir15* 𒅴𒂠, often translated "the noble/royal tongue") was spoken in southern Mesopotamia (roughly modern southern Iraq) during the 3rd millennium BCE. It is among the very first languages ever committed to writing, and cuneiform script is generally thought to have been developed specifically to record it.
 
 | Item | Detail |
 |---|---|
@@ -49,6 +49,77 @@ Several hundred thousand cuneiform tablets bearing Sumerian are known today. The
     <p class="plc-line"><b>En:</b> Nope — that's the fascinating part. Sumerian is a "language isolate," meaning no one has ever proven it's related to any other language family on Earth.</p>
     <p class="plc-line"><b>Nin:</b> So it invented its own words and its own writing system all on its own?</p>
     <p class="plc-line"><b>En:</b> Exactly. That makes it harder to guess meanings from cousin languages, but it also means we get to enjoy Sumerian's grammar purely on its own terms.</p>
+  </div>
+</div>
+
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What does the native name *eme-ĝir15* for Sumerian mean, according to the article?</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-1"> A. "the tongue of the sun"</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-1" class="pq-correct"> B. "the noble/royal tongue"</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-1"> C. "the tongue of clay"</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-1"> D. "the tongue of the gods"</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("the noble/royal tongue").</p>
+      <p class="pq-explanation">Explanation: The native name *eme-ĝir15* 𒅴𒂠 is often translated "the noble/royal tongue."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What basic word order does the article's table give for Sumerian?</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-2"> A. SVO</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-2"> B. VSO</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-2"> C. OSV</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-2" class="pq-correct"> D. SOV</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("SOV").</p>
+      <p class="pq-explanation">Explanation: The article's table gives Sumerian's basic word order as SOV (Subject–Object–Verb).</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What is Sumerian's relationship to Akkadian, the language that came to be spoken alongside it in Mesopotamia?</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-3" class="pq-correct"> A. Genetically unrelated — Sumerian is a language isolate with no established relatives</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-3"> B. A dialect derived from Akkadian</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-3"> C. A sister language within the Semitic family</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-3"> D. Merely an older writing system for Akkadian</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("Genetically unrelated — Sumerian is a language isolate with no established relatives").</p>
+      <p class="pq-explanation">Explanation: Sumerian is not related to Akkadian, a Semitic language; no genetic relationship to any other known language family has been established, and Sumerian remains classified as a language isolate.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. After Sumerian was largely supplanted by Akkadian as a vernacular around 2000 BCE, how did it continue to be used?</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-4"> A. It fell out of use entirely</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-4" class="pq-correct"> B. As a learned, liturgical, and scribal-school language, much like Latin in medieval Europe</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-4"> C. As a secret trading jargon among merchants</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-4"> D. As a private language spoken only by royalty</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("As a learned, liturgical, and scribal-school language, much like Latin in medieval Europe").</p>
+      <p class="pq-explanation">Explanation: For roughly two more millennia, Sumerian continued to serve — much as Latin did in medieval Europe — as a learned, liturgical, and scribal-school language.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What makes up the overwhelming majority of the surviving corpus of Sumerian tablets?</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-5"> A. Royal inscriptions</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-5"> B. Literary works such as the Epic of Gilgamesh</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-5" class="pq-correct"> C. Administrative and economic records (accounts, contracts, receipts)</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-sumerian-5"> D. Laments and proverb collections</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("Administrative and economic records (accounts, contracts, receipts)").</p>
+      <p class="pq-explanation">Explanation: The overwhelming majority of surviving tablets are administrative and economic records, though the corpus also includes royal inscriptions, legal texts, and literature.</p>
+    </div>
   </div>
 </div>
 

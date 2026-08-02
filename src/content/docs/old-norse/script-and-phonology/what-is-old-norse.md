@@ -51,6 +51,77 @@ sidebar:
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 古ノルド語が話されていた時期はおおよそいつからいつまでか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-1"> A. 紀元前8世紀頃〜紀元後1世紀頃</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-1" class="pq-correct"> B. 紀元後8世紀頃〜14世紀頃</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-1"> C. 紀元後14世紀頃〜19世紀頃</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-1"> D. 紀元後2世紀頃〜8世紀頃</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「紀元後8世紀頃〜14世紀頃」。</p>
+      <p class="pq-explanation">解説：基礎データの表にある通り、古ノルド語の使用時期は紀元後8世紀頃〜14世紀頃とされ、それ以降は各地の古期諸語へ分岐したとされる。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 本サイトが「古ノルド語」として基本的に扱っているのはどの形か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-2"> A. デンマークとスウェーデンで話された古東ノルド語</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-2"> B. ノルマンディーで話されたノルマン語化した古ノルド語</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-2" class="pq-correct"> C. アイスランドで書き留められた古西ノルド語（古アイスランド語）</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-2"> D. ノヴゴロドで使われた東方交易向けの変種</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「アイスランドで書き留められた古西ノルド語（古アイスランド語）」。</p>
+      <p class="pq-explanation">解説：記事は、現存する文献の大半が古西ノルド語、特にアイスランドで書き留められたものであり、本サイトが「古ノルド語」として扱うのも主にこの古アイスランド語の規範的な形だと説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 古ノルド語の基本語順の特徴として記事が挙げているのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-3"> A. 常にOSV語順である</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-3"> B. 動詞が常に文末に来るSOV語順である</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-3" class="pq-correct"> C. SVOを基調としつつ、V2（動詞第二位）語順を持つ</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-3"> D. 語順による文法的区別を持たない</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「SVOを基調としつつ、V2（動詞第二位）語順を持つ」。</p>
+      <p class="pq-explanation">解説：基礎データの表は、基本語順について「SVO を基調としつつ、V2（動詞第二位）語順を持つ」としている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. ルーン文字の変遷について記事が説明しているのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-4"> A. ヤンガー・フサルク（16文字）からエルダー・フサルク（24文字）へ発展した</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-4" class="pq-correct"> B. エルダー・フサルク（24文字）からヤンガー・フサルク（16文字）へ発展した</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-4"> C. ラテン文字がルーン文字より先に使われていた</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-4"> D. ルーン文字は一度も文字数が変化しなかった</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「エルダー・フサルク（24文字）からヤンガー・フサルク（16文字）へ発展した」。</p>
+      <p class="pq-explanation">解説：記事は、ルーン文字が北ゲルマン語群共通の祖形である「エルダー・フサルク（24文字）」から、ヴァイキング時代には簡略化された「ヤンガー・フサルク（16文字）」へと発展したと説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 現存する古ノルド語文献の「二系統」として記事が挙げているのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5" class="pq-correct"> A. ルーン石碑などの一次資料と、写本に書かれた文学作品群</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5"> B. アイスランドの資料とノルウェーの資料</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5"> C. 詩と散文</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5"> D. キリスト教化以前の資料と以後の資料</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「ルーン石碑などの一次資料と、写本に書かれた文学作品群」。</p>
+      <p class="pq-explanation">解説：記事は現存する文献を、ルーン石碑・木片など数千点に及ぶ一次資料と、13世紀以降にアイスランドで羊皮紙写本として書き留められた古エッダ・散文エッダ・サガなどの文学作品群の二系統に分けて説明している。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: ルーン文字概説](/old-norse/script-and-phonology/runic-alphabet-overview/)

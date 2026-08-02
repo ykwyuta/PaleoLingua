@@ -60,6 +60,77 @@ sidebar:
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. シュメール語の音素体系が「推定」とされる理由は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-1"> A. 粘土板が現存していないから</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-1" class="pq-correct"> B. ネイティブ話者の発音を直接録音できず、間接的な証拠から再構築されているから</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-1"> C. アッカド語と完全に同じ音素体系だから</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-1"> D. カタカナ表記が公式に定められているから</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「ネイティブ話者の発音を直接録音できず、間接的な証拠から再構築されているから」。</p>
+      <p class="pq-explanation">解説：「ネイティブ話者の発音を直接録音することはできない。現在知られている音素目録は……間接的な証拠から再構築された『推定』の体系である」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 本文が「多くの入門書が採用している」とする母音の数はいくつか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-2"> A. 3</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-2" class="pq-correct"> B. 4</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-2"> C. 5</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-2"> D. 7</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「4」。</p>
+      <p class="pq-explanation">解説：「5番目の母音 /o/ の存在を主張する説もあるが……多くの入門書は4母音体系を採用している」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 鼻音 /ŋ/ は本サイトでどのように表記されるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-3"> A. `ng`</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-3" class="pq-correct"> B. `ĝ`</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-3"> C. `n2`</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-3"> D. `ʔ`</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「`ĝ`」。</p>
+      <p class="pq-explanation">解説：「鼻音 /ŋ/（本サイトでは `ĝ` と表記、例：……`ĝe26-e`『私』）」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. `b/p`・`d/t`・`g/k` の対について、近年の一部研究（イェーガーズマ、キートマンなど）が指摘している可能性は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-4"> A. これらの子音はシュメール語に一切存在しなかった</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-4" class="pq-correct"> B. 有声・無声の対立ではなく、無気音対有気音のような別の対立だった可能性</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-4"> C. これらはすべて同じ1つの音素だった</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-4"> D. アッカド語話者には発音できなかった</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「有声・無声の対立ではなく、無気音対有気音のような別の対立だった可能性」。</p>
+      <p class="pq-explanation">解説：「実際には『無気音対有気音』あるいは『無標音対放出音（エジェクティブ）』のような、有声・無声とは異なる音声的対立だった可能性を指摘している」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 学びのコラムでエンが、文字が生まれる前の言語を復元する作業を何にたとえているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-5"> A. 料理のレシピを再現すること</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-5" class="pq-correct"> B. パズルのピースを外側から埋めていく作業</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-5"> C. 音楽を耳コピすること</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-5"> D. 地図を描き直すこと</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「パズルのピースを外側から埋めていく作業」。</p>
+      <p class="pq-explanation">解説：エンは「録音機がなかった時代の言語を復元するのは、パズルのピースを外側から埋めていくような作業だね」と述べている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 楔形文字の読み方](/sumerian/script-and-phonology/cuneiform-reading/)

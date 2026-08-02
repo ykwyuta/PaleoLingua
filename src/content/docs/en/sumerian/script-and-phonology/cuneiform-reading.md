@@ -70,6 +70,77 @@ Reading cuneiform is not a mechanical, one-to-one lookup between sign and sound,
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What three roles does the article say a cuneiform sign can play?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-1"> A. Noun, verb, adjective</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-1" class="pq-correct"> B. Logogram, syllabogram, determinative</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-1"> C. Past, present, future tense</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-1"> D. Singular, plural, dual</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: The article lists "as a logogram," "as a syllabogram," and "as a determinative" as the three roles.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. When the sign 𒀭 alone is read as the logogram for "sky," how is it transliterated?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-2"> A. dingir</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-2" class="pq-correct"> B. an</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-2"> C. nanna</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-2"> D. d (determinative)</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: The example gives "𒀭 | an | (logogram) sky, the sky-god An."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. How is the `d` in `d nanna` pronounced?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-3"> A. "di"</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-3"> B. "an"</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-3" class="pq-correct"> C. It is never pronounced</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-3"> D. "dingir"</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C.</p>
+      <p class="pq-explanation">Explanation: "The same sign is also used as the determinative `d`... and in that role it is never pronounced at all."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. Which of these is NOT listed as a clue for telling a sign's role apart?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-4"> A. Position</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-4"> B. Context</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-4"> C. Familiarity with genre formulas</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-4" class="pq-correct"> D. The weight of the clay tablet</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D.</p>
+      <p class="pq-explanation">Explanation: The clue table lists position, context, and familiarity with genre formulas — not the tablet's weight.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. In the Learning Column, what does En compare reading cuneiform signs to?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-5"> A. Alphabet spelling mistakes</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-5" class="pq-correct"> B. Japanese kanji (e.g., the multiple readings of 日)</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-5"> C. Morse code</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-reading-5"> D. Mathematical symbols</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: En says "the character 日 can be read 'hi,' 'nichi,' or 'ka' depending on context."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Cuneiform as a Syllabary](/en/sumerian/script-and-phonology/cuneiform-syllabary/)

@@ -53,6 +53,77 @@ Because scribes needed to know exactly which year name was currently in effect, 
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. How does the Sumerian "year name" system identify a year?</p>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-1"> A. By a running number counted from a king's accession</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-1" class="pq-correct"> B. By whatever particularly notable event occurred that year</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-1"> C. By the cycle of celestial bodies</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-1"> D. By a priest's number of years in office</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "years were... widely identified by a 'year name'... named for whatever particularly notable event occurred during that year."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What does the example `mu unugki ba-hul` mean?</p>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-2"> A. "The year of the king of Uruk"</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-2" class="pq-correct"> B. "The year Uruk was destroyed"</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-2"> C. "The year a temple was built in Uruk"</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-2"> D. "The year sheep were withdrawn from Uruk"</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "English: 'The year Uruk was destroyed.'"</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. Why did scribes compile "year-name lists"?</p>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-3" class="pq-correct"> A. Because they needed to know exactly which year name was currently in effect</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-3"> B. To calculate tax revenue</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-3"> C. To record the genealogy of the gods</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-3"> D. To teach how to write cuneiform</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A.</p>
+      <p class="pq-explanation">Explanation: "Because scribes needed to know exactly which year name was currently in effect, administrators also compiled 'year-name lists.'"</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. Besides military events, what does the article list as subjects of year names?</p>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-4" class="pq-correct"> A. Building a temple or digging a canal</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-4"> B. Only records of solar eclipses</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-4"> C. Only the compilation of foreign-language dictionaries</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-4"> D. Private quarrels between merchants</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A.</p>
+      <p class="pq-explanation">Explanation: "year names could commemorate the construction of a temple... the digging of a canal, the manufacture of an important ritual object, and much more."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. In the Learning Column, what does En compare the idea of year names to?</p>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-5"> A. The custom of celebrating birthdays</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-5" class="pq-correct"> B. Remembering a year by a memorable event, like "the year of that Olympics"</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-5"> C. Predicting a year through astrology</label>
+    <label class="pq-option"><input type="radio" name="quiz-year-names-5"> D. Abolishing calendar eras</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: En says "we do something similar when we say 'the year of that Olympics.' Year names just turned that instinct into the actual dating system."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Readings & Examples: Reading an Ur III Administrative Tablet](/en/sumerian/readings/ur-iii-administrative-tablet/)

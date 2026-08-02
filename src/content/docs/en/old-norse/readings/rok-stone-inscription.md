@@ -54,6 +54,77 @@ Beyond the opening lines, the inscription is marked by allusions to legendary ki
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. Where does the Rök stone stand, and to when is it generally dated?</p>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-1"> A. Iceland, the late 13th century</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-1"> B. Norway, the 11th century</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-1"> C. Denmark, the late 10th century</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-1" class="pq-correct"> D. Östergötland, southeastern Sweden, the early 9th century</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("Östergötland, southeastern Sweden, the early 9th century").</p>
+      <p class="pq-explanation">Explanation: The article states that "the Rök stone stands at Rök church in Östergötland, southeastern Sweden, and is generally dated to the early 9th century (around 800 CE)."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. According to the opening lines, who raised the Rök stone, and for whom?</p>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-2" class="pq-correct"> A. A father, Varinn, in memory of his dead son, Vámóðr</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-2"> B. A son, in memory of his father</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-2"> C. A king, for warriors fallen in battle</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-2"> D. A wife, in memory of her husband</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("A father, Varinn, in memory of his dead son, Vámóðr").</p>
+      <p class="pq-explanation">Explanation: The article notes that "its opening lines tell us it was raised by a father, Varinn, in memory of his dead son, Vámóðr."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does the article say the verb `fáði` ("colored," "carved") reflects?</p>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-3"> A. The act of raising the stone (reisa)</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-3"> B. The act of reading the runes aloud</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-3" class="pq-correct"> C. The act of filling the carved grooves with red or black pigment</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-3"> D. The act of chanting a poem</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("The act of filling the carved grooves with red or black pigment").</p>
+      <p class="pq-explanation">Explanation: The article explains that "runic inscriptions were originally colored, the carved grooves filled with red or black pigment, and this verb directly reflects that act of production."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What nuance does the article say the word `faigian` ("doomed") carries?</p>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-4"> A. Simply "already dead"</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-4" class="pq-correct"> B. A more poetically loaded sense of "fated to die"</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-4"> C. An ironic sense of "immortal"</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-4"> D. A Christian sense of sinfulness</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("A more poetically loaded sense of \"fated to die\"").</p>
+      <p class="pq-explanation">Explanation: The notes say faigian "is a more poetically loaded word than simply 'dead' — it carries the sense of a death already fated."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What does the article say about the latter portion of the Rök stone inscription?</p>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-5"> A. It has been fully deciphered with no remaining disagreement</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-5"> B. It is purely decorative, containing no text at all</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-5"> C. It is entirely a record of a commercial transaction</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-5" class="pq-correct"> D. It contains riddle-like formulas, and its interpretation remains actively contested</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("It contains riddle-like formulas, and its interpretation remains actively contested").</p>
+      <p class="pq-explanation">Explanation: The article highlights the recurring riddle-like formula "tell what (hvat er þat...)" and notes that proposed readings "remain hypotheses rather than settled fact — the Rök stone is still regarded as one of the great unsolved puzzles of Scandinavian runology."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: How to Read Runic Inscriptions](/en/old-norse/script-and-phonology/reading-runic-inscriptions/)

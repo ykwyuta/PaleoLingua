@@ -65,6 +65,77 @@ konungr  gef-r   jarl-i   sverð
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 古ノルド語で文の主語を表す格はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-1"> A. 対格</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-1"> B. 属格</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-1"> C. 与格</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-1" class="pq-correct"> D. 主格</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「主格」。</p>
+      <p class="pq-explanation">解説：「4格の基本的な役割」表にある通り、主格の主な役割は「文の主語」である。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. armr（腕）の対格単数の形はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-2"> A. arms</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-2"> B. armi</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-2" class="pq-correct"> C. arm</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-2"> D. armar</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「arm」。</p>
+      <p class="pq-explanation">解説：armrの変化表にある通り、対格単数の形はarmである（arms=属格単数、armi=与格単数、armar=主格複数）。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 与格複数örmumに見られるo→öの母音変化の原因は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-3"> A. iウムラウト</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-3" class="pq-correct"> B. uウムラウト</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-3"> C. ブレーキング（breaking）</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-3"> D. 語末rの脱落</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「uウムラウト」。</p>
+      <p class="pq-explanation">解説：本文の注釈にある通り、与格複数örmumのo→öはu-ウムラウトによる現象である。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 「konungr sér arm jarls」（王は伯爵の腕を見る）という文で、jarlsはどんな役割を果たし、何格になっているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-4"> A. 間接目的語、与格</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-4"> B. 直接目的語、対格</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-4" class="pq-correct"> C. 所有者（伯爵の）、属格</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-4"> D. 主語、主格</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「所有者（伯爵の）、属格」。</p>
+      <p class="pq-explanation">解説：本文の解説にある通り、jarls（伯爵の）は所有を表すので属格になる。konungrが主格・主語、armが対格・直接目的語である。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 「王は伯爵に剣を与える」のような二重目的語構文で、間接目的語と直接目的語はそれぞれ何格を取るか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-5"> A. 間接目的語が対格、直接目的語が与格</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-5" class="pq-correct"> B. 間接目的語が与格、直接目的語が対格</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-5"> C. 間接目的語が属格、直接目的語が主格</label>
+    <label class="pq-option"><input type="radio" name="quiz-old-norse-noun-cases-5"> D. 両方とも対格になる</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「間接目的語が与格、直接目的語が対格」。</p>
+      <p class="pq-explanation">解説：本文にある通り、konungr gefr jarli sverðの例でjarli（伯爵に）が与格の間接目的語、sverð（剣を）が対格の直接目的語であり、これが二重目的語構文の基本パターンである。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 強変化名詞と弱変化名詞](/old-norse/grammar/strong-weak-nouns/)

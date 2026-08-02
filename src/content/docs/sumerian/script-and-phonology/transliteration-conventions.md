@@ -55,6 +55,77 @@ sidebar:
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 「翻字（transliteration）」とは何か？</p>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-1"> A. シュメール語を日本語に翻訳したもの</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-1"> B. 粘土板の写真をスキャンしたもの</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-1"> C. 文法規則をまとめた一覧表</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-1" class="pq-correct"> D. 楔形文字の記号を、対応するローマ字表記に置き換えたもの</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「楔形文字の記号を、対応するローマ字表記に置き換えたもの」。</p>
+      <p class="pq-explanation">解説：翻字とは、楔形文字の記号1つ1つを、それが表す音や単語に対応するローマ字表記に置き換えたものである。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 翻字においてハイフン（-）が示すものは？</p>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-2"> A. 複数の表語文字を組み合わせて1語として読む際の区切り</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-2"> B. 限定符の位置</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-2" class="pq-correct"> C. 同一単語内の音節記号の切れ目</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-2"> D. 粘土板の欠損箇所</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「同一単語内の音節記号の切れ目」。</p>
+      <p class="pq-explanation">解説：ハイフン（-）は同一単語内の音節記号の切れ目を示す（複数の表語文字の組み合わせを示すのはピリオドである）。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 索引番号（`du3`のような下付き数字）について本文が説明していることは？</p>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-3"> A. 発音の高低を示す</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-3"> B. 文の中での格を示す</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-3"> C. 記号が書かれた時代を示す</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-3" class="pq-correct"> D. どの字形を使っているかを示す学術的な目印であり、発音の違いは示さない</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「どの字形を使っているかを示す学術的な目印であり、発音の違いは示さない」。</p>
+      <p class="pq-explanation">解説：下付き索引番号は同じ音を表す複数の記号を区別するための学術的な目印であり、発音記号ではない。読むときは番号を無視してよい。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. `[ ]`（角括弧）が翻字で示すものは？</p>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-4" class="pq-correct"> A. 粘土板が欠損しており、文脈から復元した部分</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-4"> B. 記号が残っているが判別できないこと</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-4"> C. 読み・解釈に疑問が残ること</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-4"> D. 一部しか残っておらず読みに確信が持てない部分</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「粘土板が欠損しており、文脈から復元した部分」。</p>
+      <p class="pq-explanation">解説：`[ ]`（角括弧）は粘土板が欠損しており、文脈から復元した部分を示す。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 本サイトが併記するカタカナ表記や楔形文字について、本文が注意を促していることは？</p>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-5"> A. 学界で確定した唯一の発音である</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-5" class="pq-correct"> B. 現代の学術的な複元音や特定の粘土板の綴りを厳密に再現したものではなく、あくまで学習用の目安である</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-5"> C. 発音記号として国際音声記号（IPA）を用いている</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-5"> D. すべての粘土板に共通する標準表記である</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「現代の学術的な複元音や特定の粘土板の綴りを厳密に再現したものではなく、あくまで学習用の目安である」。</p>
+      <p class="pq-explanation">解説：本文では、併記するカタカナ表記も楔形文字も、現代の学術的な複元音や特定の粘土板の実際の綴りを一字一句再現したものではなく、学習者のための目安に過ぎないと注意している。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 表語文字と限定符](/sumerian/script-and-phonology/logograms-and-determinatives/)

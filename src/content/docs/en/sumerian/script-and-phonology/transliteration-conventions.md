@@ -49,6 +49,77 @@ These conventions exist purely so scholars can communicate a tablet's physical c
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What is "transliteration"?</p>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-1"> A. A translation of Sumerian into English</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-1"> B. A scan of a photograph of a tablet</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-1"> C. A table summarizing grammatical rules</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-1" class="pq-correct"> D. Replacing each cuneiform sign with a roman-alphabet representation of the sound or word it stands for</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("Replacing each cuneiform sign with a roman-alphabet representation of the sound or word it stands for").</p>
+      <p class="pq-explanation">Explanation: Transliteration means replacing each cuneiform sign with a roman-alphabet representation of the sound or word it stands for.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What does a hyphen (-) mark in transliteration?</p>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-2"> A. A boundary between logograms combined and read as one word</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-2"> B. The position of a determinative</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-2" class="pq-correct"> C. Syllable breaks within a single word</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-2"> D. A damaged portion of the tablet</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("Syllable breaks within a single word").</p>
+      <p class="pq-explanation">Explanation: The hyphen marks syllable breaks within a single word (a period marks logograms combined into one word instead).</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does the article say about index numbers (the subscript number in a form like `du3`)?</p>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-3"> A. They indicate pitch</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-3"> B. They indicate grammatical case</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-3"> C. They indicate the date a sign was inscribed</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-3" class="pq-correct"> D. They are purely scholarly notation for which sign is used, not a difference in pronunciation</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("They are purely scholarly notation for which sign is used, not a difference in pronunciation").</p>
+      <p class="pq-explanation">Explanation: The subscript index number distinguishes different signs sharing the same sound; it is not a pronunciation mark, so readers can ignore it aloud.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What does `[ ]` (square brackets) mark in transliteration?</p>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-4" class="pq-correct"> A. Text broken away, with the enclosed reading restored from context</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-4"> B. A sign present but unidentifiable</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-4"> C. An uncertain reading or interpretation</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-4"> D. A sign partly preserved with an uncertain reading</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("Text broken away, with the enclosed reading restored from context").</p>
+      <p class="pq-explanation">Explanation: Square brackets `[ ]` mark text that is broken away, with the enclosed reading restored from context.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What caution does the article give about the katakana transcriptions and cuneiform glyphs shown alongside examples on this site?</p>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-5"> A. They represent the single, scholarly-established pronunciation</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-5" class="pq-correct"> B. They are not a strict reconstruction of scholarly phonetics or of one specific tablet's exact spelling — they are a learning aid</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-5"> C. They use the International Phonetic Alphabet (IPA)</label>
+    <label class="pq-option"><input type="radio" name="quiz-transliteration-conventions-5"> D. They are a standard spelling shared by all tablets</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("They are not a strict reconstruction of scholarly phonetics or of one specific tablet's exact spelling — they are a learning aid").</p>
+      <p class="pq-explanation">Explanation: The article notes these transcriptions are learning aids, not strict reconstructions of scholarly phonetics or of any one tablet's actual spelling.</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Logograms and Determinatives](/en/sumerian/script-and-phonology/logograms-and-determinatives/)

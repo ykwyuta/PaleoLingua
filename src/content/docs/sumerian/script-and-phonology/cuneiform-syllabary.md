@@ -54,6 +54,77 @@ du-mu
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. CVC型（子音＋母音＋子音）の音節記号として本文に挙げられている例はどれか？</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-1"> A. `a`（ア）</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-1"> B. `ba`（バ）</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-1"> C. `en`（エン）</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-1" class="pq-correct"> D. `dam`（ダム）</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「`dam`（ダム）」。</p>
+      <p class="pq-explanation">解説：本文の表では、CVC型の例として `dam`（ダム）、`kur`（クル）、`lugal`（ルガル）が挙げられている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 「子供」を意味する語 *dumu* は本文中でどのように音節記号によって綴られているか？</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-2"> A. 表語文字1文字で</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-2" class="pq-correct"> B. `du` + `mu` という2つのCV型音節記号を並べて</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-2"> C. `dam` + `mu` という組み合わせで</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-2"> D. 限定符を伴って</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「`du` + `mu` という2つのCV型音節記号を並べて」。</p>
+      <p class="pq-explanation">解説：*dumu* はCV型の音節記号2つ `du` + `mu` を並べて `du-mu` と綴られる。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 「多価性（polyvalence）」とはどのような現象か？</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-3" class="pq-correct"> A. 1つの記号が複数の音を表せること</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-3"> B. 同じ音を複数の異なる記号が表せること</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-3"> C. 記号がまったく発音されないこと</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-3"> D. 記号の向きが90度回転すること</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「1つの記号が複数の音を表せること」。</p>
+      <p class="pq-explanation">解説：多価性（polyvalence）とは、1つの記号が複数の音を表せることを指す（同じ音を複数の記号が表す「同音異字」とは逆の現象）。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 索引番号（`du3`のような下付き数字）が示しているのは何か？</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-4"> A. その記号を発音する際の音の高さ</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-4"> B. その語が属する文法上の格</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-4" class="pq-correct"> C. 発音の違いではなく、どの字形（記号）を使っているかということ</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-4"> D. 粘土板が書かれた年代</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「発音の違いではなく、どの字形（記号）を使っているかということ」。</p>
+      <p class="pq-explanation">解説：索引番号は「どの字形を使っているか」を示す学術的な記法であり、発音そのものが異なるわけではない。`du`・`du3`・`du6` はすべて「ドゥ」と読む。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 本文によれば、動詞「建てる」の語根として使われる音節記号はどれか？</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-5"> A. `du`</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-5" class="pq-correct"> B. `du3`</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-5"> C. `mu`</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-syllabary-5"> D. `du6`</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「`du3`」。</p>
+      <p class="pq-explanation">解説：`du3` は動詞「建てる」の語根であり、`lugal-e e2 mu-du3`（王が家を建てた）にも使われている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 楔形文字の書き方と方向](/sumerian/script-and-phonology/cuneiform-writing-direction/)

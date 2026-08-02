@@ -145,7 +145,67 @@ README.md の「4. コンテンツ戦略」に基づき、カテゴリごとに�
 「準備中の記事です」という1文だけのプレースホルダー記事には、学びのコラムを追加しない。記事執筆スキルが
 実際に内容を執筆した時点で、7.1〜7.3 のルールに従ってコラムも追加する。
 
-## 8. 完了条件
+## 8. 理解度確認テスト（5問クイズ）
+
+プレースホルダーでない実記事には、ja/en 両方に **選択式の理解度確認テストを必ず5問** 挿入する。任意の
+おまけ要素ではなく、記事完成の必須条件である（7章の学びのコラムと同様の扱い）。
+
+### 8.1 目的と挙動
+
+読者がその記事の内容を理解できたか自己確認できるようにする。各問題は4択（A〜D）とし、選択肢を1つ選ぶと
+その場で正解・不正解と解説が表示される。JavaScriptは使わず、CSSの `:has()` セレクタのみで実装済み
+（`src/styles/custom.css` の `.pq-*` クラス群）なので、記事側は決められたHTMLをそのまま埋め込むだけでよい。
+
+### 8.2 配置場所
+
+記事本文・7章の学びのコラムの後、`## 関連項目` / `## See also` セクションの直前に、次の見出しとともに
+挿入する。
+
+- 日本語版: `## 理解度チェック`
+- 英語版: `## Comprehension Check`
+
+### 8.3 マークアップ
+
+```html
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. <問題文></p>
+    <label class="pq-option"><input type="radio" name="quiz-<slug>-1" class="pq-correct"> A. <選択肢A（正解）></label>
+    <label class="pq-option"><input type="radio" name="quiz-<slug>-1"> B. <選択肢B></label>
+    <label class="pq-option"><input type="radio" name="quiz-<slug>-1"> C. <選択肢C></label>
+    <label class="pq-option"><input type="radio" name="quiz-<slug>-1"> D. <選択肢D></label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「<選択肢A>」。</p>
+      <p class="pq-explanation">解説：<なぜ正解がAなのか、記事本文の根拠を1〜3文で></p>
+    </div>
+  </div>
+
+  <!-- Q2〜Q5 も同じ構造を繰り返す。name は quiz-<slug>-2 のように問題ごとに変える -->
+</div>
+```
+
+英語版では `pq-title` を `📝 Comprehension Check`、結果文を `✅ Correct!` /
+`❌ Not quite — the correct answer is A ("<選択肢A>").`、解説ラベルを `Explanation: ` とする。
+
+ルール:
+
+- 正解の選択肢1つにだけ `class="pq-correct"` を付ける（他の3つには付けない）。
+- 同じ `name` 属性を持つのはその設問の4つの `<input>` だけにする（`quiz-<slug>-<問題番号>` で問題ごとに
+  一意にし、他記事のクイズと衝突しないよう記事の `<slug>` を必ず含める）。
+- 5問はその記事で扱った異なる論点（文字/文法規則/語彙/文脈など）から幅広く出題し、本文を読めば根拠が
+  分かる内容にする（記事に書かれていない外部知識を正解の根拠にしない）。
+- ja版とen版は同じ5つの論点を問う対応する問題にする（逐語訳でなくてよい）。
+- 誤答の選択肢もそれらしい紛らわしさを持たせる（明らかにあり得ない選択肢だけにしない）。
+
+### 8.4 準備中（プレースホルダー）記事について
+
+7.4節と同様、「準備中の記事です」という1文だけのプレースホルダー記事にはクイズを追加しない。実際に内容を
+執筆した時点で8.1〜8.3のルールに従って追加する。
+
+## 9. 完了条件
 
 - ja/en 両方のファイルが作成/更新されている。
 - Frontmatter がスキーマ通りである（`title`, `description`, 実内容を書いた記事には `topic`, 任意で `sidebar.order`）。
@@ -155,5 +215,7 @@ README.md の「4. コンテンツ戦略」に基づき、カテゴリごとに�
   `src/content/docs/en/index.mdx` の「記事一覧」/「Articles」セクション（言語ごとの見出し＋
   `<ArticleThumbnailGrid>` 3個）にも追記されている。
 - プレースホルダーでない実記事には、ja/en 両方に「7. 学びのコラム」のルールに従ったコラムが挿入されている。
+- プレースホルダーでない実記事には、ja/en 両方に「8. 理解度確認テスト」のルールに従った5問クイズが
+  挿入されている。
 - 対象言語のキャラクター画像が未登録の場合は、コラムを書かずにユーザーへ画像提供を依頼している。
 - 可能であれば `npm run build` を実行し、Starlightのビルドが通ることを確認する。

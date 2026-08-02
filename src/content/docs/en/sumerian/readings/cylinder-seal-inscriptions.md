@@ -52,6 +52,77 @@ Short as it is, a cylinder seal inscription pulls together everything covered so
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What is a cylinder seal?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-1"> A. A large stone stela carved on a temple wall</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-1" class="pq-correct"> B. A small carved cylinder rolled across damp clay to mark ownership</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-1"> C. A clay envelope used for legal documents</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-1"> D. A practice tablet used to teach cuneiform</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("A small carved cylinder rolled across damp clay to mark ownership").</p>
+      <p class="pq-explanation">Explanation: The article opens by defining a cylinder seal as "a small carved cylinder rolled across damp clay to mark ownership — a device used widely throughout Sumer."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What basic structure does the article describe as recurring in these inscriptions?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-2"> A. "In year X, during the reign of king Y"</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-2"> B. "N sheep, N tablets"</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-2" class="pq-correct"> C. "PN1 (owner), son of PN2 (father), servant of PN3 (a god or king)"</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-2"> D. "So-and-so built such-and-such for a god"</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("PN1 (owner), son of PN2 (father), servant of PN3 (a god or king)").</p>
+      <p class="pq-explanation">Explanation: The article says these inscriptions are highly formulaic, repeating a pattern along the lines of "PN1 (owner), son of PN2 (father), servant of PN3 (a god or king)."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. In the example inscription "lu2-dingir-ra dumu ur-dnanše-ke4 ir11 dnanše," whose servant is Lu-dingira said to be?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-3" class="pq-correct"> A. the goddess Nanše</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-3"> B. king Ur-Namma</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-3"> C. his father Ur-Nanše</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-3"> D. the goddess Namma</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("the goddess Nanše").</p>
+      <p class="pq-explanation">Explanation: The translation given is "Lu-dingira, son of Ur-Nanše, servant of the goddess Nanše" — the closing `dnanše` names the goddess he serves, distinct from his father of the same name.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. For a female seal owner, which word substitutions does the article describe?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-4"> A. lugal → nin, en → ereš</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-4"> B. dumu-nita → dumu-munus only (ir11 stays the same)</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-4"> C. ir11 → arad2, dumu → dumu-nita</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-4" class="pq-correct"> D. dumu → dumu-munus, ir11 → geme2</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("dumu → dumu-munus, ir11 → geme2").</p>
+      <p class="pq-explanation">Explanation: The article states that for a female seal owner, dumu-munus ("daughter") replaces dumu, and geme2 ("female servant") replaces ir11 ("male servant").</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What does the closing phrase "servant of ___" express, according to the article?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-5"> A. the owner's hometown</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-5" class="pq-correct"> B. both a statement of status and a conventional expression of piety</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-5"> C. the year the seal was made</label>
+    <label class="pq-option"><input type="radio" name="quiz-cylinder-seal-inscriptions-5"> D. the name of the seal-cutter</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("both a statement of status and a conventional expression of piety").</p>
+      <p class="pq-explanation">Explanation: The article describes the closing phrase "servant of ___" as being both a statement of status and a conventional expression of piety toward the named god or king.</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: The Genitive Case -ak](/en/sumerian/grammar/genitive-case-ak/)

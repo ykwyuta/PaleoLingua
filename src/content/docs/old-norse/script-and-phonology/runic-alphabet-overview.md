@@ -63,6 +63,77 @@ sidebar:
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 「フサルク（futhark）」という呼び名の由来は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-1"> A. ルーン文字を発見したとされる神オーディンの別名</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-1" class="pq-correct"> B. 文字を並べた際の最初の6文字 f, u, þ, a, r, k の音</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-1"> C. ラテン語で「刻む」を意味する語</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-1"> D. 最初に発見された碑文の出土地の名前</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「文字を並べた際の最初の6文字 f, u, þ, a, r, k の音」。</p>
+      <p class="pq-explanation">解説：記事は、アルファベットが最初の2文字 alpha, beta に由来するのと同じ命名法で、フサルクという呼び名も最初の6文字 f, u, þ, a, r, k の音に由来すると説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. ルーン文字の字形がほとんど直線・斜線で構成されている理由として記事が挙げているのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-2"> A. 装飾的な美しさを優先したため</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-2" class="pq-correct"> B. 木目に沿った横線を避けるため</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-2"> C. ラテン文字の字形を模倣したため</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-2"> D. 曲線を刻む道具が存在しなかったため</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「木目に沿った横線を避けるため」。</p>
+      <p class="pq-explanation">解説：記事は、直線的な字形について「木目に沿った横線（木材を割る方向と同じ線）を避けるためと考えられている」と説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. エルダー・フサルクについて正しい説明はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-3"> A. 16文字からなり、ヴァイキング時代の古ノルド語を記した</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-3" class="pq-correct"> B. 24文字からなる現存最古のルーン文字体系である</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-3"> C. ラテン文字から直接派生した</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-3"> D. 短枝ルーンとも呼ばれる簡略字体である</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「24文字からなる現存最古のルーン文字体系である」。</p>
+      <p class="pq-explanation">解説：記事は、エルダー・フサルクを「現存する最古のルーン文字体系で、24文字からなる」と説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. ヤンガー・フサルクの文字数がエルダー・フサルクより少ないにもかかわらず、複雑化した音韻体系を書き表せているのはなぜか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-4"> A. 母音の種類自体が実際には減っていたから</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-4"> B. 単語の区切り記号を使わなくなったから</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-4" class="pq-correct"> C. 1つの文字が複数の音素を兼務する多義性で補われているから</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-4"> D. 牛耕式の書字方向を採用したから</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「1つの文字が複数の音素を兼務する多義性で補われているから」。</p>
+      <p class="pq-explanation">解説：記事は、文字数の減少を「1つの字形が複数の音素を兼務する『多義性（polyvalence）』によって補われている」と説明し、ᚢ (u) が /u, o, y, ø, w/ を表す例を挙げている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 「短枝ルーン（short-twig runes）」とは何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-5"> A. エルダー・フサルクの別名</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-5"> B. 石碑にのみ使われた特殊な書体</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-5" class="pq-correct"> C. ヤンガー・フサルクの、彫りやすさを優先した簡略字体の異体字群</label>
+    <label class="pq-option"><input type="radio" name="quiz-runic-alphabet-overview-5"> D. ルーン詩に登場する架空の文字</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「ヤンガー・フサルクの、彫りやすさを優先した簡略字体の異体字群」。</p>
+      <p class="pq-explanation">解説：記事は「ヤンガー・フサルクにはさらに、彫りやすさを優先した簡略字体である『短枝ルーン（short-twig runes）』という異体字群も存在する」と述べている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: ヤンガー・フサルク：ヴァイキング時代の16文字](/old-norse/script-and-phonology/younger-futhark/)

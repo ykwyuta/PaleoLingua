@@ -57,6 +57,77 @@ ur-dnamma   lugal-am3
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 述語となる名詞の直後に付けて、3人称の「AはBである」文を作る接尾辞はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-1" class="pq-correct"> A. -am3</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-1"> B. -me-en</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-1"> C. -ra</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-1"> D. -ta</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「-am3」。</p>
+      <p class="pq-explanation">解説：本文冒頭にある通り、述語となる名詞の直後に -am3 を付けることが、名詞述語文（「AはBである」）を作る最も基本的な方法であり、3人称の文で特によく使われる。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 「私は王である」のように1人称の名詞文を作る場合、-am3 の代わりにどの形が使われるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-2"> A. -ak</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-2"> B. -e</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-2" class="pq-correct"> C. -me-en</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-2"> D. -ĝen</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「-me-en」。</p>
+      <p class="pq-explanation">解説：本文に「1人称・2人称の場合は…`-men` 系の形（例：`-me-en`「私は〜である」）が使われる」とあり、例文 `ĝe26-e lugal-me-en`（私は王である）で示されている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. `ur-dnamma lugal-am3` はどういう意味か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-3"> A. 「王がウル・ナンマを建てた」</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-3" class="pq-correct"> B. 「ウル・ナンマは王である」</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-3"> C. 「ウル・ナンマの王」</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-3"> D. 「ウル・ナンマよ、王よ」</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「ウル・ナンマは王である」。</p>
+      <p class="pq-explanation">解説：本文の例文にそのまま「ウル・ナンマ 王-繋辞：ウル・ナンマは王である」と示されている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 独立した動詞 `me` は、接尾辞 -am3 に対してどのような場面で使われるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-4"> A. 疑問文のときだけ</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-4"> B. 複数の主語があるときだけ</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-4"> C. 過去の出来事を述べるときだけ</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-4" class="pq-correct"> D. 複数の述語をつなげる文や、存在そのものを述べる文など、より広い文脈</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「複数の述語をつなげる文や、存在そのものを述べる文など、より広い文脈」。</p>
+      <p class="pq-explanation">解説：本文に「独立した動詞 `me`…は、より広い文脈、たとえば複数の述語をつなげる文や、存在そのものを述べる文で用いられる」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. -am3 を使った文の構造上の特徴として、本文が挙げているものはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-5" class="pq-correct"> A. 動詞のような複雑な人称接辞を伴わずに文が完結する</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-5"> B. 必ず助動詞を追加で必要とする</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-5"> C. 有生名詞にしか使えない</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-5"> D. 必ず格接尾辞を後続させる必要がある</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「動詞のような複雑な人称接辞を伴わずに文が完結する」。</p>
+      <p class="pq-explanation">解説：本文に「`-am3` は動詞のような複雑な人称接辞を伴わずに、名詞述語文だけで完結する非常にシンプルな構造を作る」と説明されている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 代名詞（人称代名詞・指示代名詞）](/sumerian/grammar/personal-demonstrative-pronouns/)

@@ -69,6 +69,77 @@ hinn  gaml-i  maðr
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 古ノルド語の定冠詞は、どのような形で名詞に現れるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-1"> A. 英語の the のような独立した単語として</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-1" class="pq-correct"> B. 名詞の語尾に融合した接尾辞として</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-1"> C. 名詞の前に必ず置かれる接頭辞として</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-1"> D. 動詞の前に置かれる独立した助詞として</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「名詞の語尾に融合した接尾辞として」。</p>
+      <p class="pq-explanation">解説：本文冒頭で述べられている通り、古ノルド語の定冠詞は独立した単語ではなく、名詞の語尾に融合した接尾辞として現れるのが特徴で、これは北ゲルマン語群に特徴的な現象である。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 接尾辞 -inn/-in/-it の語源は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-2"> A. ラテン語 ille からの借用</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-2" class="pq-correct"> B. 指示代名詞 hinn（語頭の h が脱落したもの）</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-2"> C. 数詞「1」（einn）の短縮形</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-2"> D. 前置詞 í（〜の中に）に由来する</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「指示代名詞 hinn（語頭の h が脱落したもの）」。</p>
+      <p class="pq-explanation">解説：本文にある通り、この接尾辞はもともと独立した指示代名詞 hinn（男性）・hin（女性）・hit（中性）に由来し、名詞に融合する過程で語頭の h が脱落したと考えられている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 男性名詞 maðr（人）に定冠詞を付けた与格単数形はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-3"> A. maðrinn</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-3"> B. mannsins</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-3" class="pq-correct"> C. manninum</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-3"> D. manninn</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「manninum」。</p>
+      <p class="pq-explanation">解説：変化表にある通り、maðr の与格単数は manni で、定冠詞を付けると manninum となる。maðrinn は主格、mannsins は属格、manninn は対格の定冠詞付き形である。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 女性名詞 saga（物語）に定冠詞を付けた主格単数形はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-4" class="pq-correct"> A. sagan</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-4"> B. sagain</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-4"> C. saganna</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-4"> D. sagait</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「sagan」。</p>
+      <p class="pq-explanation">解説：本文にある通り、女性名詞 saga の主格単数に定冠詞（女性形 -in）が付くと sagan（その物語）となる。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 名詞が形容詞で修飾される場合、定冠詞はどのように表現されるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-5"> A. それでも名詞への接尾辞として表現される</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-5"> B. 名詞と形容詞の両方に接尾辞を重ねて表現される</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-5" class="pq-correct"> C. 独立した前置形 hinn/hin/hit を使い、形容詞は弱変化を取る</label>
+    <label class="pq-option"><input type="radio" name="quiz-suffixed-definite-article-5"> D. 形容詞を伴う場合、定冠詞は一切表現されない</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「独立した前置形 hinn/hin/hit を使い、形容詞は弱変化を取る」。</p>
+      <p class="pq-explanation">解説：本文にある通り、名詞が形容詞で修飾される場合は接尾辞ではなく独立した前置形の hinn/hin/hit を使うのが標準的な用法で、この場合形容詞は弱変化を取る。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 強変化名詞と弱変化名詞](/old-norse/grammar/strong-weak-nouns/)

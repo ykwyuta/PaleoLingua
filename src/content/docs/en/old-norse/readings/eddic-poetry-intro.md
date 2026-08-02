@@ -49,6 +49,77 @@ The Poetic Edda is not only the single most important source for Norse mythology
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What is the most important surviving manuscript of the Poetic Edda, and in what year was it rediscovered?</p>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-1"> A. The Prose Edda, in 1200</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-1" class="pq-correct"> B. The Codex Regius, in 1643</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-1"> C. A manuscript of Njáls saga, in 1780</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-1"> D. A manuscript of the Rök stone, in 1900</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("The Codex Regius, in 1643").</p>
+      <p class="pq-explanation">Explanation: The article states that the single most important surviving manuscript is the Codex Regius, copied in Iceland in the late 13th century and rediscovered in 1643 by Bishop Brynjólfur Sveinsson.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. Of the Poetic Edda's two main divisions, which one contains stories of heroes such as Sigurðr, the prototype of the Siegfried legend?</p>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-2"> A. The mythological poems</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-2"> B. Alliterative verse</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-2"> C. The Prose Edda</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-2" class="pq-correct"> D. The heroic poems</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("The heroic poems").</p>
+      <p class="pq-explanation">Explanation: The article's table places stories of heroes such as Sigurðr (e.g. Sigrdrífumál, Atlakviða) under "heroic poems," while stories of gods such as Óðinn and Þórr fall under "mythological poems."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What is the defining feature of the meter used in Eddic poetry?</p>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-3" class="pq-correct"> A. Alliteration rather than end rhyme</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-3"> B. Strict end rhyme on every line</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-3"> C. A fixed syllable count per line</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-3"> D. Free verse with no metrical rules at all</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("Alliteration rather than end rhyme").</p>
+      <p class="pq-explanation">Explanation: The article says Eddic poetry "is built on alliteration rather than end rhyme," a tradition it identifies as a hallmark of Germanic poetics shared with the Old English epic Beowulf.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. In the example from Hávamál stanza 76, "Deyr fé, deyja frændr," which two words alliterate with each other?</p>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-4"> A. Deyr and deyja</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-4"> B. fé and sjalfr</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-4" class="pq-correct"> C. fé and frændr</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-4"> D. frændr and sama</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("fé and frændr").</p>
+      <p class="pq-explanation">Explanation: The article notes that this line "chimes fé ('cattle') against frændr ('kinsmen') through their shared initial /f/," which is exactly the alliteration it illustrates.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. The Poetic Edda is named as such to distinguish it from another 13th-century work by Snorri Sturluson. What is that other work?</p>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-5"> A. Njáls saga</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-5" class="pq-correct"> B. The Prose Edda</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-5"> C. The Rök stone inscription</label>
+    <label class="pq-option"><input type="radio" name="quiz-eddic-poetry-intro-5"> D. Vǫluspá</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("The Prose Edda").</p>
+      <p class="pq-explanation">Explanation: The article explains that this collection of poems is called the Poetic Edda (or Elder Edda) specifically to distinguish it from Snorri Sturluson's 13th-century handbook of mythology and poetics, the Prose Edda.</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Readings & Examples: Hávamál — Selected Stanzas](/en/old-norse/readings/havamal-selections/)

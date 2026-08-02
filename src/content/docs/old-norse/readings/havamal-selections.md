@@ -75,6 +75,77 @@ hveim er sér góðan getr.
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 『ハヴァマール』というタイトルの意味と、この詩の語り手は誰か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-1"> A. 「深淵の言葉」、フレイヤの語り</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-1"> B. 「戦いの歌」、トールの語り</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-1" class="pq-correct"> C. 「高き者の言葉」、オーディンの語り</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-1"> D. 「知恵の詩」、フリッグの語り</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「「高き者の言葉」、オーディンの語り」。</p>
+      <p class="pq-explanation">解説：記事冒頭にある通り、『ハヴァマール』は「高き者の言葉」を意味し、「高き者」はオーディンの異名の一つで、オーディンの口を借りて語られる詩である。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 第1節が説く「客人としての心得」とは、具体的にどのような内容か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-2" class="pq-correct"> A. 他人の家に入る前に戸口を見回し、敵が待ち伏せていないか確認すること</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-2"> B. 旅に出る前に必ず神々へ祈りを捧げること</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-2"> C. 客をもてなす際は惜しみなく食事を振る舞うこと</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-2"> D. 戦いの前に武器を清めること</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「他人の家に入る前に戸口を見回し、敵が待ち伏せていないか確認すること」。</p>
+      <p class="pq-explanation">解説：第1節は「すべての戸口は、足を踏み入れる前に見回さねばならない…敵がどこの座に先回りして座っているか知りようがない」と説き、油断せず用心することを勧めている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 文法注釈によれば、`skyli`はどの動詞のどのような形か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-3"> A. heita（〜という名である）の過去形</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-3"> B. deyja（死ぬ）の現在形</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-3"> C. fá（彩色する）の接続法過去形</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-3" class="pq-correct"> D. skulu（〜すべきである）の接続法現在形</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「skulu（〜すべきである）の接続法現在形」。</p>
+      <p class="pq-explanation">解説：記事は「`skyli` は動詞 *skulu*（〜すべきである、義務の助動詞）の接続法現在形。忠告・訓戒の詩に頻出する形である」と説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 第76節が対比しているのは何と何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-4"> A. 神々の不死と人間の死</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-4" class="pq-correct"> B. 財産・生命の儚さと名声の不滅性</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-4"> C. 詩と散文の違い</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-4"> D. 頭韻詩と脚韻詩の違い</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「財産・生命の儚さと名声の不滅性」。</p>
+      <p class="pq-explanation">解説：記事は「財産や生命の儚さと、名声の不滅性とを対比する」一節として第76節を紹介しており、「家畜は死に、親族も死ぬ…しかし名声は決して死ぬことがない」と訳されている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. `orðstírr`（名声）という語の成り立ちについて、記事はどう説明しているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-5" class="pq-correct"> A. orð（言葉）と stírr（輝き）の複合語で「言葉の輝き」が原義とされる</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-5"> B. ラテン語からの借用語である</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-5"> C. gígja（フィドル）という渾名に由来する</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-5"> D. skulu から派生した名詞化形である</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「orð（言葉）と stírr（輝き）の複合語で「言葉の輝き」が原義とされる」。</p>
+      <p class="pq-explanation">解説：文法注釈は「`orðstírr`（名声、名誉）は *orð*（言葉）と *stírr*（輝き）の複合語で、『言葉の輝き』が原義とされる」と説明している。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [読解・例文: 古エッダ入門](/old-norse/readings/eddic-poetry-intro/)

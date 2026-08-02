@@ -75,6 +75,77 @@ hveim er sér góðan getr.
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What does the title "Hávamál" mean, and in whose voice is the poem presented?</p>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-1"> A. "Song of the Depths," in Freyja's voice</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-1"> B. "Song of Battle," in Þórr's voice</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-1" class="pq-correct"> C. "Sayings of the High One," in Óðinn's voice</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-1"> D. "Poem of Wisdom," in Frigg's voice</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("Sayings of the High One," in Óðinn's voice).</p>
+      <p class="pq-explanation">Explanation: As the article opens, Hávamál means "Sayings of the High One" — "the High One" being one of Óðinn's epithets — and it presents its wisdom in Óðinn's own voice.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What advice does stanza 1 give?</p>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-2" class="pq-correct"> A. Look around at the doorways before entering someone else's house, since enemies may be lying in wait</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-2"> B. Always pray to the gods before setting out on a journey</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-2"> C. Serve guests food generously, without stinting</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-2"> D. Purify one's weapons before going into battle</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("Look around at the doorways before entering someone else's house, since enemies may be lying in wait").</p>
+      <p class="pq-explanation">Explanation: Stanza 1 advises that "all doorways, before stepping forward, must be looked around... for it is impossible to know where enemies may be sitting, waiting" — counseling caution before entering.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. According to the grammar notes, what form of what verb is `skyli`?</p>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-3"> A. The past tense of *heita* ("to be named")</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-3"> B. The present tense of *deyja* ("to die")</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-3"> C. The past subjunctive of *fá* ("to paint")</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-3" class="pq-correct"> D. The present subjunctive of *skulu* ("shall")</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("The present subjunctive of skulu (\"shall\")").</p>
+      <p class="pq-explanation">Explanation: The notes state that "skyli is the present subjunctive of skulu ('shall,' an obligation modal), a form that appears constantly in this poem's advice-giving stanzas."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What contrast does stanza 76 draw?</p>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-4"> A. The immortality of the gods versus the mortality of humans</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-4" class="pq-correct"> B. The transience of wealth and life versus the permanence of reputation</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-4"> C. Poetry versus prose</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-4"> D. Alliterative verse versus end rhyme</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("The transience of wealth and life versus the permanence of reputation").</p>
+      <p class="pq-explanation">Explanation: The article introduces stanza 76 as "contrasting the transience of wealth and life with the permanence of reputation," translated as "cattle die, kinsmen die... but reputation never dies."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. How do the grammar notes explain the makeup of `orðstírr` ("fame")?</p>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-5" class="pq-correct"> A. A compound of orð ("word") and stírr ("brightness, gleam"), literally something like "word-gleam"</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-5"> B. A loanword from Latin</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-5"> C. Derived from the nickname gígja ("fiddle")</label>
+    <label class="pq-option"><input type="radio" name="quiz-havamal-selections-5"> D. A noun derived from skulu</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("A compound of orð (\"word\") and stírr (\"brightness, gleam\"), literally something like \"word-gleam\"").</p>
+      <p class="pq-explanation">Explanation: The notes state that orðstírr ("fame," "renown") is a compound of orð ("word") and stírr ("brightness, gleam"), literally something like "word-gleam."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Readings & Examples: Introduction to Eddic Poetry](/en/old-norse/readings/eddic-poetry-intro/)

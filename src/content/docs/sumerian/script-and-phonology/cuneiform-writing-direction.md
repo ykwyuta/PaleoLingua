@@ -40,6 +40,77 @@ sidebar:
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 楔形文字を書く際、尖筆はどのように使われるか？</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-1"> A. 筆のように粘土の上に線を描く</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-1" class="pq-correct"> B. 尖筆の角を粘土に押し込んで跡を残す</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-1"> C. 粘土を薄く削り取る</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-1"> D. 顔料を使って粘土に着色する</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「尖筆の角を粘土に押し込んで跡を残す」。</p>
+      <p class="pq-explanation">解説：筆で線を「描く」のではなく、尖筆の角を粘土に「押し込む」ことで、断面が三角形の楔状の跡が残る。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. ウィンケルハーケン（山形楔）が使われる例として本文に挙がっているのは？</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-2"> A. 動詞の語根</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-2"> B. 神名の限定符</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-2" class="pq-correct"> C. 数字の「10」</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-2"> D. 地名の末尾</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「数字の「10」」。</p>
+      <p class="pq-explanation">解説：ウィンケルハーケンは尖筆の角を垂直に突き刺して作る小さな山形の跡で、数字の「10」などに使われる。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 90度回転する以前の初期の楔形文字は、どのように配置されていたか？</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-3" class="pq-correct"> A. 記号を上から下へ並べた欄を、右から左へ配置</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-3"> B. 記号を左から右へ、行を上から下へ配置</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-3"> C. 記号を螺旋状に配置</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-3"> D. 記号を右から左へ一列に並べるのみ</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「記号を上から下へ並べた欄を、右から左へ配置」。</p>
+      <p class="pq-explanation">解説：初期の楔形文字は、記号を上から下へ並べた「欄」を右から左へ配置して読む形式だった。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 書字方向が90度回転した理由として本文が挙げているのは？</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-4"> A. 王の勅令</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-4" class="pq-correct"> B. 書記官が板を横向きに持ち替えて書く方が効率的だったため</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-4"> C. 隣国の文字体系を模倣したため</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-4"> D. 粘土の乾燥を防ぐため</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「書記官が板を横向きに持ち替えて書く方が効率的だったため」。</p>
+      <p class="pq-explanation">解説：書字方向全体が90度回転したのは、書記官が板を横向きに持ち替えて書く方が効率的だったためと考えられている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 90度回転の結果、後代の楔形文字において元は縦向きだった絵文字（例：牛の頭）はどうなったか？</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-5"> A. 完全に消滅した</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-5"> B. 左右反転した</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-5" class="pq-correct"> C. 90度横倒しになった形で伝わっている</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-writing-direction-5"> D. 拡大されて描かれるようになった</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「90度横倒しになった形で伝わっている」。</p>
+      <p class="pq-explanation">解説：回転の結果、初期の絵文字的な記号（元は縦向きだった）は、後代の楔形文字ではすべて90度横倒しになった形で伝わっている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 楔形文字の成り立ちと歴史](/sumerian/script-and-phonology/cuneiform-history/)

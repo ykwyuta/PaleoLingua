@@ -87,6 +87,77 @@ wife-his-COM
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. Which suffix marks the recipient or beneficiary of an action, and attaches mainly to animate nouns such as humans and gods?</p>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-1"> A. -a</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-1"> B. -ta</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-1" class="pq-correct"> C. -ra</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-1"> D. -da</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("-ra").</p>
+      <p class="pq-explanation">Explanation: The article states that the dative suffix -ra marks the recipient or beneficiary of an action and attaches mainly to animate nouns — humans and gods.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. The locative suffix -a attaches mainly to which kind of noun?</p>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-2"> A. Animate nouns like gods</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-2" class="pq-correct"> B. Inanimate nouns such as buildings or land</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-2"> C. Proper names only</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-2"> D. Pronouns only</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("Inanimate nouns such as buildings or land").</p>
+      <p class="pq-explanation">Explanation: The article notes that the locative -a attaches mainly to inanimate nouns such as buildings or land.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does the terminative suffix -še3 express?</p>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-3" class="pq-correct"> A. A goal ("to/toward") or purpose ("for the sake of")</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-3"> B. Accompaniment ("together with")</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-3"> C. A source ("from")</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-3"> D. Location ("at/in")</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("A goal (\"to/toward\") or purpose (\"for the sake of\")").</p>
+      <p class="pq-explanation">Explanation: The article states that -še3 marks a goal ("to/toward") or a purpose ("for the sake of").</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What does the article give as the meaning of "kur-ta" (mountain/foreign.land-ABL)?</p>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-4"> A. "at the mountain"</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-4"> B. "toward the mountain"</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-4"> C. "together with the mountain"</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-4" class="pq-correct"> D. "from the mountain(s)" / "from the foreign land"</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("\"from the mountain(s)\" / \"from the foreign land\"").</p>
+      <p class="pq-explanation">Explanation: The worked example glosses "kur-ta" as "from the mountain(s)" / "from the foreign land" — the ablative-instrumental -ta marks source or means.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What does the comitative suffix -da express, as in "dam-a-ni-da" (wife-his-COM)?</p>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-5"> A. Source or means</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-5" class="pq-correct"> B. Accompaniment ("together with his wife")</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-5"> C. Goal or destination</label>
+    <label class="pq-option"><input type="radio" name="quiz-dative-terminative-locative-5"> D. Possession</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("Accompaniment (\"together with his wife\")").</p>
+      <p class="pq-explanation">Explanation: The article states that -da marks accompaniment, "together with," as shown in the example translated "together with his wife."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: Overview of Case Suffixes](/en/sumerian/grammar/case-suffixes-overview/)

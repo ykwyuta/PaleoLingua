@@ -77,6 +77,77 @@ Whether or not this line appears is an important clue for dating an inscription 
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. During which period were most of Sweden's surviving runestones concentrated?</p>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-1"> A. The 8th century, at the start of the Viking Age</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-1" class="pq-correct"> B. The 11th century, during the spread of Christianity</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-1"> C. The 13th century, during the rise of saga literature</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-1"> D. The 16th century, during the Reformation</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("The 11th century, during the spread of Christianity").</p>
+      <p class="pq-explanation">Explanation: The article states that "Sweden alone preserves several thousand runestones, most of them concentrated in the 11th century, during the spread of Christianity."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. In the basic formula `X reisti stein {at/eftir} Y, {relation} sinn/sína`, what does `Y` refer to?</p>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-2"> A. The person who commissioned the stone</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-2"> B. The verb "to raise"</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-2" class="pq-correct"> C. The name of the deceased</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-2"> D. The relationship term</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("The name of the deceased").</p>
+      <p class="pq-explanation">Explanation: The article's table lists "Y" as "the name of the deceased," with X as "the person who commissioned the stone."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does the reflexive possessive `sinn` ("his own") make explicit?</p>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-3" class="pq-correct"> A. That the sentence's subject is the possessor (not merely "his father," but "the subject's own father")</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-3"> B. That there are multiple possessors</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-3"> C. That the thing possessed is the stone itself</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-3"> D. That the verb is in the past tense</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("That the sentence's subject is the possessor (not merely \"his father,\" but \"the subject's own father\")").</p>
+      <p class="pq-explanation">Explanation: The article explains that sinn "is a reflexive possessive, marking that the subject of the sentence (here, Ásmundr himself) is the possessor," rather than a plain "his father" (hans faðir).</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What does the causative construction `Ásmundr lét reisa stein eftir Þorstein` indicate?</p>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-4"> A. That Ásmundr carved the stone himself</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-4"> B. That the stone stood on its own, without anyone raising it</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-4"> C. That Þorsteinn raised the stone</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-4" class="pq-correct"> D. That Ásmundr had someone else (such as a carver) do the raising, rather than doing it himself</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("That Ásmundr had someone else (such as a carver) do the raising, rather than doing it himself").</p>
+      <p class="pq-explanation">Explanation: The article explains that inscriptions "frequently use the causative auxiliary láta... to show that the commissioner had someone else do the actual carving," a construction especially common on large, elaborate stones.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What can the presence or absence of the line "Guð hjalpi sál hans" ("May God help his soul") help determine?</p>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-5"> A. The social rank of the person who commissioned the inscription</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-5" class="pq-correct"> B. How far along the progress of Christianization was when the inscription was raised</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-5"> C. The skill level of the carver</label>
+    <label class="pq-option"><input type="radio" name="quiz-viking-age-runestones-5"> D. Whether the inscription's language is Old Norse</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("How far along the progress of Christianization was when the inscription was raised").</p>
+      <p class="pq-explanation">Explanation: The article states that "whether or not this line appears is an important clue for dating an inscription relative to the progress of Christianization."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: How to Read Runic Inscriptions](/en/old-norse/script-and-phonology/reading-runic-inscriptions/)

@@ -55,6 +55,77 @@ Hann  var  sonr  Sighvats  hins rauða.
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 『ニャールのサガ』の別名と、その意味は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-1"> A. 『Hávamál』、「高き者の言葉」</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-1" class="pq-correct"> B. 『Brennu-Njáls saga』、「焼き討ちのニャールのサガ」</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-1"> C. 『Codex Regius』、「王の写本」</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-1"> D. 『Rökstenen』、「ロクの石」</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「『Brennu-Njáls saga』、「焼き討ちのニャールのサガ」」。</p>
+      <p class="pq-explanation">解説：記事冒頭に「『ニャールのサガ（Njáls saga, 別名 *Brennu-Njáls saga*「焼き討ちのニャールのサガ」）』」とある通り、これがこの作品の別名である。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. サガ文学の登場人物紹介の定型として、記事が挙げる3要素は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-2"> A. 出身地・身分・年齢</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-2"> B. 容姿・性格・職業</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-2"> C. 信仰・財産・結婚歴</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-2" class="pq-correct"> D. 名前・渾名・父親の名前</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「名前・渾名・父親の名前」。</p>
+      <p class="pq-explanation">解説：学びのコラムでオーディンが「名前と渾名と父親の名前、この3つを最初に押さえておくことで、読者は後から出てくる大勢の登場人物を混同せずに済む」と説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 文法注釈によれば、`hét`（〜という名であった）を含む構文についてどう説明されているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-3" class="pq-correct"> A. 名前Mǫrðrは主格のままであり、英語の"was named"のような受動構文とは異なり能動的な語り口を保つ</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-3"> B. hétは接続法で、婉曲な推量を表す</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-3"> C. hétは複合語で「呼び声」を意味する名詞である</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-3"> D. hétはkallaðrの異形で完全に同義である</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「名前Mǫrðrは主格のままであり、英語の"was named"のような受動構文とは異なり能動的な語り口を保つ」。</p>
+      <p class="pq-explanation">解説：記事は「主語の格に注意すると、名前を表す *Mǫrðr* は主格のままで、英語の"was named"のような受動構文とは異なり能動的な語り口を保っている」と説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. `gígja`という語は、この冒頭句の中でどのように使われているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-4"> A. 息子を指す代名詞</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-4"> B. 動詞「呼ぶ」の過去分詞</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-4" class="pq-correct"> C. メルズに付けられた渾名（あだ名）「フィドル」</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-4"> D. 地名</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「メルズに付けられた渾名（あだ名）「フィドル」」。</p>
+      <p class="pq-explanation">解説：記事は「`gígja`（フィドル、弦楽器）はここでは渾名（あだ名）として使われている」と説明しており、サガの登場人物には本名のほかに渾名が付されることが多いと述べている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. `hins rauða`（あの赤毛の）という表現は、どの文法事項の実例として記事中で言及されているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-5" class="pq-correct"> A. 定冠詞の接尾辞化（前置形hinnの実例）</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-5"> B. 再帰所有代名詞sinnの用法</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-5"> C. 強変化動詞のクラスVI</label>
+    <label class="pq-option"><input type="radio" name="quiz-njals-saga-excerpt-5"> D. 接続法現在形skyli</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「定冠詞の接尾辞化（前置形hinnの実例）」。</p>
+      <p class="pq-explanation">解説：記事は「[定冠詞の接尾辞化](/old-norse/grammar/suffixed-definite-article/)で扱った前置形 *hinn* の実例でもある」と述べ、`hins rauða`をその実例として挙げている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 古ノルド語とは何か](/old-norse/script-and-phonology/what-is-old-norse/)

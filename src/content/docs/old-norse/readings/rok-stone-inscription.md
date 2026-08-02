@@ -54,6 +54,77 @@ En Varinn  fáði,   faðir, aft faigian sunu.
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. ロク石はどこにあり、いつ頃建てられたと推定されているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-1"> A. アイスランド、13世紀後半</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-1"> B. ノルウェー、11世紀</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-1"> C. デンマーク、10世紀末</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-1" class="pq-correct"> D. スウェーデン・エステルイェートランド地方、9世紀初頭頃</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「スウェーデン・エステルイェートランド地方、9世紀初頭頃」。</p>
+      <p class="pq-explanation">解説：記事冒頭に「スウェーデン南東部エステルイェートランド地方のロク教会にある石碑で、9世紀初頭頃（紀元後800年頃）に建てられたと推定されている」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. ロク石は誰が誰のために建てたと、冒頭の文言からわかるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-2" class="pq-correct"> A. 父ヴァリンが、亡くなった息子ヴァーモーズを悼んで</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-2"> B. 息子が父を偲んで</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-2"> C. 王が戦死した戦士たちのために</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-2"> D. 妻が夫を悼んで</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「父ヴァリンが、亡くなった息子ヴァーモーズを悼んで」。</p>
+      <p class="pq-explanation">解説：記事は「父ヴァリン（Varinn）が、亡くなった息子ヴァーモーズ（Vámóðr）を悼んで建てたことが冒頭の文言からわかっている」と説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 記事によれば、動詞`fáði`（色付けた、彫った）は何を反映しているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-3"> A. 石碑を建てる（reisa）行為</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-3"> B. ルーン文字を音読する行為</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-3" class="pq-correct"> C. 溝に赤や黒の顔料を入れて文字を彩色する制作行為</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-3"> D. 詩を吟唱する行為</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「溝に赤や黒の顔料を入れて文字を彩色する制作行為」。</p>
+      <p class="pq-explanation">解説：記事は「ルーン碑文はもともと文字の溝に赤や黒の顔料を入れて色付けされていたと考えられており、この動詞はその制作行為を直接反映している」と説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. `faigian`（死すべき運命の）という語について、記事はどのようなニュアンスがあると説明しているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-4"> A. 単に「すでに死んだ」という意味</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-4" class="pq-correct"> B. 「死ぬ運命にあった」という含みを持つ、詩的な語彙</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-4"> C. 「不死である」という反語的な意味</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-4"> D. キリスト教的な罪の観念を含む語</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「「死ぬ運命にあった」という含みを持つ、詩的な語彙」。</p>
+      <p class="pq-explanation">解説：記事は「`faigian`（死すべき運命の）…単に『死んだ』ではなく『死ぬ運命にあった』という含みを持つ、詩的な語彙である」と説明している。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. ロク石碑文の後半部分について、記事はどのように述べているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-5"> A. 完全に解読が確定しており異論はない</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-5"> B. 単なる装飾模様で文字は含まれていない</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-5"> C. 内容はすべて商取引の記録である</label>
+    <label class="pq-option"><input type="radio" name="quiz-rok-stone-inscription-5" class="pq-correct"> D. 謎かけ形式の文言を含み、解釈は今も議論が続いている</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「謎かけ形式の文言を含み、解釈は今も議論が続いている」。</p>
+      <p class="pq-explanation">解説：記事は「なんの話か言ってみよ」という謎かけ形式の文が特徴的だとし、天文・気象現象への言及とする説も「いずれも仮説の域を出ておらず、ロク石は今なお北欧のルーン学における最大の謎の一つとされている」と述べている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: ルーン碑文の読み方](/old-norse/script-and-phonology/reading-runic-inscriptions/)

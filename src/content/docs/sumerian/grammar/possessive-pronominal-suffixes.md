@@ -56,6 +56,77 @@ e2-a-ni
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. `e2-ĝu10` の意味は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-1"> A. あなたの家</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-1" class="pq-correct"> B. 私の家</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-1"> C. 彼の家</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-1"> D. その家</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「私の家」。</p>
+      <p class="pq-explanation">解説：パラダイム表に「1人称単数｜`-ĝu10`｜e2-ĝu10｜私の家」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 属格 `-ak` による所有表現（[属格 -ak](/sumerian/grammar/genitive-case-ak/)参照）と、本記事の所有人称接尾辞との違いは何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-2"> A. 属格は動詞にのみ付く</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-2" class="pq-correct"> B. 属格は「名詞＋名詞＋-ak」の形、所有人称接尾辞は名詞に直接付いて人称代名詞に対応する</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-2"> C. 両者はまったく同じ形式である</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-2"> D. 所有人称接尾辞は複数名詞にしか使えない</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「属格は『名詞＋名詞＋-ak』の形、所有人称接尾辞は名詞に直接付いて人称代名詞に対応する」。</p>
+      <p class="pq-explanation">解説：「『名詞＋名詞＋ `-ak`』という形で所有関係を表す方法」とは別に「人称代名詞に対応する『所有人称接尾辞』があり、名詞に直接付けるだけで」所有表現を作れると説明されている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 3人称単数の所有接尾辞が `-a-ni` と `-bi` の2通りに分かれるのはなぜか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-3"> A. 男性名詞と女性名詞の違いによる</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-3"> B. 単数と複数の違いによる</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-3" class="pq-correct"> C. 所有者が有生（人）か無生物かの違いによる</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-3"> D. 方言による違い</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「所有者が有生（人）か無生物かの違いによる」。</p>
+      <p class="pq-explanation">解説：「`-a-ni`（有生・人格を持つ所有者）と `-bi`（無生物、または既出の事物への照応）という2つの形がある」と説明されている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. `-bi` はこれまでの記事のどの語と同じ形か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-4"> A. 能格接尾辞 `-e`</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-4"> B. 独立人称代名詞 `ĝe26-e`</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-4" class="pq-correct"> C. 「それ」「その」を表す指示・照応語の `bi`</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-4"> D. 属格接尾辞 `-ak`</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「『それ』『その』を表す指示・照応語の `bi`」。</p>
+      <p class="pq-explanation">解説：「`-bi` はすでに……『それ』『その』を表す指示・照応語として紹介した語と同じ形であり」と説明されている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 所有人称接尾辞と、動詞に付く人称接辞との関係について本文は何と述べているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-5" class="pq-correct"> A. 別の体系であり、形が異なるため混同しないよう注意すべきだ</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-5"> B. まったく同じ体系であり、形も共通している</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-5"> C. 動詞の人称接辞は所有接尾辞から派生した</label>
+    <label class="pq-option"><input type="radio" name="quiz-possessive-pronominal-suffixes-5"> D. 所有接尾辞は動詞にしか付かない</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「別の体系であり、形が異なるため混同しないよう注意すべきだ」。</p>
+      <p class="pq-explanation">解説：「これらの所有人称接尾辞は……動詞の人称接辞とは別の体系である。名詞に付く所有接尾辞と、動詞に付く人称接辞は形が異なるため、混同しないよう注意したい」とある。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 属格 -ak](/sumerian/grammar/genitive-case-ak/)

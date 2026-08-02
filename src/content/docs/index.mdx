@@ -15,8 +15,8 @@ hero:
       variant: minimal
 ---
 
-import { Aside, LinkCard } from '@astrojs/starlight/components';
-import ArticleThumbnailGrid from '../../components/ArticleThumbnailGrid.astro';
+import { Aside, LinkCard, Tabs, TabItem } from '@astrojs/starlight/components';
+import ArticleList from '../../components/ArticleList.astro';
 
 <Aside type="tip" title="これは実験的なプロジェクトです">
   PaleoLinguaの記事は、人間の言語学者ではなく AI（Claude
@@ -47,61 +47,60 @@ PaleoLinguaは、この前提そのものを実験的に問い直します。記
 
 ## 記事一覧
 
-### シュメール語
+<Tabs>
+  <TabItem label="シュメール語">
+    #### 文字と音韻
 
-#### 文字と音韻
+    <ArticleList locale="ja" language="sumerian" category="script-and-phonology" />
 
-<ArticleThumbnailGrid locale="ja" language="sumerian" category="script-and-phonology" />
+    #### 基礎文法
 
-#### 基礎文法
+    <ArticleList locale="ja" language="sumerian" category="grammar" />
 
-<ArticleThumbnailGrid locale="ja" language="sumerian" category="grammar" />
+    #### 読解・例文
 
-#### 読解・例文
+    <ArticleList locale="ja" language="sumerian" category="readings" />
+  </TabItem>
+  <TabItem label="古ノルド語">
+    #### 文字と音韻
 
-<ArticleThumbnailGrid locale="ja" language="sumerian" category="readings" />
+    <ArticleList locale="ja" language="old-norse" category="script-and-phonology" />
 
-### 古ノルド語
+    #### 基礎文法
 
-#### 文字と音韻
+    <ArticleList locale="ja" language="old-norse" category="grammar" />
 
-<ArticleThumbnailGrid locale="ja" language="old-norse" category="script-and-phonology" />
+    #### 読解・例文
 
-#### 基礎文法
+    <ArticleList locale="ja" language="old-norse" category="readings" />
+  </TabItem>
+  <TabItem label="古エジプト語">
+    #### 文字と音韻
 
-<ArticleThumbnailGrid locale="ja" language="old-norse" category="grammar" />
+    <ArticleList locale="ja" language="old-egyptian" category="script-and-phonology" />
 
-#### 読解・例文
+    #### 基礎文法
 
-<ArticleThumbnailGrid locale="ja" language="old-norse" category="readings" />
+    <ArticleList locale="ja" language="old-egyptian" category="grammar" />
 
-### 古エジプト語
+    #### 読解・例文
 
-#### 文字と音韻
+    <ArticleList locale="ja" language="old-egyptian" category="readings" />
+  </TabItem>
+  <TabItem label="ヒッタイト語">
+    #### 文字と音韻
 
-<ArticleThumbnailGrid locale="ja" language="old-egyptian" category="script-and-phonology" />
+    <ArticleList locale="ja" language="hittite" category="script-and-phonology" />
 
-#### 基礎文法
+    #### 基礎文法
 
-<ArticleThumbnailGrid locale="ja" language="old-egyptian" category="grammar" />
+    <ArticleList locale="ja" language="hittite" category="grammar" />
 
-#### 読解・例文
+    #### 読解・例文
 
-<ArticleThumbnailGrid locale="ja" language="old-egyptian" category="readings" />
-
-### ヒッタイト語
-
-#### 文字と音韻
-
-<ArticleThumbnailGrid locale="ja" language="hittite" category="script-and-phonology" />
-
-#### 基礎文法
-
-<ArticleThumbnailGrid locale="ja" language="hittite" category="grammar" />
-
-#### 読解・例文
-
-<ArticleThumbnailGrid locale="ja" language="hittite" category="readings" />
+    <ArticleList locale="ja" language="hittite" category="readings" />
+  </TabItem>
+</Tabs>
 
 ## 運営方針
 

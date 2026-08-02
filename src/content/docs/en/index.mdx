@@ -15,8 +15,8 @@ hero:
       variant: minimal
 ---
 
-import { Aside, LinkCard } from '@astrojs/starlight/components';
-import ArticleThumbnailGrid from '../../../components/ArticleThumbnailGrid.astro';
+import { Aside, LinkCard, Tabs, TabItem } from '@astrojs/starlight/components';
+import ArticleList from '../../../components/ArticleList.astro';
 
 <Aside type="tip" title="This is an experimental project">
   Every article on PaleoLingua is researched and written not by a human
@@ -66,61 +66,60 @@ economically unviable.
 
 ## Articles
 
-### Sumerian
+<Tabs>
+  <TabItem label="Sumerian">
+    #### Script & Phonology
 
-#### Script & Phonology
+    <ArticleList locale="en" language="sumerian" category="script-and-phonology" />
 
-<ArticleThumbnailGrid locale="en" language="sumerian" category="script-and-phonology" />
+    #### Basic Grammar
 
-#### Basic Grammar
+    <ArticleList locale="en" language="sumerian" category="grammar" />
 
-<ArticleThumbnailGrid locale="en" language="sumerian" category="grammar" />
+    #### Readings & Examples
 
-#### Readings & Examples
+    <ArticleList locale="en" language="sumerian" category="readings" />
+  </TabItem>
+  <TabItem label="Old Norse">
+    #### Script & Phonology
 
-<ArticleThumbnailGrid locale="en" language="sumerian" category="readings" />
+    <ArticleList locale="en" language="old-norse" category="script-and-phonology" />
 
-### Old Norse
+    #### Basic Grammar
 
-#### Script & Phonology
+    <ArticleList locale="en" language="old-norse" category="grammar" />
 
-<ArticleThumbnailGrid locale="en" language="old-norse" category="script-and-phonology" />
+    #### Readings & Examples
 
-#### Basic Grammar
+    <ArticleList locale="en" language="old-norse" category="readings" />
+  </TabItem>
+  <TabItem label="Old Egyptian">
+    #### Script & Phonology
 
-<ArticleThumbnailGrid locale="en" language="old-norse" category="grammar" />
+    <ArticleList locale="en" language="old-egyptian" category="script-and-phonology" />
 
-#### Readings & Examples
+    #### Basic Grammar
 
-<ArticleThumbnailGrid locale="en" language="old-norse" category="readings" />
+    <ArticleList locale="en" language="old-egyptian" category="grammar" />
 
-### Old Egyptian
+    #### Readings & Examples
 
-#### Script & Phonology
+    <ArticleList locale="en" language="old-egyptian" category="readings" />
+  </TabItem>
+  <TabItem label="Hittite">
+    #### Script & Phonology
 
-<ArticleThumbnailGrid locale="en" language="old-egyptian" category="script-and-phonology" />
+    <ArticleList locale="en" language="hittite" category="script-and-phonology" />
 
-#### Basic Grammar
+    #### Basic Grammar
 
-<ArticleThumbnailGrid locale="en" language="old-egyptian" category="grammar" />
+    <ArticleList locale="en" language="hittite" category="grammar" />
 
-#### Readings & Examples
+    #### Readings & Examples
 
-<ArticleThumbnailGrid locale="en" language="old-egyptian" category="readings" />
-
-### Hittite
-
-#### Script & Phonology
-
-<ArticleThumbnailGrid locale="en" language="hittite" category="script-and-phonology" />
-
-#### Basic Grammar
-
-<ArticleThumbnailGrid locale="en" language="hittite" category="grammar" />
-
-#### Readings & Examples
-
-<ArticleThumbnailGrid locale="en" language="hittite" category="readings" />
+    <ArticleList locale="en" language="hittite" category="readings" />
+  </TabItem>
+</Tabs>
 
 ## How it's run
 

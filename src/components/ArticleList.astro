@@ -1,0 +1,111 @@
+---
+import { getCollection } from 'astro:content';
+
+interface Props {
+  locale: 'ja' | 'en';
+  language: string;
+  category: 'script-and-phonology' | 'grammar' | 'readings';
+}
+
+const { locale, language, category } = Astro.props;
+
+// Each character folder ships 6 face-expression closeups per gender
+// (boy-f01..f06 / girl-f01..f06). Picking among all of them — instead of
+// always the same single expression — keeps the article list from looking
+// like the same two icons copy-pasted everywhere.
+const FACE_VARIANTS = ['f01', 'f02', 'f03', 'f04', 'f05', 'f06'];
+
+function hashString(input: string): number {
+  let hash = 0;
+  for (let i = 0; i < input.length; i++) {
+    hash = (hash * 31 + input.charCodeAt(i)) >>> 0;
+  }
+  return hash;
+}
+
+const idPrefix = locale === 'en' ? `en/${language}/${category}/` : `${language}/${category}/`;
+
+const allDocs = await getCollection('docs');
+const entries = allDocs
+  .filter((entry) => entry.id.startsWith(idPrefix) && entry.data.topic)
+  .sort((a, b) => {
+    const orderA = a.data.sidebar?.order ?? Number.MAX_SAFE_INTEGER;
+    const orderB = b.data.sidebar?.order ?? Number.MAX_SAFE_INTEGER;
+    if (orderA !== orderB) return orderA - orderB;
+    return a.id.localeCompare(b.id);
+  });
+---
+
+<div class="pl-list">
+  {
+    entries.map((entry, i) => {
+      const topic = entry.data.topic!;
+      const slug = entry.id.slice(idPrefix.length);
+      const href =
+        locale === 'en'
+          ? `/en/${language}/${category}/${slug}/`
+          : `/${language}/${category}/${slug}/`;
+      // Gender still alternates entry-to-entry; the expression is derived
+      // from the slug (not the loop index) so a given article shows the
+      // same icon in both locales while different articles get different
+      // faces.
+      const gender = i % 2 === 0 ? 'boy' : 'girl';
+      const variant = FACE_VARIANTS[hashString(slug) % FACE_VARIANTS.length];
+      const iconSrc = `/images/characters/${topic}/${gender}-${variant}.png`;
+
+      return (
+        <a class="pl-row" href={href} title={entry.data.title}>
+          <img class="pl-avatar" src={iconSrc} alt="" loading="lazy" />
+          <span class="pl-title">{entry.data.title}</span>
+        </a>
+      );
+    })
+  }
+</div>
+
+<style>
+  .pl-list {
+    columns: 260px;
+    column-gap: 1.5rem;
+    margin: 0.75rem 0 1.75rem;
+  }
+
+  .pl-row {
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0.3rem 0.15rem;
+    color: inherit;
+    text-decoration: none;
+    border-radius: 0.4rem;
+    break-inside: avoid;
+  }
+
+  .pl-row:hover {
+    background: var(--sl-color-gray-6);
+  }
+
+  .pl-row:hover .pl-title {
+    color: var(--sl-color-accent-high);
+  }
+
+  .pl-avatar {
+    flex-shrink: 0;
+    width: 26px;
+    height: 26px;
+    object-fit: contain;
+    border-radius: 999px;
+    background: var(--sl-color-gray-6);
+    border: 1px solid var(--sl-color-gray-5);
+    padding: 2px;
+  }
+
+  .pl-title {
+    min-width: 0;
+    font-size: 0.85rem;
+    line-height: 1.3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+</style>

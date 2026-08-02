@@ -3,10 +3,10 @@ import { docsLoader } from '@astrojs/starlight/loaders';
 import { docsSchema } from '@astrojs/starlight/schema';
 
 // Ancient-language slug this article is about. Matches a folder name under
-// public/images/characters/<slug>/ and drives the mascot art used as the
-// article's thumbnail in the YouTube-style article grid on the top page.
+// public/images/characters/<slug>/ and drives the mascot icon shown next to
+// the article title in the article list on the top page.
 // Left unset on placeholder ("準備中") articles so they're excluded from
-// that grid until they have real content.
+// that list until they have real content.
 export const TOPICS = [
   'sumerian',
   'akkadian',

@@ -67,6 +67,77 @@ in.it-place
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What does `mu-` mark?</p>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-1"> A. Negation of the action</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-1" class="pq-correct"> B. That the action is directed toward the speaker or the narrative's deictic center</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-1"> C. Plural number on a noun</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-1"> D. A genitive relationship</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "`mu-` marks that an action is directed toward the speaker or toward the narrative's deictic center."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. Which typical context does the article give for `ba-`?</p>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-2"> A. Emphasizing a ventive direction toward the speaker</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-2" class="pq-correct"> B. Events with reduced agent intentionality, or events viewed from a location away from the speaker</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-2"> C. Only sentences involving numbers</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-2"> D. Only imperative sentences</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "`ba-` is used for events where the agent's intentionality is reduced... or for events viewed from a location away from the speaker."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does the root `gi4`, shared by both `mu-gi4` and `ba-gi4`, mean?</p>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-3"> A. to build</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-3"> B. to know</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-3" class="pq-correct"> C. to return</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-3"> D. to not build</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C.</p>
+      <p class="pq-explanation">Explanation: "the same root `gi4` ('return') shifts its directional and perspectival nuance depending on whether it takes `mu-` or `ba-`."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. Which slot does `bi2-` belong to, and what does it mark?</p>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-4"> A. Slot ①, marking a wish</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-4"> B. Slot ②, marking the ventive</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-4" class="pq-correct"> C. Slot ③, cross-referencing a non-human locative/directive argument</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-4"> D. Slot ④, the verb's core meaning</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C.</p>
+      <p class="pq-explanation">Explanation: "`bi2-`... belongs to slot ③ (person/case prefix)," marking that a dative/locative-type argument "refers to 'something non-human.'"</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What metaphor does En use in the Learning Column to explain the difference between `mu-` and `ba-`?</p>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-5"> A. A recipe</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-5" class="pq-correct"> B. A camera zooming in and pulling back</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-5"> C. Coupling train cars</label>
+    <label class="pq-option"><input type="radio" name="quiz-ventive-and-middle-prefixes-5"> D. A luggage tag</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: En says "Think of it as camerawork. `mu-` zooms the lens in tight on the speaker or narrator... `ba-` pulls the camera back."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Grammar: The Verbal Prefix Chain: A Structural Overview](/en/sumerian/grammar/verbal-prefix-chain-overview/)

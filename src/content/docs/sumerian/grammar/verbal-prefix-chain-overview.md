@@ -55,6 +55,77 @@ mu-du3
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. スロットモデルで①のスロットに位置づけられるのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-1" class="pq-correct"> A. 法（叙法）接頭辞</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-1"> B. 語根</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-1"> C. 人称接尾辞</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-1"> D. 方向／態接頭辞</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「法（叙法）接頭辞」。</p>
+      <p class="pq-explanation">解説：スロット表に「①｜法（叙法）接頭辞｜願望・否定・未来的な含みなど……｜`nu-`（否定）、`ha-`（願望）」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 例文 `mu-du3` は、スロットモデルのどの2つの要素で構成されているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-2"> A. ①法接頭辞＋⑤人称接尾辞</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-2" class="pq-correct"> B. ②方向／態接頭辞（求心）＋④語根</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-2"> C. ③人称・格接頭辞＋④語根</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-2"> D. ①法接頭辞のみ</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「②方向／態接頭辞（求心）＋④語根」。</p>
+      <p class="pq-explanation">解説：「`mu-`（②の方向／態スロット、求心）＋ `du3`（④の語根）という、比較的シンプルな組み合わせ」と説明されている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 本文が言う「複統合的（polysynthetic）」という特徴の正体は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-3"> A. 動詞の語根が常に不規則に変化すること</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-3"> B. 名詞句の語順が動詞と逆になること</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-3" class="pq-correct"> C. 多くのスロットが1つの動詞語形に積み重なる構造</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-3"> D. シュメール語に格接尾辞が存在しないこと</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「多くのスロットが1つの動詞語形に積み重なる構造」。</p>
+      <p class="pq-explanation">解説：「このように多くのスロットが1つの動詞語形に積み重なる構造は……『複統合的（polysynthetic）』という特徴の正体である」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 本文がスロットモデルの分析について注意している点は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-4" class="pq-correct"> A. 研究者ごとにスロットの数や境界線の引き方に相違がある簡略化した一例である</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-4"> B. 全ての研究者が完全に同じ分析で一致している</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-4"> C. スロットモデルはシュメール語以外の言語にも当てはまる普遍的な規則である</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-4"> D. このモデルは近年になって完全に否定された</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「研究者ごとにスロットの数や境界線の引き方に相違がある簡略化した一例である」。</p>
+      <p class="pq-explanation">解説：「上記のスロットモデルはあくまで簡略化された一例であり、研究者……の間で、スロットの数や境界線の引き方には相違がある」と述べられている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 学びのコラムでエンが接頭辞のスロットを喩えているものは何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-5"> A. 積み木のブロック</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-5" class="pq-correct"> B. 決まった順番で連結する電車の車両</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-5"> C. 料理のレシピの手順</label>
+    <label class="pq-option"><input type="radio" name="quiz-verbal-prefix-chain-overview-5"> D. オーケストラの楽器編成</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「決まった順番で連結する電車の車両」。</p>
+      <p class="pq-explanation">解説：エンは「接頭辞のスロットって、決まった順番で連結する電車の車両みたいに考えるとイメージしやすいよ」と述べている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 人称接辞と動詞の基本構造](/sumerian/grammar/personal-affixes-verb-basics/)

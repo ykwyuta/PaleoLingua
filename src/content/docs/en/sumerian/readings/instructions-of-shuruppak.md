@@ -14,8 +14,9 @@ The *Instructions of Shuruppak* takes the form of a father, Šuruppak, passing d
 
 The text is characterized by a stacked series of "do not ~" cautionary clauses. Separate from `nu-`, the ordinary declarative negator covered in [The Negative Prefix nu-](/en/sumerian/grammar/negation-nu/), Sumerian has a dedicated prefix, `na-`, for prohibitions — "do not ~!" (negating a command, i.e., the vetitive).
 
+<p class="cuneiform">𒈾𒆕</p>
+
 ```
-𒈾𒆕
 na-du3
 na-du3
 PROH-build
@@ -26,10 +27,10 @@ PROH-build
 
 ## nu- versus na-
 
-| Prefix | Use | Example | Meaning |
-|---|---|---|---|
-| `nu-` | Negating a declarative sentence | nu-du3 | "did not build" |
-| `na-` | Prohibition (negating a command) | na-du3 | "do not build!" |
+| Prefix | Use | Example | Cuneiform | Meaning |
+|---|---|---|---|---|
+| `nu-` | Negating a declarative sentence | nu-du3 | 𒉡𒆕 | "did not build" |
+| `na-` | Prohibition (negating a command) | na-du3 | 𒈾𒆕 | "do not build!" |
 
 Although both are "negation" in a broad sense, `nu-` (used in statements) and `na-` (used for commands and prohibitions) serve distinct grammatical functions.
 

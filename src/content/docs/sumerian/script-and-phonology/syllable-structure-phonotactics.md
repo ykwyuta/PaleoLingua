@@ -16,16 +16,18 @@ sidebar:
 
 すでに[属格 -ak](/sumerian/grammar/genitive-case-ak/)の記事で見た `-ak` と `-a` の交替は、この一般的な傾向が属格接尾辞という1つの文法要素に現れた具体例である。
 
+<p class="cuneiform">𒂍 𒈗𒅗</p>
+
 ```
-𒂍 𒈗𒅗
 e2  lugal-ak
 エ  ルガル・アク
 家  王-属格（後ろに母音が続く場合）
 「王の家」
 ```
 
+<p class="cuneiform">𒂍 𒈗𒆷</p>
+
 ```
-𒂍 𒈗𒆷
 e2  lugal-la
 エ  ルガル・ラ
 家  王-属格（句末、子音 *k* が脱落し先行子音が重複）

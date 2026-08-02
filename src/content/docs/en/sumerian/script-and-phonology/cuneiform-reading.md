@@ -18,28 +18,28 @@ The first thing to grasp about reading cuneiform is that a single sign can be re
 
 Take the sign 𒀭, used for the sky-god An, and look at all three roles in turn.
 
+<p class="cuneiform">𒀭</p>
+
 ```
-𒀭
 an
-アン
 (logogram) sky, the sky-god An
 ```
 
 Used alone like this, the sign can be read as the logogram for "sky" or for the god An himself.
 
+<p class="cuneiform">𒀭</p>
+
 ```
-𒀭
 dingir
-ディンギル
 (logogram) god (the common noun "god")
 ```
 
-The very same sign can also be read as the logogram for a different word entirely, the common noun `dingir` ("god"). This phenomenon — one sign standing for more than one word — connects to the topics covered in [Cuneiform as a Syllabary](/en/sumerian/script-and-phonology/cuneiform-syllabary/) and [Logograms and Determinatives](/en/sumerian/script-and-phonology/logograms-and-determinatives/).
+The very same sign can also be read as the logogram for a different word entirely, the common noun `dingir` 𒀭 ("god"). This phenomenon — one sign standing for more than one word — connects to the topics covered in [Cuneiform as a Syllabary](/en/sumerian/script-and-phonology/cuneiform-syllabary/) and [Logograms and Determinatives](/en/sumerian/script-and-phonology/logograms-and-determinatives/).
+
+<p class="cuneiform">𒀭𒋀𒆠</p>
 
 ```
-𒀭𒋀𒆠
 d nanna
-ナンナ
 (determinative + proper noun) the moon-god Nanna
 ```
 

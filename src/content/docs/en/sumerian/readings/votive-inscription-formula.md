@@ -14,8 +14,9 @@ The example below is a simplified, illustrative composite drawn from wording com
 
 ## Example
 
+<p class="cuneiform">𒈗𒂊       𒀏𒊏      𒀀𒈬𒈾𒊒</p>
+
 ```
-𒈗𒂊       𒀏𒊏      𒀀𒈬𒈾𒊒
 lugal-e    nanše-ra   a mu-na-ru
 lugal-e    nanše-ra   a mu-na-ru
 king-ERG   Nanše-DAT  he.dedicated.it.to.her
@@ -23,11 +24,11 @@ king-ERG   Nanše-DAT  he.dedicated.it.to.her
 
 **Word-by-word gloss**
 
-| Word | Morphological analysis | Meaning |
-|---|---|---|
-| lugal-e | lugal (king) + -e (ergative) | the king |
-| `d`nanše-ra | proper noun (goddess) + -ra (dative) | to the goddess Nanše |
-| a mu-na-ru | a (offering, lit. "water") + mu-na- (ventive + dative person prefix) + ru (to offer) | (he) dedicated (it) to her |
+| Word | Cuneiform | Morphological analysis | Meaning |
+|---|---|---|---|
+| lugal-e | 𒈗𒂊 | lugal (king) + -e (ergative) | the king |
+| `d`nanše-ra | 𒀭𒀏𒊏 | proper noun (goddess) + -ra (dative) | to the goddess Nanše |
+| a mu-na-ru | 𒀀𒈬𒈾𒊒 | a (offering, lit. "water") + mu-na- (ventive + dative person prefix) + ru (to offer) | (he) dedicated (it) to her |
 
 **Japanese**: 「王がナンシェ女神に（これを）捧げた。」
 **English**: "The king dedicated (this) to the goddess Nanše."

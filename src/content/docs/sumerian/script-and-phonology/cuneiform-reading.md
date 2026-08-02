@@ -18,8 +18,9 @@ sidebar:
 
 天空神アンを表す記号 𒀭 を例に、この3つの読み方を実際に見てみよう。
 
+<p class="cuneiform">𒀭</p>
+
 ```
-𒀭
 an
 アン
 （表語文字）天、天空神アン
@@ -27,17 +28,19 @@ an
 
 上のように、この記号は単独で「天」または神アンそのものを表す表語文字として読まれることがある。
 
+<p class="cuneiform">𒀭</p>
+
 ```
-𒀭
 dingir
 ディンギル
 （表語文字）神（一般名詞としての「神」）
 ```
 
-同じ記号が、「神」を意味する一般名詞 `dingir` という別の単語の表語文字として読まれることもある。1つの記号が複数の単語を表せるこの現象は、[音節文字としての楔形文字](/sumerian/script-and-phonology/cuneiform-syllabary/)や[表語文字と限定符](/sumerian/script-and-phonology/logograms-and-determinatives/)で扱う話題ともつながっている。
+同じ記号が、「神」を意味する一般名詞 `dingir` 𒀭 という別の単語の表語文字として読まれることもある。1つの記号が複数の単語を表せるこの現象は、[音節文字としての楔形文字](/sumerian/script-and-phonology/cuneiform-syllabary/)や[表語文字と限定符](/sumerian/script-and-phonology/logograms-and-determinatives/)で扱う話題ともつながっている。
+
+<p class="cuneiform">𒀭𒋀𒆠</p>
 
 ```
-𒀭𒋀𒆠
 d nanna
 ナンナ
 （限定符＋固有名詞）月神ナンナ

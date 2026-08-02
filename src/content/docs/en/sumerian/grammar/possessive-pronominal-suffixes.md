@@ -14,23 +14,25 @@ sidebar:
 
 Using `e2` (house) as our example noun:
 
-| Person | Suffix | Example | Meaning |
-|---|---|---|---|
-| 1st singular | `-ĝu10` | e2-ĝu10 | my house |
-| 2nd singular | `-zu` | e2-zu | your house |
-| 3rd singular (animate) | `-a-ni` | e2-a-ni | his/her house |
-| 3rd singular (inanimate/anaphoric) | `-bi` | e2-bi | its house, that house |
+| Person | Suffix | Example | Cuneiform | Meaning |
+|---|---|---|---|---|
+| 1st singular | `-ĝu10` | e2-ĝu10 | 𒂍𒈬 | my house |
+| 2nd singular | `-zu` | e2-zu | 𒂍𒍪 | your house |
+| 3rd singular (animate) | `-a-ni` | e2-a-ni | 𒂍𒀀𒉌 | his/her house |
+| 3rd singular (inanimate/anaphoric) | `-bi` | e2-bi | 𒂍𒁉 | its house, that house |
+
+<p class="cuneiform">𒂍𒈬</p>
 
 ```
-𒂍𒈬
 e2-ĝu10
 e2-ĝu10
 house-my
 "my house"
 ```
 
+<p class="cuneiform">𒂍𒀀𒉌</p>
+
 ```
-𒂍𒀀𒉌
 e2-a-ni
 e2-a-ni
 house-his/her

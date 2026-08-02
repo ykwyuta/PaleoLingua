@@ -25,21 +25,21 @@ This distribution suggests that Emesal functioned not as a regional dialect but 
 
 The relationship between Emesal and Emegir forms isn't uniform — some words show regular sound correspondences, while others are replaced by an entirely different word. A well-known example is the word for "lady, goddess."
 
+<p class="cuneiform">𒎏</p>
+
 ```
-𒎏
 nin
-ニン
 (Emegir) lady, goddess
 ```
 
+<p class="cuneiform">𒃽</p>
+
 ```
-𒃽
 gašan
-ガシャン
 (Emesal) lady, goddess
 ```
 
-`nin` and `gašan` share the same meaning ("lady, goddess"), but have entirely different forms and are written with entirely different signs. This illustrates that Emesal sometimes uses its own distinct vocabulary set rather than showing a regular sound shift from the Emegir form.
+`nin` 𒎏 and `gašan` 𒃽 share the same meaning ("lady, goddess"), but have entirely different forms and are written with entirely different signs. This illustrates that Emesal sometimes uses its own distinct vocabulary set rather than showing a regular sound shift from the Emegir form.
 
 ## Where this fits in your studies
 

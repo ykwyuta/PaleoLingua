@@ -14,8 +14,9 @@ We typically count years with a running number (a calendar era). In Sumer — es
 
 The example below is a simplified, illustrative composite of wording common in year names commemorating a military conquest or campaign — not a word-for-word quotation of any specific year's actual name.
 
+<p class="cuneiform">𒈬     𒀕𒆠      𒁀𒅆𒌨</p>
+
 ```
-𒈬     𒀕𒆠      𒁀𒅆𒌨
 mu     unugki    ba-hul
 mu     unug{ki}  ba-hul
 year   Uruk      it.was.destroyed
@@ -23,11 +24,11 @@ year   Uruk      it.was.destroyed
 
 **Word-by-word gloss**
 
-| Word | Morphological analysis | Meaning |
-|---|---|---|
-| mu | noun | year |
-| unugki | proper noun (place name) | Uruk (the city) |
-| ba-hul | ba- (middle voice) + hul (to destroy) | it was destroyed |
+| Word | Cuneiform | Morphological analysis | Meaning |
+|---|---|---|---|
+| mu | 𒈬 | noun | year |
+| unugki | 𒀕𒆠 | proper noun (place name) | Uruk (the city) |
+| ba-hul | 𒁀𒅆𒌨 | ba- (middle voice) + hul (to destroy) | it was destroyed |
 
 **Japanese**: 「ウルクが破壊された年。」
 **English**: "The year Uruk was destroyed."

@@ -14,8 +14,9 @@ In [The Verbal Prefix Chain: A Structural Overview](/en/sumerian/grammar/verbal-
 
 `mu-` marks that an action is directed toward the speaker or toward the narrative's deictic center.
 
+<p class="cuneiform">𒈬𒄄</p>
+
 ```
-𒈬𒄄
 mu-gi4
 mu-gi4
 VENT-return
@@ -26,22 +27,24 @@ VENT-return
 
 `ba-` is used for events where the agent's intentionality is reduced, for "middle voice" contexts where the result of the action affects the subject itself, or for events viewed from a location away from the speaker.
 
+<p class="cuneiform">𒁀𒄄</p>
+
 ```
-𒁀𒄄
 ba-gi4
 ba-gi4
 MID-return
 "it was returned (thither)," "it went back"
 ```
 
-Notice that the same root `gi4` ("return") shifts its directional and perspectival nuance depending on whether it takes `mu-` or `ba-`.
+Notice that the same root `gi4` ("return") shifts its directional and perspectival nuance depending on whether it takes `mu-` 𒈬 or `ba-` 𒁀.
 
 ## bi2-: cross-referencing a non-human locative/directive argument
 
 `bi2-` is a person prefix indicating that a dative- or locative-type argument refers to "something non-human" (a thing or place). It belongs to slot ③ (person/case prefix).
 
+<p class="cuneiform">𒉈𒃻</p>
+
 ```
-𒉈𒃻
 bi2-ĝar
 bi2-ĝar
 in.it-place
@@ -50,11 +53,11 @@ in.it-place
 
 ## Summary table
 
-| Prefix | Slot | Main function |
-|---|---|---|
-| `mu-` | ② direction/voice | Ventive: toward the speaker/deictic center |
-| `ba-` | ② direction/voice | Middle voice: an event viewed from a distance |
-| `bi2-` | ③ person/case | Cross-references a non-human locative/directive argument |
+| Prefix | Cuneiform | Slot | Main function |
+|---|---|---|---|
+| `mu-` | 𒈬 | ② direction/voice | Ventive: toward the speaker/deictic center |
+| `ba-` | 𒁀 | ② direction/voice | Middle voice: an event viewed from a distance |
+| `bi2-` | 𒉈 | ③ person/case | Cross-references a non-human locative/directive argument |
 
 <div class="plc-column">
   <img class="plc-avatar" src="/images/characters/sumerian/girl-f05.png" alt="Nin" />

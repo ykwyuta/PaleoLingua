@@ -10,8 +10,9 @@ sidebar:
 
 The most basic way to negate a Sumerian verb is to place the prefix `nu-` near the front of the verbal prefix chain.
 
+<p class="cuneiform">𒉡𒆕</p>
+
 ```
-𒉡𒆕
 nu-du3
 nu-du3
 NEG-build

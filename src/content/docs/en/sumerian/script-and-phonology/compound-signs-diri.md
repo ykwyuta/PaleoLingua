@@ -14,14 +14,14 @@ Most of the signs covered so far have been single, standalone symbols. But cunei
 
 The most famous diri compound overlays the sign for `gar` ("food," "bread") inside the sign for `ka` ("mouth"), producing the verb `gu7`, "to eat."
 
+<p class="cuneiform">𒅗          𒃻            𒅥</p>
+
 ```
-𒅗          𒃻            𒅥
 ka          gar           gu7
-カ          ガル           グ
 mouth        food          (compound) to eat
 ```
 
-The compound sign is read neither as `ka` ("mouth") nor as `gar` ("food") — the merged symbol as a whole carries an entirely new reading, `gu7` ("to eat"). The likely inspiration behind the shape is a simple pictorial idea: food inside a mouth.
+The compound sign is read neither as `ka` 𒅗 ("mouth") nor as `gar` 𒃻 ("food") — the merged symbol as a whole carries an entirely new reading, `gu7` 𒅥 ("to eat"). The likely inspiration behind the shape is a simple pictorial idea: food inside a mouth.
 
 ## Why compounds like this arose
 

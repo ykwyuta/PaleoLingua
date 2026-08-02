@@ -26,8 +26,9 @@ The precise analysis of Sumerian's verbal prefix chain differs from scholar to s
 
 Take `mu-du3` ("he built it"), which has appeared repeatedly in earlier articles: it breaks down into `mu-` (slot ②, directional/voice — ventive) plus `du3` (slot ④, the root) — a relatively simple combination.
 
+<p class="cuneiform">𒈬𒁺</p>
+
 ```
-𒈬𒁺
 mu-du3
 mu-du3
 VENT-build

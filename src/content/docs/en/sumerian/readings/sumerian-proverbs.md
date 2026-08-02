@@ -14,8 +14,9 @@ Sumerian has a genre of short sayings and maxims called `inim-gar` ("proverb, sa
 
 Proverb collections contain many sayings that use an animal as the protagonist to satirize human behavior. The example below reproduces the genre's typical style as a learning exercise — it is an illustrative reconstruction of the genre's typical phrasing, not a word-for-word quotation of a specific entry from a specific collection.
 
+<p class="cuneiform">𒌨𒂊       𒅗𒃻       𒉡𒍪</p>
+
 ```
-𒌨𒂊       𒅗𒃻       𒉡𒍪
 ur-e       inim       nu-zu
 ur-e       inim       nu-zu
 dog-ERG    word       NEG-know
@@ -23,11 +24,11 @@ dog-ERG    word       NEG-know
 
 **Word-by-word gloss**
 
-| Word | Morphological analysis | Meaning |
-|---|---|---|
-| ur-e | ur (dog) + -e (ergative) | the dog |
-| inim | noun | word |
-| nu-zu | nu- (negative) + zu (to know) | does not know |
+| Word | Cuneiform | Morphological analysis | Meaning |
+|---|---|---|---|
+| ur-e | 𒌨𒂊 | ur (dog) + -e (ergative) | the dog |
+| inim | 𒅗 | noun | word |
+| nu-zu | 𒉡𒍪 | nu- (negative) + zu (to know) | does not know |
 
 **Japanese**: 「犬は言葉を知らない。」
 **English**: "A dog does not know words."

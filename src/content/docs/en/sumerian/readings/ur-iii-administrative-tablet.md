@@ -14,8 +14,9 @@ As noted in [What Is Sumerian?](/en/sumerian/script-and-phonology/what-is-sumeri
 
 The line below is a simplified, illustrative composite of a pattern common in Ur III livestock records — not a word-for-word quotation of any single document.
 
+<p class="cuneiform">𒌋      𒇻    𒌨𒀭𒀏𒋫         𒁀𒍣</p>
+
 ```
-𒌋      𒇻    𒌨𒀭𒀏𒋫         𒁀𒍣
 1(u)    udu   ur-dnanše-ta   ba-zi
 1(u)    udu   ur-dnanše-ta   ba-zi
 10      sheep  Ur-Nanše-ABL   it.was.withdrawn
@@ -23,12 +24,12 @@ The line below is a simplified, illustrative composite of a pattern common in Ur
 
 **Word-by-word gloss**
 
-| Word | Morphological analysis | Meaning |
-|---|---|---|
-| 1(u) | numeral sign (10) | 10 (head) |
-| udu | noun | sheep |
-| ur-`d`nanše-ta | proper noun + -ta (ablative) | from (the account managed by) Ur-Nanše |
-| ba-zi | ba- (middle voice) + zi (to withdraw, to go out) | was withdrawn |
+| Word | Cuneiform | Morphological analysis | Meaning |
+|---|---|---|---|
+| 1(u) | 𒌋 | numeral sign (10) | 10 (head) |
+| udu | 𒇻 | noun | sheep |
+| ur-`d`nanše-ta | 𒌨𒀭𒀏𒋫 | proper noun + -ta (ablative) | from (the account managed by) Ur-Nanše |
+| ba-zi | 𒁀𒍣 | ba- (middle voice) + zi (to withdraw, to go out) | was withdrawn |
 
 **Japanese**: 「羊10頭、ウル・ナンシェ（の管理する在庫）から払い出された。」
 **English**: "10 sheep, withdrawn from (the account of) Ur-Nanše."

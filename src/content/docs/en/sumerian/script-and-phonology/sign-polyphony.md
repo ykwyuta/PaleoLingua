@@ -14,31 +14,31 @@ sidebar:
 
 The sign DU, frequently used in verbs of motion and arrival, is one of the best-known examples of a highly polyphonic sign in Sumerian.
 
+<p class="cuneiform">𒁺</p>
+
 ```
-𒁺
 du
-ドゥ
 (reading 1) to go, to come (one of the marû-stem forms)
 ```
 
+<p class="cuneiform">𒁺</p>
+
 ```
-𒁺
 gin
-ギン
 (reading 2) to go (a close meaning, but used in a different grammatical context)
 ```
 
+<p class="cuneiform">𒁺</p>
+
 ```
-𒁺
 tum2
-トゥム
 (reading 3) to take away, to carry
 ```
 
+<p class="cuneiform">𒁺</p>
+
 ```
-𒁺
 de6
-デ
 (reading 4) to bring, to carry hither (a ventive-leaning context)
 ```
 

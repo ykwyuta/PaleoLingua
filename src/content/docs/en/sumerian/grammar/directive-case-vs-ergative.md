@@ -17,8 +17,9 @@ As noted in [An Overview of Case Suffixes](/en/sumerian/grammar/case-suffixes-ov
 
 ## Ergative -e: marking the agent
 
+<p class="cuneiform">𒈗𒂊     𒂍     𒈬𒁺</p>
+
 ```
-𒈗𒂊     𒂍     𒈬𒁺
 lugal-e  e2   mu-du3
 lugal-e   e2   mu-du3
 king-ERG  house  he-built
@@ -28,8 +29,9 @@ king-ERG  house  he-built
 
 ## Directive -e: direction toward, or contact with, an inanimate noun
 
+<p class="cuneiform">𒂍𒂊</p>
+
 ```
-𒂍𒂊
 e2-e
 e2-e
 house-DIR
@@ -42,8 +44,9 @@ The directive `-e` appears with verbs expressing a spatial relationship to an in
 
 The same noun "house" carries a different spatial nuance depending on which case suffix it takes.
 
+<p class="cuneiform">𒂍𒀀</p>
+
 ```
-𒂍𒀀
 e2-a
 e2-a
 house-LOC

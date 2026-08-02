@@ -24,8 +24,9 @@ These five poems are generally thought to be the direct or indirect sources for 
 
 Throughout these poems, and in the later Sumerian King List as well, Gilgamesh is repeatedly called by the formulaic title "king of Uruk."
 
+<p class="cuneiform">𒈗 𒀕𒆠𒂵</p>
+
 ```
-𒈗 𒀕𒆠𒂵
 lugal   unugki-ga
 lugal   unug{ki}-ak
 king    Uruk-GEN

@@ -10,8 +10,9 @@ sidebar:
 
 Sumerian has a suffix `-a` that attaches after a verb (stem plus its prefixes) and turns the whole verb phrase into a nominal unit meaning "the (thing/event) that ~." It functions much like an English relative clause, or the Japanese attributive "〜した" (as in 「建てた家」, "the house that [someone] built").
 
+<p class="cuneiform">𒂍𒆕𒀀</p>
+
 ```
-𒂍𒆕𒀀
 e2  du3-a
 e2  du3-a
 house  build-NMZ
@@ -22,8 +23,9 @@ house  build-NMZ
 
 `-a` attaches not just to the bare root but to the end of the whole verb phrase, prefixes included. That means an entire clause — subject, dative argument, and all — can be wrapped up into a single noun phrase.
 
+<p class="cuneiform">𒈗𒂊  𒂍  𒈬𒆕𒀀</p>
+
 ```
-𒈗𒂊  𒂍  𒈬𒆕𒀀
 lugal-e   e2   mu-du3-a
 lugal-e   e2   mu-du3-a
 king-ERG  house  build-NMZ

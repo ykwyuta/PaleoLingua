@@ -10,8 +10,9 @@ sidebar:
 
 Sumerian has a dedicated case suffix, `-gin7`, for expressing similarity or comparison — "like ~," "as ~." Corresponding to English "like" or Japanese "〜のように," this suffix is called the "equative case" and is one of the roughly ten cases surveyed in [An Overview of Case Suffixes](/en/sumerian/grammar/case-suffixes-overview/).
 
+<p class="cuneiform">𒈗𒁶</p>
+
 ```
-𒈗𒁶
 lugal-gin7
 lugal-gin7
 king-EQU
@@ -24,8 +25,9 @@ The index number `7` is not pronounced; ignore it and read the word simply as "g
 
 Sumerian hymns and royal inscriptions make heavy use of `-gin7` comparisons that liken a king's or a temple's radiance and power to deities such as the sun-god Utu or the sky-god An.
 
+<p class="cuneiform">𒌓𒁶</p>
+
 ```
-𒌓𒁶
 utu-gin7
 utu-gin7
 Utu-EQU
@@ -38,9 +40,9 @@ Such imagery is a formulaic device that recurs across many hymns and inscription
 
 Like other case suffixes, `-gin7` attaches only once, to the end of the entire noun phrase. Even when the phrase being compared is lengthened with a genitive chain or other modifiers, `-gin7` still marks the whole phrase as a single unit of comparison.
 
-| Suffix | Meaning |
-|---|---|
-| `-gin7` | "like," "as" (similarity/comparison) |
+| Suffix | Cuneiform | Meaning |
+|---|---|---|
+| `-gin7` | 𒁶 | "like," "as" (similarity/comparison) |
 
 ## Summary: how it differs from other cases
 

@@ -16,16 +16,18 @@ One of the best-known phonotactic tendencies in Sumerian is that a consonant at 
 
 The alternation between `-ak` and `-a` already seen in [The Genitive -ak](/en/sumerian/grammar/genitive-case-ak/) is a specific instance of this broader tendency, showing up in a single grammatical element (the genitive suffix).
 
+<p class="cuneiform">𒂍 𒈗𒅗</p>
+
 ```
-𒂍 𒈗𒅗
 e2  lugal-ak
 e2  lugal-ak
 house  king-GEN (followed by a vowel)
 "the house of the king"
 ```
 
+<p class="cuneiform">𒂍 𒈗𒆷</p>
+
 ```
-𒂍 𒈗𒆷
 e2  lugal-la
 e2  lugal-la
 house  king-GEN (phrase-final; the *k* drops and the preceding consonant lengthens)

@@ -55,6 +55,77 @@ Knowing about this word-final weakening lets you recognize that the same grammat
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What does a Sumerian syllable generally not allow?</p>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-1"> A. Ending in a vowel</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-1" class="pq-correct"> B. A cluster of consonants within a single syllable</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-1"> C. Starting with a consonant</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-1"> D. Words of three or more syllables</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "a Sumerian syllable almost never allows a cluster of consonants within it... and instead follows a relatively simple pattern."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What is "word-final consonant weakening"?</p>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-2"> A. A tendency for word-initial consonants to always double</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-2" class="pq-correct"> B. A tendency for a word/phrase-final consonant to be unclear or drop unless immediately followed by a vowel</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-2"> C. A tendency for every vowel to lengthen</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-2"> D. A tendency for verb roots to always undergo suppletion</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "a consonant at the end of a word (or phrase) tends not to be clearly pronounced — or drops altogether — unless immediately followed by a vowel."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does the article present the `-ak`/`-a` alternation as an instance of?</p>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-3"> A. A phenomenon unique to the Emesal register</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-3" class="pq-correct"> B. The broader, general tendency of word-final consonant weakening across the phonological system</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-3"> C. A special phenomenon found only in verbs</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-3"> D. A phenomenon found only in loanwords</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "The alternation between `-ak` and `-a`... is a specific instance of this broader tendency."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What benefit does the article give for knowing about word-final consonant weakening?</p>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-4" class="pq-correct"> A. You can recognize that the same grammatical element in different spellings is just a pronunciation variant</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-4"> B. You no longer need to memorize any vocabulary</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-4"> C. You no longer need to learn cuneiform glyphs</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-4"> D. You can automatically distinguish verbal aspect</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A.</p>
+      <p class="pq-explanation">Explanation: "Knowing about this word-final weakening lets you recognize that the same grammatical element... can surface with a different spelling depending on context — a mere pronunciation variant."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. In the Learning Column, what phenomenon does Nin compare Sumerian's word-final consonant weakening to?</p>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-5"> A. The on'yomi/kun'yomi readings of kanji</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-5" class="pq-correct"> B. French liaison, or English "isn't it" becoming "innit"</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-5"> C. Latin case declension</label>
+    <label class="pq-option"><input type="radio" name="quiz-syllable-structure-phonotactics-5"> D. Abbreviation in Morse code</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: Nin says "Isn't that a bit like French liaison, or how English 'isn't it' turns into 'innit' in casual speech?"</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Cuneiform as a Syllabary](/en/sumerian/script-and-phonology/cuneiform-syllabary/)

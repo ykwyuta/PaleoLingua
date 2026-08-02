@@ -110,7 +110,7 @@ sidebar:
 
   <div class="pq-q">
     <p class="pq-question">Q5. 現存する古ノルド語文献の「二系統」として記事が挙げているのはどれか。</p>
-    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5"> A. ルーン石碑などの一次資料と、写本に書かれた文学作品群</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5" class="pq-correct"> A. ルーン石碑などの一次資料と、写本に書かれた文学作品群</label>
     <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5"> B. アイスランドの資料とノルウェーの資料</label>
     <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5"> C. 詩と散文</label>
     <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5"> D. キリスト教化以前の資料と以後の資料</label>

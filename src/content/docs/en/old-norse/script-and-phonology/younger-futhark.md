@@ -58,6 +58,77 @@ From the 12th century on, dots were added to existing runes to distinguish sound
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What does the article say about long-branch runes?</p>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-1"> A. Used mainly in Norway and Sweden, common on hastily written wooden sticks</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-1" class="pq-correct"> B. Used mainly in Denmark, common in formal contexts such as public memorial inscriptions</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-1"> C. The formal name for the Elder Futhark</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-1"> D. A system used only from the 12th century onward</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("Used mainly in Denmark, common in formal contexts such as public memorial inscriptions").</p>
+      <p class="pq-explanation">Explanation: The article describes long-branch runes as "used mainly in Denmark, common in formal contexts such as public memorial inscriptions."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What does the article say about short-twig runes?</p>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-2"> A. The vertical stave itself is omitted from the letterform</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-2" class="pq-correct"> B. The branches off the vertical stave are simplified or dropped, and they are common in everyday writing on wooden sticks</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-2"> C. They were used only in Denmark's formal memorial inscriptions</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-2"> D. They have more letters than the long-branch runes</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("The branches off the vertical stave are simplified or dropped, and they are common in everyday writing on wooden sticks").</p>
+      <p class="pq-explanation">Explanation: The article describes short-twig runes as used mainly in Norway and Sweden, with the branches off the vertical stave simplified or dropped, common in everyday writing such as inscribed wooden sticks.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What sound distinction does the article say the Younger Futhark lacks?</p>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-3"> A. Vowel length</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-3" class="pq-correct"> B. Voiced vs. voiceless stops</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-3"> C. Nasal vs. non-nasal sounds</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-3"> D. Singular vs. plural</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("Voiced vs. voiceless stops").</p>
+      <p class="pq-explanation">Explanation: The article states that a defining feature of the Younger Futhark is that it makes no distinction between voiced and voiceless stops, noting that ᛏ (t) can stand for either /t/ or /d/.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What are "dotted runes"?</p>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-4"> A. The oldest runes, dating back to the Elder Futhark</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-4"> B. A mark used to cancel a mistakenly carved letter</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-4" class="pq-correct"> C. Existing runes with an added dot, devised from the 12th century on to distinguish sounds more precisely</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-4"> D. Another name for the long-branch runes used only in Denmark</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("Existing runes with an added dot, devised from the 12th century on to distinguish sounds more precisely").</p>
+      <p class="pq-explanation">Explanation: The article explains that from the 12th century on, dots were added to existing runes to distinguish sounds more precisely, giving ᚴ (k) plus a dot yielding ᚵ, dedicated to /g/, as an example.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. According to the table, what sound value(s) does the rune ᛦ (ýr, "yew") represent?</p>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-5"> A. f only</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-5" class="pq-correct"> B. y, R (voiced s)</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-5"> C. þ, ð</label>
+    <label class="pq-option"><input type="radio" name="quiz-younger-futhark-5"> D. t, d</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("y, R (voiced s)").</p>
+      <p class="pq-explanation">Explanation: In the table of the 16 runes, the 16th rune ᛦ (ýr, "yew") is listed with the sound values y and R (voiced s).</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Overview of the Runic Alphabet — From Elder to Younger Futhark](/en/old-norse/script-and-phonology/runic-alphabet-overview/)

@@ -51,6 +51,77 @@ The corpus splits broadly into two strands. One is the **primary, inscriptional 
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. Roughly during what period was Old Norse spoken?</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-1"> A. From the 8th century BCE to the 1st century CE</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-1" class="pq-correct"> B. From roughly the 8th to the 14th century CE</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-1"> C. From roughly the 14th to the 19th century CE</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-1"> D. From roughly the 2nd to the 8th century CE</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("From roughly the 8th to the 14th century CE").</p>
+      <p class="pq-explanation">Explanation: The quick-facts table lists the period as c. 8th–14th century CE, after which it splits into the various Old/Middle Scandinavian languages.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. Which form does this site treat as "Old Norse" by default?</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-2"> A. Old East Norse as spoken in Denmark and Sweden</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-2"> B. The Normanized variety spoken in Normandy</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-2" class="pq-correct"> C. Old West Norse as recorded in Iceland (Old Icelandic)</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-2"> D. The trade variety used in Novgorod</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("Old West Norse as recorded in Iceland (Old Icelandic)").</p>
+      <p class="pq-explanation">Explanation: The article states that most surviving literature is in Old West Norse, specifically Old Icelandic, and that this is the normalized form the site treats as "Old Norse" by default.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does the article say about Old Norse basic word order?</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-3"> A. It is always OSV</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-3"> B. It is strictly SOV, with the verb always final</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-3" class="pq-correct"> C. Broadly SVO, with a verb-second (V2) constraint</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-3"> D. Word order carries no grammatical distinctions</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("Broadly SVO, with a verb-second (V2) constraint").</p>
+      <p class="pq-explanation">Explanation: The quick-facts table describes basic word order as "broadly SVO, with a verb-second (V2) constraint."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What does the article say about how the runic alphabet changed over time?</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-4"> A. It developed from the Younger Futhark (16 letters) into the Elder Futhark (24 letters)</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-4" class="pq-correct"> B. It developed from the Elder Futhark (24 letters) into the Younger Futhark (16 letters)</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-4"> C. The Latin alphabet was used before the runic alphabet</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-4"> D. The number of runic letters never changed</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("It developed from the Elder Futhark (24 letters) into the Younger Futhark (16 letters)").</p>
+      <p class="pq-explanation">Explanation: The article states the runic alphabet developed from the common North Germanic Elder Futhark (24 characters) into the simplified 16-character Younger Futhark used during the Viking Age.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What two strands does the article divide the surviving Old Norse corpus into?</p>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5" class="pq-correct"> A. Primary inscriptional evidence (runestones, etc.) and the literary corpus in manuscripts</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5"> B. Icelandic sources and Norwegian sources</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5"> C. Poetry and prose</label>
+    <label class="pq-option"><input type="radio" name="quiz-what-is-old-norse-5"> D. Pre-Christian and post-Christian sources</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("Primary inscriptional evidence (runestones, etc.) and the literary corpus in manuscripts").</p>
+      <p class="pq-explanation">Explanation: The article splits the corpus into primary, inscriptional evidence — several thousand runestones and objects — and the literary corpus written on Icelandic vellum manuscripts from the 13th century onward, including the Poetic Edda, the Prose Edda, and the sagas.</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Overview of the Runic Alphabet](/en/old-norse/script-and-phonology/runic-alphabet-overview/)

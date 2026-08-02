@@ -49,6 +49,77 @@ lugal   unugki-ga
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. シュメール語で伝わるギルガメシュ関連の作品は、もともとどのように作られたか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-1"> A. 最初から12枚の粘土板にまとめられた1つの叙事詩として</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-1" class="pq-correct"> B. もともと独立した5編の詩として</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-1"> C. アッカド語版の単なる翻訳として</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-1"> D. 王碑文の一部として</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「もともと独立した5編の詩として」。</p>
+      <p class="pq-explanation">解説：「シュメール語で伝わるギルガメシュ関連の作品は、もともと独立した5編の詩として作られた」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. これらの写本は主にどの都市から出土したものが伝わっているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-2"> A. ウル</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-2"> B. ラガシュ</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-2" class="pq-correct"> C. ニップル</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-2"> D. キシュ</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「ニップル」。</p>
+      <p class="pq-explanation">解説：「ウル第三王朝〜古バビロニア時代……の写本、とりわけ学術都市ニップルから出土した写本を通じて今日に伝わっている」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 「ギルガメシュとアッガ」の詩の内容として本文が要約しているのはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-3"> A. 杉の森の守護者フワワの討伐</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-3"> B. 天の牛を倒す物語</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-3" class="pq-correct"> C. キシュの王アッガによるウル包囲と、ギルガメシュの応戦</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-3"> D. エンキドゥの冥界下り</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「キシュの王アッガによるウル包囲と、ギルガメシュの応戦」。</p>
+      <p class="pq-explanation">解説：表に「ギルガメシュとアッガ｜キシュの王アッガによるウル包囲と、ギルガメシュの応戦」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. `lugal unugki-ga` の `-ga` はどのような形態素分析になるか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-4"> A. 与格 `-ra` の変異形</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-4" class="pq-correct"> B. 属格 `-ak` が語末の `g` の後で子音重複＋ `-a` の形を取ったもの</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-4"> C. 等格 `-gin7` の省略形</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-4"> D. 複数接尾辞 `-ene` の変異形</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「属格 `-ak` が語末の `g` の後で子音重複＋ `-a` の形を取ったもの」。</p>
+      <p class="pq-explanation">解説：「`unug`（ウルク）の語末の `g` の後で `-ak` が `-ga`（子音重複＋ `-a`）という形を取っている」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 学びのコラムでエンは、シュメール語版ギルガメシュ文学の成り立ちを何にたとえているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-5"> A. 1本の映画の続編シリーズ</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-5" class="pq-correct"> B. 「連作短編集」が後に1つの長編叙事詩にまとめ直されたもの</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-5"> C. 全く無関係な5つの独立した物語</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-5"> D. 現代の翻訳者による創作</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「『連作短編集』が後に1つの長編叙事詩にまとめ直されたもの」。</p>
+      <p class="pq-explanation">解説：エンは「いわば『連作短編集』だったものが、後の時代に編集されて1つの長編叙事詩にまとめ直された、というイメージに近いかもしれない」と述べている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [基礎文法: 属格 -ak](/sumerian/grammar/genitive-case-ak/)

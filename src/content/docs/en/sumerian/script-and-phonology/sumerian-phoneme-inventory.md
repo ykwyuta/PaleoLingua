@@ -60,6 +60,77 @@ One of the most actively debated points in Sumerian consonant phonology concerns
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. Why is the Sumerian phoneme inventory described as "reconstructed"?</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-1"> A. No clay tablets have survived</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-1" class="pq-correct"> B. There is no way to directly record a native speaker, so it is built from indirect evidence</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-1"> C. It is identical to the Akkadian phoneme inventory</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-1"> D. Katakana readings are officially standardized</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "There is no way to directly record a native speaker's pronunciation. The phoneme inventory known today is a 'reconstruction' built from indirect evidence."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. How many vowels does the article say most introductory treatments assume?</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-2"> A. 3</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-2" class="pq-correct"> B. 4</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-2"> C. 5</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-2"> D. 7</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "Some scholars have argued for a fifth vowel... but... most introductory treatments assume a four-vowel system."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. How is the nasal /ŋ/ written on this site?</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-3"> A. `ng`</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-3" class="pq-correct"> B. `ĝ`</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-3"> C. `n2`</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-3"> D. `ʔ`</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "the nasal /ŋ/ (written `ĝ` on this site — as in `ĝe26-e`, 'I')."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What possibility does recent research (Jagersma, Keetman, and others) raise about the `b/p`, `d/t`, `g/k` pairs?</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-4"> A. These consonants never existed in Sumerian at all</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-4" class="pq-correct"> B. The real contrast may have been unaspirated versus aspirated (or plain versus ejective), not voicing</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-4"> C. They were all a single, identical phoneme</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-4"> D. Akkadian speakers were physically unable to pronounce them</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "the real contrast may instead have been unaspirated versus aspirated, or plain versus ejective — something other than a simple voicing distinction."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. In the Learning Column, what does En compare the work of reconstructing a pre-literate language's sounds to?</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-5"> A. Recreating a recipe</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-5" class="pq-correct"> B. Filling in a puzzle from the outside edges in</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-5"> C. Transcribing music by ear</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-phoneme-inventory-5"> D. Redrawing a map</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: En says "Reconstructing a language from before recording existed is a bit like filling in a puzzle from the outside edges in."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Script & Phonology: Reading Cuneiform](/en/sumerian/script-and-phonology/cuneiform-reading/)

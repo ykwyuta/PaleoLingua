@@ -14,8 +14,9 @@ sidebar:
 
 ## 例文
 
+<p class="cuneiform">𒈗𒂊       𒀏𒊏      𒀀𒈬𒈾𒊒</p>
+
 ```
-𒈗𒂊       𒀏𒊏      𒀀𒈬𒈾𒊒
 lugal-e    nanše-ra   a mu-na-ru
 ルガル・エ  ナンシェ・ラ  ア・ム・ナ・ル
 王-能格    ナンシェ-与格  彼が彼女のために捧げた
@@ -23,11 +24,11 @@ lugal-e    nanše-ra   a mu-na-ru
 
 **逐語グロス**
 
-| 語 | カタカナ読み | 形態素分析 | 意味 |
-|---|---|---|---|
-| lugal-e | ルガル・エ | lugal（王）+ -e（能格） | 王が |
-| `d`nanše-ra | ナンシェ・ラ（`d`は限定符で読まない） | 固有名詞（女神名）+ -ra（与格） | 女神ナンシェに |
-| a mu-na-ru | ア・ム・ナ・ル | a（捧げ物、直訳「水」）+ mu-na-（求心＋与格人称接頭辞）+ ru（捧げる） | （彼が彼女のために）捧げた |
+| 語 | 楔形文字 | カタカナ読み | 形態素分析 | 意味 |
+|---|---|---|---|---|
+| lugal-e | 𒈗𒂊 | ルガル・エ | lugal（王）+ -e（能格） | 王が |
+| `d`nanše-ra | 𒀭𒀏𒊏 | ナンシェ・ラ（`d`は限定符で読まない） | 固有名詞（女神名）+ -ra（与格） | 女神ナンシェに |
+| a mu-na-ru | 𒀀𒈬𒈾𒊒 | ア・ム・ナ・ル | a（捧げ物、直訳「水」）+ mu-na-（求心＋与格人称接頭辞）+ ru（捧げる） | （彼が彼女のために）捧げた |
 
 **日本語訳**：「王がナンシェ女神に（これを）捧げた。」
 **English**: "The king dedicated (this) to the goddess Nanše."
@@ -50,6 +51,77 @@ lugal-e    nanše-ra   a mu-na-ru
     <p class="plc-line"><b>エン：</b>まさにそれ。碑文としては短いけど、「誰が」「誰に」「捧げた」という3要素がぎゅっと詰まっている、実用的な定型フォーマットなんだ。</p>
     <p class="plc-line"><b>ニン：</b>短い定型句を1つ覚えるだけで、似たパターンの碑文がいくつも読めるようになるのは嬉しいね。</p>
     <p class="plc-line"><b>エン：</b>定型句は、初めて原典を読む人にとって一番心強い「合言葉」なんだよ。</p>
+  </div>
+</div>
+
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 奉献碑文が多くの場合繰り返す基本構造はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-1"> A. 「〇〇が△△を破壊した」</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-1" class="pq-correct"> B. 「〇〇（奉献者）が、神△△に、（これを）捧げた」</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-1"> C. 「〇〇年、△△が起きた」</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-1"> D. 「〇〇頭の羊が払い出された」</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「『〇〇（奉献者）が、神△△に、（これを）捧げた』」。</p>
+      <p class="pq-explanation">解説：「多くが『〇〇（奉献者）が、神△△に、（これを）捧げた』という構造を繰り返す」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 本文の例文 `lugal-e nanše-ra a mu-na-ru` は何を根拠に作られたものか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-2" class="pq-correct"> A. 複数の奉献碑文に共通して見られる典型的な結び文句を基にした学習用の単純化</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-2"> B. 特定の1件の碑文の逐語引用</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-2"> C. 現代の考古学者による創作</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-2"> D. アッカド語文献からの直接翻訳</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「複数の奉献碑文に共通して見られる典型的な結び文句を基にした学習用の単純化」。</p>
+      <p class="pq-explanation">解説：「複数の奉献碑文に共通して見られる典型的な結び文句を基に、学習用に単純化したものである（特定の1件の碑文の逐語引用ではない）」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. `a mu-na-ru` の `a` は本来何を意味する語か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-3"> A. 家</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-3" class="pq-correct"> B. 水</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-3"> C. 王</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-3"> D. 神殿</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「水」。</p>
+      <p class="pq-explanation">解説：「`a`（本来『水』を意味する語）が奉献行為そのものを表す慣用的な用法へと広がったと考えられている」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. `nanše-ra` に見られる `-ra` は何を示す接尾辞か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-4"> A. 能格</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-4" class="pq-correct"> B. 与格（奉献の受け手）</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-4"> C. 等格</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-4"> D. 複数標識</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「与格（奉献の受け手）」。</p>
+      <p class="pq-explanation">解説：「`nanše-ra` に見られるように、奉献の受け手（神）には与格 `-ra` が付く」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 学びのコラムでニンが `a mu-na-ru` を何にたとえているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-5" class="pq-correct"> A. 神社の奉納品に付く「〇〇奉納」の木札</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-5"> B. 現代のレシート</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-5"> C. 学校の通知表</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-5"> D. 結婚式の招待状</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「神社の奉納品に付く『〇〇奉納』の木札」。</p>
+      <p class="pq-explanation">解説：ニンは「`a mu-na-ru` って、現代でいう神社の奉納品に付いてる木札の『〇〇奉納』みたいな決まり文句だね」と述べている。</p>
+    </div>
   </div>
 </div>
 

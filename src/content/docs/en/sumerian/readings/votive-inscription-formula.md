@@ -14,8 +14,9 @@ The example below is a simplified, illustrative composite drawn from wording com
 
 ## Example
 
+<p class="cuneiform">𒈗𒂊       𒀏𒊏      𒀀𒈬𒈾𒊒</p>
+
 ```
-𒈗𒂊       𒀏𒊏      𒀀𒈬𒈾𒊒
 lugal-e    nanše-ra   a mu-na-ru
 lugal-e    nanše-ra   a mu-na-ru
 king-ERG   Nanše-DAT  he.dedicated.it.to.her
@@ -23,11 +24,11 @@ king-ERG   Nanše-DAT  he.dedicated.it.to.her
 
 **Word-by-word gloss**
 
-| Word | Morphological analysis | Meaning |
-|---|---|---|
-| lugal-e | lugal (king) + -e (ergative) | the king |
-| `d`nanše-ra | proper noun (goddess) + -ra (dative) | to the goddess Nanše |
-| a mu-na-ru | a (offering, lit. "water") + mu-na- (ventive + dative person prefix) + ru (to offer) | (he) dedicated (it) to her |
+| Word | Cuneiform | Morphological analysis | Meaning |
+|---|---|---|---|
+| lugal-e | 𒈗𒂊 | lugal (king) + -e (ergative) | the king |
+| `d`nanše-ra | 𒀭𒀏𒊏 | proper noun (goddess) + -ra (dative) | to the goddess Nanše |
+| a mu-na-ru | 𒀀𒈬𒈾𒊒 | a (offering, lit. "water") + mu-na- (ventive + dative person prefix) + ru (to offer) | (he) dedicated (it) to her |
 
 **Japanese**: 「王がナンシェ女神に（これを）捧げた。」
 **English**: "The king dedicated (this) to the goddess Nanše."
@@ -50,6 +51,77 @@ king-ERG   Nanše-DAT  he.dedicated.it.to.her
     <p class="plc-line"><b>En:</b> Exactly. Short as it is, it packs three things into one formula: who, to whom, and dedicated — a practical, reusable template.</p>
     <p class="plc-line"><b>Nin:</b> It's nice that memorizing just one short formula unlocks a whole bunch of similarly patterned inscriptions.</p>
     <p class="plc-line"><b>En:</b> A stock formula is the most reassuring "password" a first-time reader of primary sources can have.</p>
+  </div>
+</div>
+
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What basic pattern do most votive inscriptions repeat?</p>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-1"> A. "PN destroyed DN"</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-1" class="pq-correct"> B. "PN (the dedicator) offered (this) to deity DN"</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-1"> C. "In year N, event X occurred"</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-1"> D. "N sheep were withdrawn"</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "most repeating the basic pattern 'PN (the dedicator) offered (this) to deity DN.'"</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What is the basis for the example `lugal-e nanše-ra a mu-na-ru`?</p>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-2" class="pq-correct"> A. A simplified, illustrative composite drawn from wording common to multiple votive inscriptions</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-2"> B. A word-for-word quotation of one specific inscription</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-2"> C. A modern archaeologist's invention</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-2"> D. A direct translation from an Akkadian text</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A.</p>
+      <p class="pq-explanation">Explanation: "The example below is a simplified, illustrative composite drawn from wording common to multiple votive inscriptions — it is not a word-for-word quotation of any single inscription."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does `a` in `a mu-na-ru` literally mean?</p>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-3"> A. house</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-3" class="pq-correct"> B. water</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-3"> C. king</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-3"> D. temple</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "`a` (literally 'water') is thought to have broadened into an idiomatic term for the act of dedication itself."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What does the `-ra` in `nanše-ra` mark?</p>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-4"> A. The ergative</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-4" class="pq-correct"> B. The dative (the recipient of the dedication)</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-4"> C. The equative</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-4"> D. A plural marker</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "the recipient deity of a dedication takes the dative -ra."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. In the Learning Column, what does Nin compare `a mu-na-ru` to?</p>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-5" class="pq-correct"> A. A shrine's wooden donation tag reading "donated by so-and-so"</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-5"> B. A modern receipt</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-5"> C. A school report card</label>
+    <label class="pq-option"><input type="radio" name="quiz-votive-inscription-formula-5"> D. A wedding invitation</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A.</p>
+      <p class="pq-explanation">Explanation: Nin says "`a mu-na-ru` is basically the ancient equivalent of the little wooden tag at a shrine today that says 'donated by so-and-so.'"</p>
+    </div>
   </div>
 </div>
 

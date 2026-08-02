@@ -62,6 +62,77 @@ It's a striking design choice: rather than inventing an entirely new sign for ea
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. How do dedicated numeral signs differ from spoken number words (`diš`, `min`, etc.)?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-1"> A. Numeral signs were only used in later periods</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-1" class="pq-correct"> B. Numeral signs record a quantity directly and are overwhelmingly used in administrative and economic texts</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-1"> C. They are exactly the same thing</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-1"> D. Numeral signs only appear in literary works</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "cuneiform also has dedicated numeral signs that record a quantity directly — and these are what administrative and economic texts overwhelmingly use."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. What kind of sign was typically used to write numbers 1 through 9 on later tablets?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-2" class="pq-correct"> A. A single dedicated incised-digit sign bundling several wedges together</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-2"> B. The spoken number word spelled out syllabically</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-2"> C. A type of determinative</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-2"> D. A sign borrowed exclusively from Akkadian</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A.</p>
+      <p class="pq-explanation">Explanation: "the numbers 1 through 9 are each usually written with a dedicated incised-digit sign (a single symbol bundling several wedges together)."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. In the older size-based system, how was 60 represented?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-3"> A. An entirely new dedicated circular sign</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-3" class="pq-correct"> B. The same shape as 1, but a larger impression</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-3"> C. The same shape as 10, but a smaller impression</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-3"> D. Six Winkelhaken marks lined up</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: The table lists "60 | 𒁹 (DIŠ, large) | the same shape as 1, but a larger impression."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. What design choice did the older system make each time it moved up a power of 60?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-4"> A. Inventing an entirely new sign for each power</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-4" class="pq-correct"> B. Reusing existing shapes at a different size</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-4"> C. Recording it in a different color</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-4"> D. Borrowing the Akkadian numeral directly</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "rather than inventing an entirely new sign for each higher power of 60, the system reused existing shapes at a different size."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. In the Learning Column, what does Nin compare the older size-based numeral system to?</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-5"> A. A musical scale</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-5" class="pq-correct"> B. Changing a character's meaning just by changing its font size</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-5"> C. Adjusting ingredient quantities in a recipe</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-5"> D. A map's scale</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: Nin says "That's like changing the meaning of a character just by changing its font size."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Readings & Examples: Numbers and Counting](/en/sumerian/readings/numbers-and-counting/)

@@ -24,8 +24,9 @@ These five poems are generally thought to be the direct or indirect sources for 
 
 Throughout these poems, and in the later Sumerian King List as well, Gilgamesh is repeatedly called by the formulaic title "king of Uruk."
 
+<p class="cuneiform">𒈗 𒀕𒆠𒂵</p>
+
 ```
-𒈗 𒀕𒆠𒂵
 lugal   unugki-ga
 lugal   unug{ki}-ak
 king    Uruk-GEN
@@ -46,6 +47,77 @@ This page is the introduction to the series; annotated word-for-word readings of
     <p class="plc-line"><b>Nin:</b> Huh, so it wasn't a single unified story from the start, the way the later Akkadian version is?</p>
     <p class="plc-line"><b>En:</b> Right — it's a bit like a "collection of linked short stories" that got edited and reworked, generations later, into one long epic.</p>
     <p class="plc-line"><b>Nin:</b> Tracing how a story grew over time is one of the fun parts of reading ancient literature. And it's neat that the title `lugal unugki-ga` ("king of Uruk") stays constant across every single poem.</p>
+  </div>
+</div>
+
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. How was the Gilgamesh material transmitted in Sumerian originally composed?</p>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-1"> A. As a single epic on twelve tablets from the start</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-1" class="pq-correct"> B. As five originally independent poems</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-1"> C. As a simple translation of the Akkadian version</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-1"> D. As part of a royal inscription</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "the Gilgamesh material transmitted in Sumerian was originally composed as five independent poems."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. Which city do these manuscripts mainly come from?</p>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-2"> A. Ur</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-2"> B. Lagash</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-2" class="pq-correct"> C. Nippur</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-2"> D. Kish</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C.</p>
+      <p class="pq-explanation">Explanation: "especially copies excavated at the scribal center of Nippur."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does the article summarize as the content of "Gilgamesh and Aga"?</p>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-3"> A. Defeating Huwawa, guardian of the cedar forest</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-3"> B. Slaying the Bull of Heaven</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-3" class="pq-correct"> C. King Aga of Kish besieging Uruk, and Gilgamesh's response</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-3"> D. Enkidu's descent to the netherworld</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C.</p>
+      <p class="pq-explanation">Explanation: The table lists "Gilgamesh and Aga | King Aga of Kish besieges Uruk, and Gilgamesh's response."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. How is the `-ga` in `lugal unugki-ga` morphologically analyzed?</p>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-4"> A. A variant of the dative `-ra`</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-4" class="pq-correct"> B. The genitive `-ak`, surfacing as a doubled consonant plus `-a` after the final `g`</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-4"> C. A shortened form of the equative `-gin7`</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-4"> D. A variant of the plural suffix `-ene`</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "following the final `g` of `unug` (Uruk), `-ak` surfaces as `-ga` (a doubled consonant plus `-a`)."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. In the Learning Column, what does En compare the formation of the Sumerian Gilgamesh material to?</p>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-5"> A. A single movie's sequel series</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-5" class="pq-correct"> B. A "collection of linked short stories" later reworked into one long epic</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-5"> C. Five completely unrelated stories</label>
+    <label class="pq-option"><input type="radio" name="quiz-gilgamesh-intro-5"> D. A modern translator's invention</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: En says "it's a bit like a 'collection of linked short stories' that got edited and reworked, generations later, into one long epic."</p>
+    </div>
   </div>
 </div>
 

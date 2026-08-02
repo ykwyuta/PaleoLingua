@@ -14,8 +14,9 @@ sidebar:
 
 ことわざ集には、動物を主人公にして人間の営みを風刺する一文が数多く含まれる。以下は、その典型的な文体を再現した学習用の例文である（特定のことわざ集の1項目の逐語引用ではなく、ジャンルの典型的な言い回しを再構成したもの）。
 
+<p class="cuneiform">𒌨𒂊       𒅗𒃻       𒉡𒍪</p>
+
 ```
-𒌨𒂊       𒅗𒃻       𒉡𒍪
 ur-e       inim       nu-zu
 ウル・エ    イニム      ヌ・ズ
 犬-能格    言葉        知らない
@@ -23,11 +24,11 @@ ur-e       inim       nu-zu
 
 **逐語グロス**
 
-| 語 | カタカナ読み | 形態素分析 | 意味 |
-|---|---|---|---|
-| ur-e | ウル・エ | ur（犬）+ -e（能格） | 犬が |
-| inim | イニム | 名詞 | 言葉 |
-| nu-zu | ヌ・ズ | nu-（否定）+ zu（知る） | 知らない |
+| 語 | 楔形文字 | カタカナ読み | 形態素分析 | 意味 |
+|---|---|---|---|---|
+| ur-e | 𒌨𒂊 | ウル・エ | ur（犬）+ -e（能格） | 犬が |
+| inim | 𒅗 | イニム | 名詞 | 言葉 |
+| nu-zu | 𒉡𒍪 | ヌ・ズ | nu-（否定）+ zu（知る） | 知らない |
 
 **日本語訳**：「犬は言葉を知らない。」
 **English**: "A dog does not know words."
@@ -50,6 +51,77 @@ ur-e       inim       nu-zu
     <p class="plc-line"><b>エン：</b>しかも書記学校の生徒たちが、字の練習をしながらこれを書き写していたと考えると、4000年前の学生も似たような教材で勉強していたんだなあって親近感が湧くよ。</p>
     <p class="plc-line"><b>ニン：</b>動物を主人公にして人間を風刺するのも、イソップ寓話に通じるものがあるね。</p>
     <p class="plc-line"><b>エン：</b>時代や地域が違っても、「動物に語らせて人間を諭す」という発想は、人類が繰り返し辿り着く知恵の形なのかもしれないね。</p>
+  </div>
+</div>
+
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. シュメール語で「ことわざ、格言」を意味する語は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-1"> A. e2-dub-ba</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-1" class="pq-correct"> B. inim-gar</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-1"> C. a mu-na-ru</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-1"> D. lugal-gin7</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「inim-gar」。</p>
+      <p class="pq-explanation">解説：「シュメール語には、`inim-gar`（ことわざ、格言）と呼ばれる短い箴言・格言を集めた『ことわざ集』というジャンルが存在する」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 現在知られていることわざ集の多くは、どこで写字の練習教材として書き写されたものか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-2"> A. 王宮の会議室</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-2" class="pq-correct"> B. 書記学校（エドゥバ）</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-2"> C. 神殿の祭儀場</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-2"> D. 商人の店舗</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「書記学校（エドゥバ）」。</p>
+      <p class="pq-explanation">解説：「古バビロニア時代……の書記学校（エドゥバ、`e2-dub-ba`『粘土板の家』）で、写字の練習教材として書き写されたものである」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 例文 `ur-e inim nu-zu` の意味は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-3"> A. 犬が家を建てた</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-3" class="pq-correct"> B. 犬は言葉を知らない</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-3"> C. 犬のように</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-3"> D. 犬から</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「犬は言葉を知らない」。</p>
+      <p class="pq-explanation">解説：「日本語訳：『犬は言葉を知らない。』」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 動物を主人公にした一文は、どのように読まれることが多いか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-4"> A. 単なる動物学的な観察記録として</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-4" class="pq-correct"> B. 人間社会の誰かを遠回しに風刺する寓意として</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-4"> C. 王の系譜の記録として</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-4"> D. 天文学の観測記録として</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「人間社会の誰かを遠回しに風刺する寓意として」。</p>
+      <p class="pq-explanation">解説：「人間社会の誰か（無知な者、分をわきまえない者など）を遠回しに風刺する寓意として読まれることが多い」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 学びのコラムでニンが、ことわざ集を日本の何にたとえているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-5"> A. 百人一首</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-5" class="pq-correct"> B. いろはがるた</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-5"> C. 俳句</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-5"> D. 落語</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「いろはがるた」。</p>
+      <p class="pq-explanation">解説：ニンは「ことわざ集って、なんだか日本の『いろはがるた』みたいだね」と述べている。</p>
+    </div>
   </div>
 </div>
 

@@ -62,6 +62,77 @@ sidebar:
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 数字専用記号は、話し言葉としての数詞（`diš`、`min`など）とどう違うか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-1"> A. 数字専用記号の方が新しい時代にのみ使われた</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-1" class="pq-correct"> B. 数字専用記号は数量そのものを直接表し、行政・経済文書で多用される</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-1"> C. 両者はまったく同じものである</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-1"> D. 数字専用記号は文学作品にしか現れない</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「数字専用記号は数量そのものを直接表し、行政・経済文書で多用される」。</p>
+      <p class="pq-explanation">解説：「楔形文字には数量そのものを直接表す専用の数字記号があり、行政・経済文書で数量を記録する際にはこちらが多用される」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 後代の粘土板で、1〜9の数を表すのに使われた記号はどのようなものか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-2" class="pq-correct"> A. 複数の楔をまとめた1つの専用の刻線数字</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-2"> B. 話し言葉の数詞をそのまま音節文字で綴ったもの</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-2"> C. 限定符の一種</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-2"> D. アッカド語からの借用記号のみ</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「複数の楔をまとめた1つの専用の刻線数字」。</p>
+      <p class="pq-explanation">解説：「1〜9までの数はそれぞれ専用の刻線数字（複数の楔をまとめた1つの記号）で表されることが多い」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 古い（印影サイズによる）体系で、60はどのように表されたか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-3"> A. まったく新しい専用の円形記号</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-3" class="pq-correct"> B. 1と同じ形だが、大きな印影</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-3"> C. 10と同じ形だが、小さな印影</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-3"> D. ウィンケルハーケンを6個並べたもの</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「1と同じ形だが、大きな印影」。</p>
+      <p class="pq-explanation">解説：表に「60｜𒁹（DIŠ、大）｜1と同じ形だが、大きな印影」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 古い体系が60進法の位が上がるたびに採用した工夫は何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-4"> A. 位ごとにまったく新しい記号を発明すること</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-4" class="pq-correct"> B. 既存の形をサイズ違いで使い回すこと</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-4"> C. 色を変えて記録すること</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-4"> D. アッカド語の数字をそのまま借用すること</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「既存の形をサイズ違いで使い回すこと」。</p>
+      <p class="pq-explanation">解説：「60進法の位が上がるごとに、まったく新しい記号を発明するのではなく、既存の形を『サイズ違い』で使い回すという合理的な工夫がなされていた」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 学びのコラムでニンが、古い印影数字の体系を何にたとえているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-5"> A. 音楽の音階</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-5" class="pq-correct"> B. 文字のフォントサイズを変えて意味を変えること</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-5"> C. 料理の分量調整</label>
+    <label class="pq-option"><input type="radio" name="quiz-cuneiform-numeral-signs-5"> D. 地図の縮尺</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「文字のフォントサイズを変えて意味を変えること」。</p>
+      <p class="pq-explanation">解説：ニンは「それって、文字のフォントサイズを変えて意味を変えるようなものだね」と述べている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [読解・例文: 数字と数え方](/sumerian/readings/numbers-and-counting/)

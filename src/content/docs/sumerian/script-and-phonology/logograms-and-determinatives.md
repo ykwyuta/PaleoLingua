@@ -45,6 +45,77 @@ sidebar:
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 表語文字（ロゴグラム）とはどのようなものか？</p>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-1"> A. 発音されない補助記号</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-1"> B. 音節を表す記号</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-1" class="pq-correct"> C. 1つの記号が単語そのものを表す用法</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-1"> D. 文法接辞専用の記号</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「1つの記号が単語そのものを表す用法」。</p>
+      <p class="pq-explanation">解説：表語文字（ロゴグラム）は、1つの記号が音節ではなく単語そのものを表す用法である。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 本文の表で「王」を意味するとされている表語文字はどれか？</p>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-2" class="pq-correct"> A. `lugal`</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-2"> B. `an`</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-2"> C. `gal`</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-2"> D. `kur`</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「`lugal`」。</p>
+      <p class="pq-explanation">解説：本文の表では `lugal`（ルガル）が「王」を意味する表語文字として挙げられている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. 限定符（デテルミナティヴ）の翻字上の慣例的な表記方法は？</p>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-3"> A. 大文字で書く</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-3"> B. 括弧で囲む</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-3"> C. 下線を引く</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-3" class="pq-correct"> D. 上付き文字で示す</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は D「上付き文字で示す」。</p>
+      <p class="pq-explanation">解説：限定符は翻字では上付き文字で示すのが慣例である。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 神名の前に置かれる限定符として本文に挙げられているのは？</p>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-4" class="pq-correct"> A. `d`（dingir）</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-4"> B. `ki`</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-4"> C. `giš`</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-4"> D. `lu2`</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「`d`（dingir）」。</p>
+      <p class="pq-explanation">解説：`d`（dingir）は名詞の前に置かれ、神名であることを示す限定符である。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. `d`nanna（𒀭𒋀𒆠）は実際にはどのように読まれるか？</p>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-5"> A. 「ディンギル・ナンナ」</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-5"> B. 「ナンナ・ディンギル」</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-5" class="pq-correct"> C. 「ナンナ」のみ</label>
+    <label class="pq-option"><input type="radio" name="quiz-logograms-and-determinatives-5"> D. 発音されずスキップされる</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「「ナンナ」のみ」。</p>
+      <p class="pq-explanation">解説：限定符は発音されないため、`d`nanna は「ディンギル・ナンナ」ではなく単に「ナンナ」と読む。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 音節文字としての楔形文字](/sumerian/script-and-phonology/cuneiform-syllabary/)

@@ -55,6 +55,77 @@ While `-am3` is specifically a suffix for nominal predicate sentences ("A is B")
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. Which suffix, attached directly after the predicate noun, builds a third-person "A is B" sentence?</p>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-1" class="pq-correct"> A. -am3</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-1"> B. -me-en</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-1"> C. -ra</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-1"> D. -ta</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("-am3").</p>
+      <p class="pq-explanation">Explanation: The article opens by stating that attaching -am3 directly after the predicate noun is the most basic way to build a nominal-predicate sentence, and it is especially common in the third person.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. For a first-person sentence like "I am king," which ending is used instead of -am3?</p>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-2"> A. -ak</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-2"> B. -e</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-2" class="pq-correct"> C. -me-en</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-2"> D. -ĝen</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is C ("-me-en").</p>
+      <p class="pq-explanation">Explanation: The article notes that first and second person use the -men-type forms instead, illustrated by `ĝe26-e lugal-me-en`, "I am king."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does "ur-dnamma lugal-am3" mean?</p>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-3"> A. "The king built Ur-Namma"</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-3" class="pq-correct"> B. "Ur-Namma is king"</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-3"> C. "Ur-Namma's king"</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-3"> D. "Ur-Namma, O king!"</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B ("Ur-Namma is king").</p>
+      <p class="pq-explanation">Explanation: The worked example glosses this sentence directly as "Ur-Namma is king."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. According to the article, in which situations is the independent verb "me" used rather than the suffix -am3?</p>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-4"> A. Only in questions</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-4"> B. Only with plural subjects</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-4"> C. Only in past-tense narration</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-4" class="pq-correct"> D. In a broader range of contexts, such as linking multiple predicates or making a purely existential statement</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is D ("In a broader range of contexts, such as linking multiple predicates or making a purely existential statement").</p>
+      <p class="pq-explanation">Explanation: The article states that the independent verb "me" is used in a broader range of contexts than -am3, including linking multiple predicates and purely existential statements.</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. What structural feature of -am3 sentences does the article highlight?</p>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-5" class="pq-correct"> A. They form a complete sentence without the complex person-marking machinery a verb requires</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-5"> B. They always require an additional auxiliary verb</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-5"> C. They can only attach to animate nouns</label>
+    <label class="pq-option"><input type="radio" name="quiz-copula-me-5"> D. They always require a following case suffix</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is A ("They form a complete sentence without the complex person-marking machinery a verb requires").</p>
+      <p class="pq-explanation">Explanation: The article says -am3 "builds a complete nominal-predicate sentence without any of the complex person-marking machinery a verb requires."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Basic Grammar: Personal and Demonstrative Pronouns](/en/sumerian/grammar/personal-demonstrative-pronouns/)

@@ -54,6 +54,77 @@ sidebar:
   </div>
 </div>
 
+## 理解度チェック
+
+<div class="pq-block">
+  <p class="pq-title">📝 理解度チェック</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. 現存するシュメール語粘土板数十万点のうち、量的に最大の割合を占めるジャンルはどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-1"> A. 文学作品</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-1"> B. 王碑文</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-1" class="pq-correct"> C. 行政・経済文書</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-1"> D. ことわざ集</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は C「行政・経済文書」。</p>
+      <p class="pq-explanation">解説：「量的に最大の割合を占めるのは文学作品でも王碑文でもなく……行政・経済文書である」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. 例文の `1(u)` はどのように表記されているか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-2"> A. 話し言葉の数詞 `u` を音節文字で綴ったもの</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-2" class="pq-correct"> B. 専用の数字記号</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-2"> C. 限定符の一種</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-2"> D. 動詞の接頭辞</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「専用の数字記号」。</p>
+      <p class="pq-explanation">解説：グロス表に「1(u)｜ウ｜数字記号（10）｜10（頭）」とあり、また「`1(u)`（10）は数詞の単語ではなく専用の数字記号で書かれるのが行政文書の通例である」と説明されている。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. `ba-zi` の `ba-` はどのようなニュアンスを伴うか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-3"> A. 誰かが積極的に持ち出したという強い意図性</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-3" class="pq-correct"> B. 在庫から自然に出て行ったというニュアンス</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-3"> C. 未来の出来事を示す願望</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-3"> D. 疑問文であることを示す標識</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は B「在庫から自然に出て行ったというニュアンス」。</p>
+      <p class="pq-explanation">解説：「『（誰かが積極的に持ち出した）というより、（在庫から自然に）出て行った』というニュアンスを伴う」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. 行政文書に典型的な記載パターンとして本文が示す構造はどれか。</p>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-4" class="pq-correct"> A. 数量＋品目＋関係者名（奪格や与格を伴う）＋動詞</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-4"> B. 動詞＋数量＋品目のみ</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-4"> C. 神名＋讃美の形容詞の羅列</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-4"> D. 禁止句の連続</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「数量＋品目＋関係者名（奪格や与格を伴う）＋動詞」。</p>
+      <p class="pq-explanation">解説：「『数量＋品目＋関係者名（多くは奪格 `-ta` や与格 `-ra` を伴う）＋動詞……』という短い定型パターンの繰り返し」とある。</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. 学びのコラムでエンが、このような行政文書の山について述べていることは何か。</p>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-5" class="pq-correct"> A. 神話や王碑文以上に、当時の社会の実態を伝えてくれる</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-5"> B. 学術的な価値はほとんどない</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-5"> C. すべて後代の偽造である</label>
+    <label class="pq-option"><input type="radio" name="quiz-ur-iii-administrative-tablet-5"> D. 王だけが読むことを許された文書だった</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ 正解です！</p>
+      <p class="pq-result pq-result-wrong">❌ 不正解です。正解は A「神話や王碑文以上に、当時の社会の実態を伝えてくれる」。</p>
+      <p class="pq-explanation">解説：エンは「神話や王碑文だけがシュメール語の全てじゃない。むしろこういう地味な帳簿の山が、当時の社会の実態を一番よく伝えてくれるんだよ」と述べている。</p>
+    </div>
+  </div>
+</div>
+
 ## 関連項目
 
 - [文字と音韻: 数字専用記号の実際のグリフ](/sumerian/script-and-phonology/cuneiform-numeral-signs/)

@@ -53,6 +53,77 @@ A line like this may look, on its surface, like a simple observation, but such a
   </div>
 </div>
 
+## Comprehension Check
+
+<div class="pq-block">
+  <p class="pq-title">📝 Comprehension Check</p>
+
+  <div class="pq-q">
+    <p class="pq-question">Q1. What is the Sumerian word for "proverb, saying"?</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-1"> A. e2-dub-ba</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-1" class="pq-correct"> B. inim-gar</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-1"> C. a mu-na-ru</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-1"> D. lugal-gin7</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "Sumerian has a genre of short sayings and maxims called `inim-gar` ('proverb, saying')."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q2. Where were most surviving proverb collections copied out as writing-practice exercises?</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-2"> A. In a royal palace's council chamber</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-2" class="pq-correct"> B. In scribal schools (edubba)</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-2"> C. In a temple's ritual hall</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-2"> D. In a merchant's shop</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "copied out in Old Babylonian-period... scribal schools (edubba, 'tablet house') as writing-practice exercises."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q3. What does the example `ur-e inim nu-zu` mean?</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-3"> A. "The dog built the house"</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-3" class="pq-correct"> B. "A dog does not know words"</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-3"> C. "Like a dog"</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-3"> D. "From a dog"</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: The English translation given is "A dog does not know words."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q4. How are such animal-protagonist sayings usually read?</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-4"> A. As simple zoological observation records</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-4" class="pq-correct"> B. As an oblique satire aimed at someone in human society</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-4"> C. As records of a royal genealogy</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-4"> D. As astronomical observation records</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: "such animal-protagonist sayings are usually read as an oblique satire aimed at someone in human society."</p>
+    </div>
+  </div>
+
+  <div class="pq-q">
+    <p class="pq-question">Q5. In the Learning Column, what does Nin compare proverb collections to?</p>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-5"> A. Hyakunin Isshu poetry cards</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-5" class="pq-correct"> B. Japanese iroha karuta cards</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-5"> C. Haiku poetry</label>
+    <label class="pq-option"><input type="radio" name="quiz-sumerian-proverbs-5"> D. Rakugo storytelling</label>
+    <div class="pq-reveal">
+      <p class="pq-result pq-result-correct">✅ Correct!</p>
+      <p class="pq-result pq-result-wrong">❌ Not quite — the correct answer is B.</p>
+      <p class="pq-explanation">Explanation: Nin says "Proverb collections remind me of Japanese iroha karuta cards."</p>
+    </div>
+  </div>
+</div>
+
 ## See also
 
 - [Grammar: The Negative Prefix nu-](/en/sumerian/grammar/negation-nu/)

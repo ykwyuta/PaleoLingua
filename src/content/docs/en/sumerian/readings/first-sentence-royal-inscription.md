@@ -14,6 +14,8 @@ The sentence below is a simplified teaching example modeled on phrasing that rec
 
 ## Example sentence
 
+<p class="cuneiform">𒌨𒀭𒇉   𒈗𒂊   𒂍𒐐   𒈬𒆕</p>
+
 ```
 ur-dnamma   lugal-e   e2-ninnu   mu-du3
 Ur-Namma    king-ERG  Eninnu     he-built
@@ -21,12 +23,12 @@ Ur-Namma    king-ERG  Eninnu     he-built
 
 **Word-by-word gloss**
 
-| Word | Morphological breakdown | Meaning |
-|---|---|---|
-| ur-`d`namma | proper noun | Ur-Namma (personal name) |
-| lugal-e | lugal ("king") + -e (ergative) | the king (as agent) |
-| e2-ninnu | proper noun (temple name) | the Eninnu (a temple name, often glossed "house of fifty") |
-| mu-du3 | mu- (ventive prefix) + du3 ("to build") | he built |
+| Word | Cuneiform | Morphological breakdown | Meaning |
+|---|---|---|---|
+| ur-`d`namma | 𒌨𒀭𒇉 | proper noun | Ur-Namma (personal name) |
+| lugal-e | 𒈗𒂊 | lugal ("king") + -e (ergative) | the king (as agent) |
+| e2-ninnu | 𒂍𒐐 | proper noun (temple name) | the Eninnu (a temple name, often glossed "house of fifty") |
+| mu-du3 | 𒈬𒆕 | mu- (ventive prefix) + du3 ("to build") | he built |
 
 **Translation**: "King Ur-Namma built the Eninnu temple."
 

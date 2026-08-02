@@ -19,10 +19,14 @@ Rather than tense (past/present/future) as such, Sumerian verbs are built around
 
 For most verbs, the ḫamṭu and marû forms differ only in their affixes. But a handful of very common basic verbs use entirely different roots for the two stems — a pattern called suppletion. The classic example is "to go."
 
-| Aspect | Stem |
-|---|---|
-| Ḫamṭu ("went") | ĝen |
-| Marû ("goes/is going") | du |
+| Aspect | Stem | Cuneiform |
+|---|---|---|
+| Ḫamṭu ("went") | ĝen | 𒁺 |
+| Marû ("goes/is going") | du | 𒁺 |
+
+`ĝen` and `du` are distinct roots by descent and by their Latin spelling — yet, intriguingly, real cuneiform texts write both with the very same DU sign 𒁺, leaving context to signal which reading is meant.
+
+<p class="cuneiform">𒂍𒂠   𒄿𒁺</p>
 
 ```
 e2-še3   i3-ĝen

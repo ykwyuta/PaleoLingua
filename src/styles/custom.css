@@ -65,6 +65,12 @@
   margin: 0.3rem 0;
 }
 
+.cuneiform {
+  font-family: 'Noto Sans Cuneiform', 'Segoe UI Historic', sans-serif;
+  font-size: 1.3em;
+  letter-spacing: 0.05em;
+}
+
 @media (max-width: 560px) {
   .plc-column {
     flex-direction: column;

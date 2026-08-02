@@ -20,6 +20,8 @@ Not every slot is filled in every phrase, but whenever more than one modifier is
 
 To say "B's A" (where B possesses or specifies A), the possessed noun A is followed by the possessor B plus the genitive suffix `-ak`.
 
+<p class="cuneiform">𒂍   𒈗𒀀</p>
+
 ```
 e2   lugal-ak
 house king-GEN
@@ -32,13 +34,15 @@ house king-GEN
 
 Genitive phrases can themselves be nested, allowing multi-level possession such as "the C of the B of A."
 
+<p class="cuneiform">𒆍       𒂍         𒈗𒀀</p>
+
 ```
 ka2       e2         lugal-ak-a(k)
 gate      house-GEN  king-GEN
 "the gate of the king's house"
 ```
 
-Here the whole phrase `e2 lugal-ak` ("the king's house") itself functions as the genitive modifier of `ka2` ("gate"). No matter how long a genitive chain grows, the underlying structure stays the same: noun + (genitive phrase).
+Here the whole phrase `e2 lugal-ak` 𒂍𒈗𒀀 ("the king's house") itself functions as the genitive modifier of `ka2` 𒆍 ("gate"). No matter how long a genitive chain grows, the underlying structure stays the same: noun + (genitive phrase).
 
 <div class="plc-column">
   <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="Nin" />

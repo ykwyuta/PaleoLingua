@@ -10,6 +10,8 @@ sidebar:
 
 日本語の「AはBである」、英語の "A is B" にあたる文（名詞述語文）を作る最も基本的な方法は、述語となる名詞の直後に接尾辞 `-am3` を付けることである。
 
+<p class="cuneiform">𒌨𒀭𒇉   𒈗𒀀𒀭</p>
+
 ```
 ur-dnamma   lugal-am3
 ウル・ナンマ ルガル・アム
@@ -22,6 +24,8 @@ ur-dnamma   lugal-am3
 ## 1・2人称の名詞文
 
 1人称・2人称の場合は、[代名詞](/sumerian/grammar/personal-demonstrative-pronouns/)の記事で見た `-men` 系の形（例：`-me-en`「私は〜である」）が使われる。
+
+<p class="cuneiform">𒂷𒂊   𒈗𒈨𒂗</p>
 
 ```
 ĝe26-e   lugal-me-en
@@ -36,11 +40,11 @@ ur-dnamma   lugal-am3
 
 ## まとめ
 
-| 用法 | 形 | カタカナ読み |
-|---|---|---|
-| 3人称の名詞述語文 | 名詞 + `-am3` | （名詞）＋アム |
-| 1人称の名詞述語文 | 名詞 + `-me-en` | （名詞）＋メ・エン |
-| 独立した「〜である」動詞 | `me` | メ |
+| 用法 | 形 | 楔形文字 | カタカナ読み |
+|---|---|---|---|
+| 3人称の名詞述語文 | 名詞 + `-am3` | 𒀀𒀭 | （名詞）＋アム |
+| 1人称の名詞述語文 | 名詞 + `-me-en` | 𒈨𒂗 | （名詞）＋メ・エン |
+| 独立した「〜である」動詞 | `me` | 𒈨 | メ |
 
 <div class="plc-column">
   <img class="plc-avatar" src="/images/characters/sumerian/boy-f02.png" alt="エン" />

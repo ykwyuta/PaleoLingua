@@ -22,6 +22,8 @@ sidebar:
 
 数ある接頭辞の中でも特に頻出するのが `mu-` である。`mu-` はしばしば「求心（ventive）」、すなわち「こちらへ」「話し手の側へ」向かう動作や、一般に完了した具体的な出来事を表す文脈で現れる。
 
+<p class="cuneiform">𒈗𒂊   𒂍   𒈬𒆕</p>
+
 ```
 lugal-e   e2   mu-du3
 ルガル・エ エ   ム・ドゥ
@@ -29,7 +31,7 @@ lugal-e   e2   mu-du3
 「王が家を建てた」
 ```
 
-上の例文の `mu-du3`（ム・ドゥ）は、接頭辞 `mu-`（ム）＋ 語根 `du3`（ドゥ、建てる）という構成になっている。索引番号の `3` は発音しない（[翻字と翻読の基本ルール](/sumerian/script-and-phonology/transliteration-conventions/)を参照）。
+上の例文の `mu-du3` 𒈬𒆕（ム・ドゥ）は、接頭辞 `mu-` 𒈬（ム）＋ 語根 `du3` 𒆕（ドゥ、建てる）という構成になっている。索引番号の `3` は発音しない（[翻字と翻読の基本ルール](/sumerian/script-and-phonology/transliteration-conventions/)を参照）。
 
 ## 絶対格項を示す人称接尾辞（概観）
 

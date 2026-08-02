@@ -20,6 +20,8 @@ sidebar:
 
 「AのB」（Bが所有者・限定者）を表すには、所有される名詞Aの後ろに、所有者Bと属格接尾辞 `-ak` を置く。
 
+<p class="cuneiform">𒂍   𒈗𒀀</p>
+
 ```
 e2   lugal-ak
 エ   ルガル・アク
@@ -33,6 +35,8 @@ e2   lugal-ak
 
 属格句はさらに入れ子にすることができ、「AのBのC」のような多段階の所有関係も表現できる。
 
+<p class="cuneiform">𒆍       𒂍         𒈗𒀀</p>
+
 ```
 ka2       e2         lugal-ak-a(k)
 カ        エ         ルガル・アク（ア）
@@ -40,7 +44,7 @@ ka2       e2         lugal-ak-a(k)
 「王の家の門」
 ```
 
-この例では、`e2 lugal-ak`（「王の家」）全体が、さらに `ka2`（門）に対する属格修飾語として機能している。属格句がどれだけ長くなっても、構造は常に「名詞＋（属格句）」という形を保つ。
+この例では、`e2 lugal-ak` 𒂍𒈗𒀀（「王の家」）全体が、さらに `ka2` 𒆍（門）に対する属格修飾語として機能している。属格句がどれだけ長くなっても、構造は常に「名詞＋（属格句）」という形を保つ。
 
 <div class="plc-column">
   <img class="plc-avatar" src="/images/characters/sumerian/girl-f02.png" alt="ニン" />

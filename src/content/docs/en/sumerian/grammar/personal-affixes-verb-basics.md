@@ -22,13 +22,15 @@ This system is genuinely complex, and specialists still debate parts of its anal
 
 Among the many possible prefixes, `mu-` is especially frequent. It is often described as "ventive," marking motion or action directed "hither," toward the speaker, and it commonly appears in clauses describing a concrete, completed event.
 
+<p class="cuneiform">𒈗𒂊   𒂍   𒈬𒆕</p>
+
 ```
 lugal-e   e2   mu-du3
 king-ERG  house VENT-he.built
 "The king built a house."
 ```
 
-In `mu-du3`, the prefix `mu-` combines with the root `du3` ("to build").
+In `mu-du3` 𒈬𒆕, the prefix `mu-` 𒈬 combines with the root `du3` 𒆕 ("to build").
 
 ## Person suffixes marking the absolutive argument (overview)
 

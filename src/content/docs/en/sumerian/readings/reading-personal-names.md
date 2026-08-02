@@ -12,18 +12,18 @@ Many Sumerian personal names are not just arbitrary sound combinations — they 
 
 ## The structure of some well-known names
 
-| Name (transliterated) | Rough breakdown | Approximate meaning |
-|---|---|---|
-| ur-`d`namma | ur ("servant of," literally "dog") + the goddess Namma | "Servant of (the goddess) Namma" |
-| gudea | gu3-de2-a ("the one called/invoked") | "The one called (by a god)" |
-| šulgi | šul ("young hero") + gi ("firm/faithful") | "The trustworthy young hero" |
-| en-ḫedu2-an-na | en ("high priestess") + ḫedu2 ("ornament") + an (the sky-god An) | "High priestess, ornament of An" |
+| Name (transliterated) | Cuneiform | Rough breakdown | Approximate meaning |
+|---|---|---|---|
+| ur-`d`namma | 𒌨𒀭𒇉 | ur ("servant of," literally "dog") + the goddess Namma | "Servant of (the goddess) Namma" |
+| gudea | 𒅗𒌤𒀀 | gu3-de2-a ("the one called/invoked") | "The one called (by a god)" |
+| šulgi | 𒂄𒄀 | šul ("young hero") + gi ("firm/faithful") | "The trustworthy young hero" |
+| en-ḫedu2-an-na | 𒂗𒃶𒌌𒀭𒈾 | en ("high priestess") + ḫedu2 ("ornament") + an (the sky-god An) | "High priestess, ornament of An" |
 
 These breakdowns reflect standard modern scholarly etymologies, though details of Sumerian name interpretation remain debated in places — treat them as the accepted approximate sense rather than an exact, uncontested translation.
 
 ## The element ur-
 
-Names beginning with `ur-` (`ur-dnamma`, `ur-dnanše`, and many others) are extremely common. `ur` literally means "dog," but within personal names it is generally understood as a figurative expression meaning "servant of" or "devotee of."
+Names beginning with `ur-` 𒌨 (`ur-dnamma` 𒌨𒀭𒇉, `ur-dnanše` 𒌨𒀭𒀏, and many others) are extremely common. `ur` literally means "dog," but within personal names it is generally understood as a figurative expression meaning "servant of" or "devotee of."
 
 ## Why start reading with names?
 

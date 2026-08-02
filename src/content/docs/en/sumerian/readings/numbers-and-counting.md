@@ -28,18 +28,18 @@ In other words, each power of 60 reused the same basic shapes as 1 and 10, disti
 
 Separate from the numeral signs, Sumerian also has spoken number words.
 
-| Number | Sumerian |
-|---|---|
-| 1 | diš (aš) |
-| 2 | min |
-| 3 | eš5 |
-| 4 | limmu |
-| 5 | ia2 |
-| 6 | aš3 |
-| 7 | imin |
-| 8 | ussu |
-| 9 | ilimmu |
-| 10 | u |
+| Number | Sumerian | Cuneiform |
+|---|---|---|
+| 1 | diš (aš) | 𒁹 |
+| 2 | min | 𒈫 |
+| 3 | eš5 | 𒐈 |
+| 4 | limmu | 𒐉 |
+| 5 | ia2 | 𒐊 |
+| 6 | aš3 | 𒐋 |
+| 7 | imin | 𒐌 |
+| 8 | ussu | 𒐍 |
+| 9 | ilimmu | 𒑆 |
+| 10 | u | 𒌋 |
 
 These number words underlie the constant quantity expressions found in administrative and economic texts — "N sheep," "N tablets," and so on.
 

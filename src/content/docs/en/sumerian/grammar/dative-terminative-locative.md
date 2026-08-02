@@ -10,6 +10,8 @@ sidebar:
 
 The dative suffix `-ra` marks the recipient or beneficiary of an action. It attaches mainly to animate nouns — humans and gods.
 
+<p class="cuneiform">𒈗𒊏   𒂍   𒈬𒈾𒆕</p>
+
 ```
 lugal-ra   e2   mu-na-du3
 king-DAT   house he-built-for.him
@@ -19,6 +21,8 @@ king-DAT   house he-built-for.him
 ## Locative -a: location
 
 The locative suffix `-a` marks "at/in" a location. It attaches mainly to inanimate nouns such as buildings or land.
+
+<p class="cuneiform">𒂍𒀀</p>
 
 ```
 e2-a
@@ -30,6 +34,8 @@ house-LOC
 
 The terminative suffix `-še3` marks a goal ("to/toward") or a purpose ("for the sake of").
 
+<p class="cuneiform">𒌷𒂠</p>
+
 ```
 uru-še3
 city-TERM
@@ -39,6 +45,8 @@ city-TERM
 ## Ablative-instrumental -ta: source or means
 
 `-ta` marks a spatial or temporal source ("from") or an instrument/means ("by means of").
+
+<p class="cuneiform">𒆳𒋫</p>
 
 ```
 kur-ta
@@ -50,6 +58,8 @@ mountain/foreign.land-ABL
 
 `-da` marks accompaniment, "together with."
 
+<p class="cuneiform">𒁮𒀀𒉌𒁕</p>
+
 ```
 dam-a-ni-da
 wife-his-COM
@@ -58,13 +68,13 @@ wife-his-COM
 
 ## Summary table
 
-| Case | Suffix | Core meaning |
-|---|---|---|
-| Dative | `-ra` | for/to (recipient) |
-| Locative | `-a` | at/in (location) |
-| Terminative | `-še3` | to/until, for the sake of (goal/purpose) |
-| Ablative-instrumental | `-ta` | from, by means of |
-| Comitative | `-da` | together with |
+| Case | Suffix | Cuneiform | Core meaning |
+|---|---|---|---|
+| Dative | `-ra` | 𒊏 | for/to (recipient) |
+| Locative | `-a` | 𒀀 | at/in (location) |
+| Terminative | `-še3` | 𒂠 | to/until, for the sake of (goal/purpose) |
+| Ablative-instrumental | `-ta` | 𒋫 | from, by means of |
+| Comitative | `-da` | 𒁕 | together with |
 
 <div class="plc-column">
   <img class="plc-avatar" src="/images/characters/sumerian/boy-f02.png" alt="En" />

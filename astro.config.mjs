@@ -49,6 +49,27 @@ export default defineConfig({
           ],
         },
         {
+          label: 'アッカド語',
+          translations: { en: 'Akkadian' },
+          items: [
+            {
+              label: '文字と音韻',
+              translations: { en: 'Script & Phonology' },
+              items: [{ autogenerate: { directory: 'akkadian/script-and-phonology' } }],
+            },
+            {
+              label: '基礎文法',
+              translations: { en: 'Basic Grammar' },
+              items: [{ autogenerate: { directory: 'akkadian/grammar' } }],
+            },
+            {
+              label: '読解・例文',
+              translations: { en: 'Readings & Examples' },
+              items: [{ autogenerate: { directory: 'akkadian/readings' } }],
+            },
+          ],
+        },
+        {
           label: 'サンスクリット語',
           translations: { en: 'Sanskrit' },
           items: [
